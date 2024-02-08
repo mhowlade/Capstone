@@ -1,3 +1,9 @@
+# Products insert example [Atlas]
+f8a3ad328e73f11fb8fa"},"name":"name","desc":"desc","price":{"$numberDouble":"NaN"},"stock":"","released":"","category":{"$oid":"65c4f998bd7d3dd51868b0c6"},"images":[""]}
+
+
+
+
 Collections:
 
 Products:
