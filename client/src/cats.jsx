@@ -1,7 +1,7 @@
 function Cats() {
   return (
     <>
-      <h1> Page</h1>
+      <h1> Cat Page</h1>
     </>
   );
 }
