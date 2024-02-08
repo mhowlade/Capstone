@@ -1,9 +1,11 @@
 import CartButton from "./cartbutton";
+import "./aquatic.css"
 
 function Aquatic(props) {
 
   return (
     <>
+    <div className='aquaticpage'>
       <h1>Aquatic Page</h1>
       <section id="aquatics">
         <h4>Finding your Nemo</h4>
@@ -21,6 +23,7 @@ function Aquatic(props) {
         ))}
       </section>
       <CartButton />
+    </div>
     </>
   );
 }

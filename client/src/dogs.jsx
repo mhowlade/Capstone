@@ -6,6 +6,7 @@ function Dogs(props) {
   console.log('dog page', props.products)
   return (
     <>
+    <div className="dogpage">
       <h1>Dogs Page</h1>
       <section id="dogs">
         <h4>Woof Ryders</h4>
@@ -23,6 +24,7 @@ function Dogs(props) {
         ))}
       </section>
       <CartButton />
+    </div>
     </>
   );
 }

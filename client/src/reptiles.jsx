@@ -1,8 +1,10 @@
 import CartButton from "./cartbutton";
+import "./reptiles.css";
 
 function Reptiles(props) {
   return (
     <>
+    <div className='reptilespage'>
       <h1>Reptiles Page</h1>
       <section id="reptiles">
         <h4>We hate Jafer too</h4>
@@ -20,6 +22,7 @@ function Reptiles(props) {
         ))}
       </section>
       <CartButton />
+    </div>
     </>
   );
 }

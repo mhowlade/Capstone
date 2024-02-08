@@ -3,8 +3,8 @@ import "./home.css"
 function Home(props) {
   return (
     <>
+    <div className='homepage'>
       <h1>Byte Bosses Pet Store</h1>
-
       <section>
         <h3>Popular items</h3>
       </section>
@@ -17,6 +17,7 @@ function Home(props) {
         ))}
         </ul>
       </section>
+    </div>
     </>
   );
 }

@@ -5,6 +5,7 @@ function Cats(props) {
   console.log('cat page products props', props.products);
   return (
     <>
+    <div className="catpage">
       <h1> Cat Page</h1>
       <section id="cats">
         <h4>Cuddly Kitties</h4>
@@ -22,6 +23,7 @@ function Cats(props) {
         ))}
       </section>
       <CartButton />
+    </div>
     </>
   );
 }
