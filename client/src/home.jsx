@@ -1,16 +1,18 @@
-
-
-function Home(props) {
-    return(
-        <>
-        <h1>All Starwars characters</h1>
-        <section id="charactersList">
+function Home() {
+  return (
+    <>
+      <h1>Byte Bosses Pet Store</h1>
+      <p>categories</p>
+      <p>products</p>
+      <section>
+        <h3>Popular items</h3>
+      </section>
+      {/* <section id="charactersList">
             {props.characters?.map((el, index) => (
                 <div><a href={"/characters/"+el.id}>{el.name}</a></div>
             ))};
-        </section>     
-        </>
-    )
-    
+        </section>      */}
+    </>
+  );
 }
 export default Home;
