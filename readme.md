@@ -1,3 +1,7 @@
+# Backlog
+- add try catch to api functions (crash on false route)
+
+
 # Project outline
 
 ## SERVER
