@@ -34,7 +34,6 @@ function App() {
 
   return (
     <>
-      <div>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home categories={categories} />}></Route>
@@ -44,7 +43,6 @@ function App() {
           <Route path="/aquatic" element={<Aquatic products={products} />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
         </Routes>
-      </div>
     </>
   );
 }
