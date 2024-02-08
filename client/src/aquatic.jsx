@@ -1,7 +1,5 @@
 function Aquatic() {
-    return(
-        <h1>Aquatic Page</h1>
-    );
+  return <h1>Aquatic Page</h1>;
 }
 
-export default Aquatic
+export default Aquatic;
