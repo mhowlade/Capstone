@@ -8,14 +8,14 @@ function Home(props) {
       <section>
         <h3>Popular items</h3>
       </section>
+      <hr />
       <section id="categories">
         <h4>All Items</h4>
-        {props.categories?.map((el, index) => (
-          <div>
-            <a href={"/" + el.name}>{el.name}</a>
-            <p>{el.image_url}</p>
-          </div>
+        <ul>
+        {props.categories?.map((el, index) => (           
+            <><a href={"/" + el.name}>{el.name}</a><p>{el.image_url}</p></>
         ))}
+        </ul>
       </section>
     </>
   );
