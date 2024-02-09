@@ -1,5 +1,20 @@
+.homepage {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("C:/Users/wasadmin/Desktop/Git/Capstone/360_F_282281016_H1uPO6dYx5AsYLTHW5fRyDhSI2xnaYPh.jpg");
+  background-size: cover;
+  text-align: center;
+}
 
-body {
-    background-image: url("C:/Users/wasadmin/Desktop/Git/Capstone/360_F_282281016_H1uPO6dYx5AsYLTHW5fRyDhSI2xnaYPh.jpg") ;
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
 
+a {
+  text-decoration: none;
+  font-size: 1.25rem;
+  justify-content: space-between;
+  color: black;
 }
