@@ -45,7 +45,7 @@ app.get("/api/categories", (req, res) => {
         })
 });
 app.get("/api/products/:oid", (req, res) => {
-    dao.getCategories(
+    dao.findProductById(
         (oid) => {
             if (!oid) {
                 res.status(404).end();
