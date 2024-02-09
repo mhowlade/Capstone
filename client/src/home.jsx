@@ -4,7 +4,7 @@ function Home(props) {
   return (
     <>
     <div className='homepage'>
-      <h1>Byte Bosses Pet Store</h1>
+      <h1>Binary Bosses Pet Store</h1>
       <section>
         <h3>Popular items</h3>
       </section>
