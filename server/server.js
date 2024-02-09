@@ -44,7 +44,16 @@ app.get("/api/categories", (req, res) => {
             }
         })
 });
-
+app.get("/api/products/:oid", (req, res) => {
+    dao.getCategories(
+        (oid) => {
+            if (!oid) {
+                res.status(404).end();
+            } else {
+                res.send(oid);
+            }
+        })
+});
 app.get("/api/categories/:catid/products", (req, res) => {
     dao.findProductsByCategory(req.params.catid,
         (data) => {
@@ -58,6 +67,17 @@ app.get("/api/categories/:catid/products", (req, res) => {
 });
 app.get("/api/animals/:animal/products", (req, res) => {
     dao.findProductsByAnimal(req.params.animal,
+        (data) => {
+            if (!data) {
+                res.status(404).end();
+            } else {
+                res.send(data);
+            }
+        }
+    )
+});
+app.get("/api/recommend/:oid/:count", (req, res) => {
+    dao.findRecommendedProducts(req.params.oid,req.params.count,
         (data) => {
             if (!data) {
                 res.status(404).end();

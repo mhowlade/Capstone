@@ -1,0 +1,1001 @@
+_id,name,animal,released,age,desc,size,personality,price,sold,popularity,category_id,images
+65c65afd9d77f1ff7a9831a1,James,cat,2023-03-19 11:53:18.253,10,"Independent, mischievous fluffball",Tiny,Flexible,17342,false,1011,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9831a2,Audrey,fish,2023-06-13 11:53:18.686,14,"Soft, quiet cuddlebug",Micro,Intellectual,27893,false,1813,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a9831a3,Mary,fish,2024-01-03 11:53:19.075,0,Waddling ball of sunshine,Tiny,Precise,29481,false,1094,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9831a4,Jose,cat,2023-04-08 11:53:19.442,2,"Soft, quiet cuddlebug",Large,Efficient,20797,false,442,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a9831a5,Daniel,bird,2022-11-11 11:53:19.932,11,"Playful, feathery chatterbox",Micro,Individualistic,16883,false,658,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9831a6,Maude,bird,2023-06-25 11:53:20.453,8,Adventurous outdoor pal,Ginormous,Assertive,17303,false,609,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a9831a7,Elaine,cat,2023-12-10 11:53:20.841,4,"Independent, feathery acrobat",Medium,Loyal,19174,false,975,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a9831a8,Carl,dog,2023-07-31 11:53:21.123,7,Feathered dust bunny creator,Ginormous,Selfless,13269,false,741,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a9831a9,Harry,fish,2023-09-15 11:53:21.513,13,Scales in unexpected places,Ginormous,Zestful,24024,false,1268,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9831aa,Amanda,dog,2023-10-11 11:53:21.946,10,"Energetic, bark-happy comedian",Small,Unique,628,false,151,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9831ab,Shannon,cat,2023-01-06 11:53:22.408,10,"Playful, feathery kleptomaniac",Small,Humorous,26375,false,1486,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9831ac,Mary,bird,2023-07-10 11:53:22.776,9,"Playful, destructive gremlin",Tiny,Empathetic,16088,false,86,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a9831ad,Manuel,bird,2024-01-12 11:53:23.171,13,"Soft, purring heat source",Medium,Easygoing,2254,true,1798,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a9831ae,Alma,dog,2023-03-15 11:53:23.410,10,"Playful, aquatic explorer",Small,Diplomatic,23231,false,1271,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a9831af,Irene,bird,2024-01-28 11:53:23.782,9,Happy tail wagger,Tiny,Warm,8524,false,1452,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a9831b0,Kenneth,cat,2023-09-20 11:53:24.021,9,Energetic barking alarm,Small,Responsible,6680,true,234,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/21.png
+65c65afd9d77f1ff7a9831b1,Emily,bird,2023-07-26 11:53:24.372,13,Shedding purring machine,Medium,Balanced,18999,false,387,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a9831b2,Karen,dog,2022-10-15 11:53:24.571,12,"Nocturnal, chirping serenade",Tiny,Respectful,20138,false,469,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a9831b3,Edward,cat,2023-07-11 11:53:24.964,9,"Soft, curious companion",Micro,Adventurous,19516,false,651,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a9831b4,Charles,dog,2023-02-18 11:53:25.337,6,Purring symphony composer,Ginormous,Amiable,26592,false,210,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9831b5,William,bird,2022-09-30 11:53:25.782,10,"Playful, aquatic explorer",Ginormous,Confident,24569,true,111,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9831b6,Mark,cat,2023-07-22 11:53:26.140,5,"Curious, whiskered investigator",Small,Caring,22231,false,1248,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a9831b7,Timothy,fish,2023-07-14 11:53:26.503,8,Independent cuddle monster,Tiny,Flexible,24371,false,623,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a9831b8,Georgette,cat,2023-12-24 11:53:26.885,15,"Graceful, silent swimmer",Medium,Resourceful,3237,false,632,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9831b9,Ruth,cat,2022-10-23 11:53:27.092,14,"Nocturnal, chirping serenade",Medium,Warm,27682,true,1833,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/5.png
+65c65afd9d77f1ff7a9831ba,Cindy,dog,2023-09-03 11:53:27.444,0,"Chatty, opinionated alarm clock",Micro,Efficient,12603,false,1871,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a9831bb,Elisabeth,dog,2023-10-03 11:53:27.801,0,Energetic cuddle buddy,Ginormous,Visionary,27192,false,1782,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9831bc,Wayne,cat,2022-10-25 11:53:28.162,2,Purring symphony composer,Ginormous,Articulate,6133,true,1358,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9831bd,Charity,dog,2023-02-16 11:53:28.594,1,"Energetic, tail-wagging whirlwind",Tiny,Conscientious,1852,false,1452,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a9831be,Albert,cat,2023-04-25 11:53:28.963,8,Purring dust bunny magnet,Micro,Individualistic,1908,true,185,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9831bf,Victoria,cat,2022-12-17 11:53:29.343,7,"Sleepy, snoring cuddle monster",Tiny,Intellectual,6559,false,1337,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a9831c0,Marguerite,bird,2023-11-24 11:53:29.738,0,"Soft, slobbery companion",Small,Bold,7031,false,1887,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9831c1,Juanita,cat,2023-09-16 11:53:30.095,6,"Soft, purring heat source",Tiny,Introspective,9758,false,1271,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/5.png
+65c65afd9d77f1ff7a9831c2,Tiffany,fish,2023-06-15 11:53:30.320,11,"Chatty, opinionated alarm clock",Ginormous,Caring,18531,false,349,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a9831c3,Tracy,bird,2024-01-07 11:53:30.693,14,Playful water enthusiast,Ginormous,Precise,15495,true,339,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9831c4,Kevin,fish,2023-07-26 11:53:31.067,8,"Busy, burrowing resident",Small,Charming,23936,false,351,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9831c5,Lucinda,fish,2023-08-13 11:53:31.445,2,Purring stress reliever,Micro,Balanced,12033,false,1770,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9831c6,Chadwick,bird,2023-01-15 11:53:31.825,14,"Soft, silent companion",Tiny,Strong,10901,false,901,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a9831c7,Ricky,fish,2023-09-20 11:53:32.185,15,Clumsy fur tornado,Tiny,Caring,29550,true,600,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9831c8,Art,fish,2023-11-24 11:53:32.536,15,"Soft, silent companion",Ginormous,Zestful,7400,false,75,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a9831c9,Daniel,bird,2023-06-07 11:53:32.935,8,"Soft, silent companion",Large,Quick-witted,21331,false,467,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9831ca,Mary,dog,2023-08-13 11:53:33.327,6,Quiet aquarium resident,Large,Reliable,23075,false,258,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9831cb,Martha,dog,2023-01-13 11:53:33.710,13,"Energetic, tail-wagging whirlwind",Large,Energetic,21833,true,227,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9831cc,Joann,bird,2022-10-27 11:53:34.132,15,"Independent, mischievous fluffball",Large,Bold,17208,false,403,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9831cd,Daniella,cat,2024-02-07 11:53:34.541,5,Purring stress reliever,Micro,Sociable,23094,false,531,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a9831ce,Victoria,dog,2024-01-09 11:53:34.895,2,"Busy, burrowing resident",Micro,Peace-loving,11638,false,428,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9831cf,Lee,bird,2023-05-21 11:53:35.100,8,"Soft, quiet cuddlebug",Medium,Zestful,1772,false,1,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a9831d0,Donnie,fish,2023-07-09 11:53:35.462,12,Independent house guest,Large,Trustworthy,1084,false,202,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9831d1,Edward,fish,2022-09-29 11:53:35.834,1,"Chatty, opinionated alarm clock",Micro,Precise,9606,false,1464,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9831d2,Regina,cat,2023-08-05 11:53:36.363,7,Aloof feathered observer,Micro,Charming,11737,true,688,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a9831d3,Richard,fish,2023-04-17 11:53:36.722,12,Purring dust bunny magnet,Tiny,Friendly,3594,false,1866,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a9831d4,Ronda,bird,2022-10-11 11:53:37.094,2,Independent cuddle monster,Micro,Loving,6786,false,1979,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a9831d5,Margaret,bird,2023-02-26 11:53:37.519,3,Messy feathered comedian,Micro,Adventurous,4193,false,809,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a9831d6,Virginia,dog,2023-11-02 11:53:37.905,12,"Busy, burrowing resident",Large,Quick-witted,19256,false,8,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a9831d7,Lance,cat,2022-12-20 11:53:38.342,3,Energetic barking alarm,Micro,Energetic,23937,false,1972,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a9831d8,Marilyn,dog,2023-03-11 11:53:38.540,8,"Independent, feathery acrobat",Tiny,Problem-solver,29869,true,1686,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a9831d9,Emma,dog,2023-07-26 11:53:38.920,3,"Curious, whiskered investigator",Ginormous,Conscientious,20902,false,619,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a9831da,Maria,cat,2023-10-01 11:53:39.361,10,"Busy, burrowing resident",Large,Precise,28139,true,228,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/4.png
+65c65afd9d77f1ff7a9831db,Anthony,cat,2023-11-18 11:53:39.565,8,Purring dust bunny magnet,Micro,Amiable,2240,false,165,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a9831dc,Barbara,cat,2023-10-30 11:53:39.932,1,Loyal furball friend,Micro,Collaborative,27795,false,732,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9831dd,Brian,bird,2023-11-30 11:53:40.321,2,"Soft, slobbery companion",Small,Loving,4202,true,821,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a9831de,Roy,cat,2023-02-06 11:53:40.512,0,Happy tail wagger,Micro,Methodical,12318,false,1908,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9831df,Guy,bird,2023-04-19 11:53:40.728,10,"Playful, destructive gremlin",Small,Persuasive,8556,true,1816,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a9831e0,Barbara,fish,2023-05-17 11:53:40.921,13,Adventurous outdoor pal,Tiny,Assertive,28603,true,982,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a9831e1,Debra,bird,2023-07-09 11:53:41.302,12,Purring symphony composer,Small,Intuitive,12786,false,1307,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9831e2,Peggy,cat,2023-12-13 11:53:41.698,2,"Soft, silent companion",Tiny,Quick-witted,816,false,1281,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a9831e3,Courtney,fish,2023-03-13 11:53:41.898,4,"Curious, whiskered investigator",Micro,Frank,9219,false,664,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9831e4,Thomas,cat,2022-10-03 11:53:42.259,12,"Curious, whiskered investigator",Tiny,Persuasive,11724,false,126,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a9831e5,Edna,bird,2023-06-21 11:53:42.604,3,Trustworthy sidekick,Small,Assertive,25575,false,197,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9831e6,Tony,fish,2023-10-20 11:53:42.795,7,"Quiet, shelled observer",Tiny,Motivated,11021,false,1013,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9831e7,Lola,cat,2023-04-06 11:53:43.199,5,"Independent, feathery acrobat",Ginormous,Mature,25138,false,1561,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a9831e8,Cindy,bird,2023-09-23 11:53:43.388,4,Independent cuddle monster,Large,Curious,891,false,448,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a9831e9,George,bird,2024-01-23 11:53:43.659,2,Adventurous outdoor pal,Medium,Sociable,13590,false,142,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a9831ea,Philip,bird,2023-02-05 11:53:44.041,2,"Soft, quiet cuddlebug",Large,Patient,1880,false,1231,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a9831eb,Juan,fish,2024-01-14 11:53:44.410,0,"Busy, burrowing resident",Small,Introspective,8359,false,1757,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a9831ec,Tammy,fish,2024-01-11 11:53:44.625,5,Fin-tastic underwater dancer,Large,Charming,29443,true,1047,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9831ed,Janice,bird,2023-02-28 11:53:44.985,13,"Independent, mischievous floof",Large,Articulate,18963,false,353,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a9831ee,Stacie,bird,2022-10-03 11:53:45.398,14,Purring stress reliever,Medium,Leader,26583,false,1124,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a9831ef,Joshua,cat,2023-10-02 11:53:45.781,13,"Energetic, bark-happy comedian",Large,Resourceful,15500,false,333,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a9831f0,Ada,fish,2022-10-17 11:53:46.141,14,"Playful, destructive gremlin",Micro,Patient,9115,false,602,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9831f1,Kevin,cat,2023-07-07 11:53:46.361,6,"Soft, purring heat source",Micro,Affectionate,29950,false,60,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a9831f2,Joyce,cat,2023-03-03 11:53:46.572,0,Purring symphony composer,Small,Determined,5788,false,1286,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a9831f3,Joe,dog,2023-07-22 11:53:46.837,13,"Aloof, feathered watcher",Small,Kind,6354,true,1522,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9831f4,Tiffany,cat,2022-12-17 11:53:47.197,5,Feathered dust bunny creator,Ginormous,Resourceful,16139,false,1385,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a9831f5,Sarah,bird,2023-01-01 11:53:47.407,9,Loyal furball friend,Small,Funny,27759,false,262,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9831f6,Johnny,cat,2022-12-07 11:53:47.762,1,"Vocal, opinionated friend",Micro,Energetic,8877,true,1328,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a9831f7,Jason,fish,2022-11-21 11:53:48.178,10,"Playful, destructive gremlin",Micro,Original,21313,false,1445,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a9831f8,Maria,dog,2023-03-13 11:53:48.552,9,Clumsy fur tornado,Small,Honest,1575,false,1228,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9831f9,Jocelyn,dog,2023-07-30 11:53:48.794,13,Purring symphony composer,Medium,Respectful,28432,false,1406,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a9831fa,Marc,bird,2023-07-31 11:53:49.193,7,Fin-tastic underwater dancer,Small,Flexible,5612,false,923,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9831fb,Daniel,fish,2023-10-14 11:53:49.571,4,Curious feathered friend,Large,Bold,3432,false,143,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a9831fc,Ralph,bird,2023-01-13 11:53:49.943,15,"Cheeky, feathered acrobat",Medium,Articulate,23077,false,1384,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a9831fd,Jamie,cat,2023-07-01 11:53:50.289,2,Waddling ball of sunshine,Small,Resourceful,20706,false,514,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a9831fe,Ryan,dog,2022-11-09 11:53:50.664,5,Curious feathered friend,Small,Collaborative,19401,false,838,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9831ff,Shannon,fish,2022-12-24 11:53:50.899,1,"Tiny, destructive hurricane",Small,Frank,15715,true,556,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983200,Ira,bird,2022-11-20 11:53:51.274,7,Adventurous outdoor pal,Large,Leader,29920,false,1838,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983201,Ida,cat,2022-10-30 11:53:51.631,4,Affectionate lap warmer,Small,Bold,19849,false,1287,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983202,Lorna,cat,2024-01-14 11:53:52.023,4,Sunbeam-loving fluffball,Micro,Kind,7129,false,1247,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a983203,Joseph,dog,2023-11-18 11:53:52.228,1,"Trusty, shadow-like companion",Medium,Dependable,29211,false,1383,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a983204,Amy,cat,2022-11-09 11:53:52.434,5,"Playful, aquatic explorer",Large,Humorous,6197,false,1993,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983205,Paul,bird,2023-10-25 11:53:52.810,14,Aloof feathered observer,Tiny,Introspective,10516,false,804,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983206,Erica,dog,2023-04-11 11:53:52.997,7,"Busy, burrowing resident",Micro,Dependable,4145,false,1201,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/15.png
+65c65afd9d77f1ff7a983207,Glenna,fish,2023-12-09 11:53:53.188,3,Independent house guest,Large,Gentle,27295,false,1582,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983208,Edward,dog,2023-06-28 11:53:53.586,2,"Playful, feathery chatterbox",Medium,Honest,28817,false,1950,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983209,David,bird,2022-11-05 11:53:53.790,14,Energetic cuddle buddy,Ginormous,Honest,19340,false,1709,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a98320a,John,dog,2023-07-18 11:53:53.996,15,Curious feathered friend,Tiny,Friendly,25487,true,997,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a98320b,Mavis,cat,2023-12-29 11:53:54.269,13,Nocturnal cuddle buddy,Ginormous,Gentle,4980,false,314,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a98320c,Ralph,dog,2023-01-01 11:53:54.668,8,"Independent, feathery acrobat",Medium,Loyal,12357,false,1813,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a98320d,Annette,fish,2023-02-12 11:53:55.134,13,Clumsy fur tornado,Small,Assertive,5337,true,87,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98320e,Sharon,dog,2023-10-24 11:53:55.533,8,"Playful, aquatic explorer",Ginormous,Affectionate,13055,false,152,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a98320f,Enrique,cat,2023-02-23 11:53:55.924,10,Playful water enthusiast,Medium,Introspective,8105,true,531,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a983210,Daniel,dog,2023-07-21 11:53:56.284,3,Independent cuddle monster,Tiny,Independent,19767,true,381,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a983211,Alice,bird,2023-02-14 11:53:56.765,12,Feathered dust bunny creator,Small,Charming,13851,false,945,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983212,Roy,cat,2023-09-25 11:53:57.171,11,Loyal furball friend,Medium,Calm,5020,false,442,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a983213,James,bird,2023-05-17 11:53:57.513,8,"Independent, mischievous fluffball",Large,Collaborative,13889,false,1896,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983214,Sharon,bird,2023-12-06 11:53:57.923,15,"Aloof, feathered watcher",Ginormous,Individualistic,18848,false,1966,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983215,Nicole,cat,2023-12-10 11:53:58.303,12,Clumsy fur tornado,Large,Conscientious,21782,false,548,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a983216,Jerry,fish,2023-08-12 11:53:58.471,15,"Energetic, bark-happy comedian",Tiny,Alert,21658,false,642,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a983217,Barbra,dog,2022-12-10 11:53:58.838,5,"Loyal, watchful protector",Large,Adventurous,3237,false,1135,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983218,Sharon,bird,2022-10-02 11:53:59.196,1,"Independent, feathery acrobat",Large,Mature,27344,false,1663,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983219,Patricia,fish,2022-10-22 11:53:59.541,3,"Tiny, destructive hurricane",Micro,Respectful,20594,false,121,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a98321a,Anthony,fish,2022-10-28 11:53:59.927,14,"Curious, whiskered investigator",Large,Determined,7730,false,1950,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a98321b,Marsha,cat,2023-05-13 11:54:00.285,10,Shedding purring machine,Large,Organized,10533,false,939,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a98321c,Jonathan,cat,2023-10-27 11:54:00.513,7,Happy tail wagger,Small,Practical,25683,false,282,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a98321d,Eugene,bird,2022-12-28 11:54:00.894,7,"Nocturnal, squeaking mischief",Medium,Kind,1196,false,1882,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a98321e,James,cat,2022-12-01 11:54:01.163,1,Busy shelled housemate,Micro,Spontaneous,11866,false,1050,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a98321f,Sun,bird,2023-10-21 11:54:01.570,11,Independent cuddle monster,Small,Motivated,10292,false,1651,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a983220,Tracy,dog,2022-12-28 11:54:02.006,0,"Playful, feathery kleptomaniac",Micro,Energetic,26249,false,1013,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a983221,Kevin,dog,2023-05-13 11:54:02.378,10,"Playful, aquatic explorer",Micro,Calm,27577,true,1732,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983222,Annie,dog,2022-11-17 11:54:02.757,9,"Loyal, watchful protector",Ginormous,Self-disciplined,21819,false,256,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983223,Romeo,dog,2022-11-25 11:54:02.945,10,"Quiet, shelled observer",Micro,Charismatic,22199,false,729,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983224,Tammy,cat,2023-08-09 11:54:03.150,3,"Chatty, opinionated alarm clock",Ginormous,Charismatic,1996,false,1462,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a983225,Brandy,cat,2023-09-22 11:54:03.389,9,"Nocturnal, chirping serenade",Small,Determined,24098,false,358,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a983226,Larry,bird,2022-10-28 11:54:03.585,13,Scales in unexpected places,Micro,Level-headed,5588,false,1817,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983227,Lisa,dog,2023-11-10 11:54:03.977,6,Shedding cuddle monster,Tiny,Observant,14080,true,1858,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983228,Beau,cat,2023-04-20 11:54:04.163,3,Feathery cuddle monster,Tiny,Intuitive,28255,false,1212,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a983229,Ruth,bird,2023-02-28 11:54:04.374,1,Busy shelled housemate,Medium,Methodical,7771,false,1605,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a98322a,Estefana,dog,2023-10-14 11:54:04.795,11,Active scaly companion,Large,Cautious,22019,false,1620,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a98322b,Annie,dog,2023-06-01 11:54:05.019,7,Clumsy fur tornado,Micro,Curious,19295,false,1070,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a98322c,Barbara,fish,2023-06-13 11:54:05.220,14,"Soft, slobbery companion",Micro,Intuitive,2589,false,363,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a98322d,Betty,fish,2023-12-05 11:54:05.591,4,"Independent, nocturnal shadow",Tiny,Trustworthy,29241,false,1515,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a98322e,Theodore,dog,2024-01-10 11:54:05.771,1,"Inquisitive, feathered explorer",Ginormous,Motivated,2713,false,1559,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a98322f,Sean,bird,2022-11-08 11:54:05.973,15,"Curious, whiskered investigator",Tiny,Patient,26246,false,101,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983230,Terrence,bird,2023-04-09 11:54:06.170,2,"Busy, burrowing resident",Micro,Self-disciplined,13892,false,211,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a983231,William,bird,2023-06-09 11:54:06.521,9,"Nocturnal, squeaking mischief",Large,Introspective,3407,false,1447,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983232,Vida,dog,2023-04-28 11:54:06.904,7,"Energetic, bark-happy comedian",Micro,Observant,9031,false,270,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a983233,Martha,dog,2023-12-29 11:54:07.271,9,"Independent, mischievous fluffball",Medium,Unique,21912,false,1564,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a983234,Sonia,fish,2023-05-18 11:54:07.493,11,Curious feathered friend,Medium,Curious,13522,true,1842,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983235,Patricia,cat,2023-07-17 11:54:07.686,5,Shedding purring machine,Medium,Conscientious,26597,false,1750,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a983236,Billy,cat,2023-03-12 11:54:07.882,3,Quiet aquarium resident,Medium,Confident,19600,false,1748,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a983237,Curtis,cat,2022-10-16 11:54:08.077,6,"Nocturnal, chirping serenade",Small,Individualistic,20771,false,543,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a983238,Tamara,cat,2023-03-23 11:54:08.271,6,"Curious, whiskered investigator",Medium,Optimistic,8864,false,677,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a983239,Gary,fish,2023-08-10 11:54:08.453,4,"Independent, mischievous floof",Medium,Resourceful,18183,false,400,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98323a,Spencer,bird,2023-01-19 11:54:08.831,10,"Independent, mischievous floof",Tiny,Loyal,19298,false,787,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a98323b,Oretha,dog,2023-03-17 11:54:09.257,14,"Independent, nocturnal shadow",Tiny,Calm,13923,false,1138,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a98323c,Gloria,fish,2023-12-16 11:54:09.635,5,"Playful, feathery kleptomaniac",Tiny,Visionary,18936,false,619,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a98323d,Mitchell,dog,2023-02-11 11:54:10.015,12,Purring symphony composer,Large,Quick-witted,7313,false,799,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a98323e,Kelly,bird,2023-01-13 11:54:10.220,3,Energetic barking alarm,Large,Honest,1085,false,829,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a98323f,Susan,fish,2023-04-09 11:54:10.474,10,Purring symphony composer,Medium,Thoughtful,15319,false,692,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983240,David,fish,2023-08-11 11:54:10.698,0,"Trusty, shadow-like companion",Small,Organized,9232,false,138,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983241,Barton,dog,2023-02-07 11:54:11.101,8,"Vocal, opinionated friend",Tiny,Balanced,24296,false,621,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a983242,Juan,dog,2023-11-16 11:54:11.284,12,Active scaly companion,Small,Efficient,5366,false,1359,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983243,Lisa,dog,2023-11-04 11:54:11.624,14,Loyal furball friend,Small,Problem-solver,14276,false,31,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a983244,Pedro,bird,2023-01-08 11:54:12.014,9,Playful water enthusiast,Small,Practical,23121,true,1002,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a983245,Erica,dog,2023-10-12 11:54:12.202,14,Aloof feathered observer,Micro,Frank,10211,false,113,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a983246,Denise,dog,2022-12-25 11:54:12.409,14,"Playful, aquatic explorer",Tiny,Creative,1324,false,1242,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a983247,Kenneth,fish,2022-10-29 11:54:12.773,10,"Trusty, shadow-like companion",Large,Bold,18693,false,1554,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983248,Eileen,bird,2024-01-22 11:54:13.147,7,"Soft, quiet cuddlebug",Large,Trustworthy,25667,true,655,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a983249,Jennifer,dog,2023-03-09 11:54:13.523,2,"Playful, feathery chatterbox",Ginormous,Unique,27740,false,1723,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a98324a,Wanda,dog,2023-01-15 11:54:13.925,4,Sunbeam-loving fluffball,Large,Intuitive,24256,false,418,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a98324b,Nell,fish,2023-10-03 11:54:14.239,4,Sunbeam-loving fluffball,Micro,Confident,18813,false,798,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98324c,Richard,fish,2022-11-15 11:54:14.590,8,Trustworthy sidekick,Micro,Funny,20793,false,518,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98324d,Ryan,bird,2023-06-25 11:54:14.813,13,"Playful, feathery chatterbox",Ginormous,Strong,7528,false,1851,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a98324e,Stanley,cat,2023-11-20 11:54:15.174,9,Energetic barking alarm,Small,Honest,15030,false,587,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a98324f,Steven,fish,2023-12-16 11:54:15.544,4,Affectionate lap warmer,Ginormous,Original,25247,true,198,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a983250,Jacqueline,bird,2023-07-17 11:54:15.935,6,Curious feathered friend,Small,Amiable,22798,false,543,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a983251,Susan,cat,2023-09-26 11:54:16.136,0,"Graceful, silent swimmer",Ginormous,Enthusiastic,7434,false,172,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a983252,Alan,dog,2023-01-08 11:54:16.335,8,Loyal furball friend,Medium,Collaborative,14131,false,305,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983253,Brandon,fish,2024-01-02 11:54:16.542,6,Aloof feathered observer,Micro,Loving,5398,true,302,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a983254,Sheila,bird,2023-10-09 11:54:16.740,6,"Aloof, feathered watcher",Large,Resourceful,25803,false,347,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a983255,Jane,dog,2023-01-03 11:54:16.948,5,"Quiet, shelled observer",Large,Organized,6387,false,933,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a983256,Linda,bird,2023-02-16 11:54:17.127,8,"Playful, aquatic explorer",Tiny,Confident,3603,false,1187,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a983257,John,fish,2023-01-13 11:54:17.345,6,"Independent, nocturnal shadow",Micro,Individualistic,10793,false,451,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983258,Robin,dog,2023-07-21 11:54:17.587,6,Energetic cuddle buddy,Medium,Unique,6290,false,237,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983259,Quinton,bird,2023-04-11 11:54:17.958,14,"Soft, purring heat source",Medium,Frank,28060,false,740,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a98325a,Samuel,bird,2023-05-14 11:54:18.143,15,"Tiny, destructive hurricane",Medium,Caring,5481,false,1349,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a98325b,Consuelo,cat,2024-01-24 11:54:18.425,11,"Aloof, feathered watcher",Micro,Efficient,10379,false,257,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a98325c,Justin,dog,2023-05-08 11:54:18.785,5,Clumsy fur tornado,Small,Assertive,15756,false,1246,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a98325d,Jamie,cat,2023-06-17 11:54:18.988,2,Shedding purring machine,Micro,Amiable,26246,false,896,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a98325e,Ruth,bird,2023-06-25 11:54:19.171,7,"Playful, feathery chatterbox",Large,Witty,26312,false,1404,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a98325f,Rebecca,bird,2023-09-28 11:54:19.550,1,Energetic cuddle buddy,Small,Friendly,2139,false,1944,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a983260,Esteban,dog,2023-01-23 11:54:19.806,3,"Independent, mischievous floof",Tiny,Affectionate,8160,false,1412,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983261,John,fish,2023-05-06 11:54:20.041,4,Adventurous outdoor pal,Tiny,Sincere,15475,false,201,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a983262,Edward,cat,2023-05-30 11:54:20.230,6,"Loyal, watchful protector",Small,Warm,6150,true,1944,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a983263,Carolyn,cat,2023-08-08 11:54:20.487,11,"Independent, nocturnal shadow",Tiny,Caring,5370,false,1725,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a983264,Daniel,cat,2023-04-19 11:54:20.872,0,"Soft, slobbery companion",Large,Cautious,22021,false,747,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a983265,Judy,dog,2023-02-08 11:54:21.047,0,"Independent, mischievous fluffball",Medium,Flexible,7871,false,730,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983266,Donald,bird,2023-02-25 11:54:21.235,14,"Busy, burrowing resident",Large,Collaborative,23717,true,185,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a983267,Carol,cat,2023-08-25 11:54:21.444,12,Curious feathered friend,Large,Original,25751,false,1028,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a983268,Bryan,cat,2023-02-27 11:54:21.844,0,Playful water enthusiast,Medium,Motivated,29255,false,172,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a983269,Joan,dog,2022-11-04 11:54:22.037,1,Fin-tastic underwater dancer,Small,Sociable,11233,false,311,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/15.png
+65c65afd9d77f1ff7a98326a,Jose,cat,2023-05-29 11:54:22.390,3,Trustworthy sidekick,Large,Bold,27605,false,71,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a98326b,Cindy,cat,2024-01-13 11:54:22.798,7,"Aloof, feathered watcher",Medium,Frank,12432,false,273,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/2.png
+65c65afd9d77f1ff7a98326c,James,cat,2023-02-11 11:54:23.192,14,"Nocturnal, chirping serenade",Medium,Caring,4571,false,1544,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a98326d,William,fish,2023-01-03 11:54:23.434,13,"Sleepy, snoring cuddle monster",Tiny,Trustworthy,21279,false,353,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98326e,Robert,dog,2023-02-04 11:54:23.801,14,Shedding cuddle monster,Ginormous,Original,22892,false,882,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a98326f,Tammy,bird,2022-10-27 11:54:24.163,4,Clumsy fur tornado,Tiny,Confident,11212,false,1790,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a983270,Julia,bird,2023-12-10 11:54:24.413,4,"Chatty, opinionated alarm clock",Large,Mature,12304,false,1301,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a983271,Flavia,bird,2022-10-08 11:54:24.824,2,"Playful, aquatic explorer",Tiny,Responsible,26592,false,171,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983272,Kirk,fish,2023-11-23 11:54:25.243,9,Aloof feathered observer,Large,Spontaneous,27066,false,360,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983273,Jeff,bird,2023-05-31 11:54:25.463,10,"Chatty, opinionated alarm clock",Ginormous,Introspective,22685,false,388,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983274,Barbara,cat,2023-04-10 11:54:25.636,13,"Soft, silent companion",Tiny,Charismatic,27433,false,724,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983275,Joe,fish,2023-08-28 11:54:25.870,8,"Playful, feathery chatterbox",Medium,Problem-solver,1330,false,327,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a983276,Madaline,bird,2023-05-11 11:54:26.233,9,Shedding cuddle monster,Micro,Efficient,27626,false,1780,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a983277,Rebeca,dog,2023-08-03 11:54:26.568,0,Loyal furball friend,Tiny,Articulate,24418,true,1284,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983278,John,fish,2023-09-09 11:54:26.983,8,"Graceful, silent swimmer",Medium,Observant,21447,false,1002,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a983279,Chris,cat,2023-08-03 11:54:27.173,10,"Busy, burrowing resident",Large,Adventurous,18936,false,1111,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a98327a,William,dog,2022-12-03 11:54:27.366,15,Scales in unexpected places,Micro,Caring,161,false,890,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a98327b,Mary,fish,2023-01-16 11:54:27.573,11,"Independent, nocturnal shadow",Tiny,Assertive,29375,false,613,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a98327c,Robert,cat,2023-03-22 11:54:27.766,1,Nocturnal cuddle buddy,Large,Assertive,23892,false,1036,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/14.png
+65c65afd9d77f1ff7a98327d,Ronnie,bird,2023-08-15 11:54:27.982,10,Adventurous outdoor pal,Medium,Intellectual,4033,false,1565,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a98327e,Bobby,fish,2024-01-13 11:54:28.355,8,Shedding purring machine,Micro,Peace-loving,19206,false,68,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a98327f,Frank,dog,2022-10-23 11:54:28.560,15,"Soft, purring heat source",Micro,Determined,28380,false,65,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983280,Angel,dog,2023-10-22 11:54:28.905,13,"Loyal, watchful protector",Tiny,Conscientious,22063,false,298,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a983281,Frank,bird,2022-11-18 11:54:29.315,14,Clumsy fur tornado,Small,Loyal,13615,false,1394,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a983282,Franklin,bird,2023-01-30 11:54:29.528,15,Scales in unexpected places,Ginormous,Independent,13941,true,1932,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983283,Tammy,dog,2023-07-25 11:54:29.743,10,Energetic cuddle buddy,Ginormous,Practical,22823,false,502,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a983284,Anita,cat,2023-04-08 11:54:29.950,11,Sunbeam-loving fluffball,Large,Funny,27687,false,531,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a983285,Michael,fish,2024-01-09 11:54:30.166,0,"Busy, burrowing resident",Large,Conscientious,9325,true,567,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983286,Ethel,bird,2023-08-07 11:54:30.387,14,Independent house guest,Tiny,Gentle,3742,false,755,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983287,Scott,dog,2024-02-05 11:54:30.574,3,"Playful, destructive gremlin",Medium,Patient,18475,false,855,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a983288,Linda,fish,2024-01-09 11:54:30.991,5,Scales in unexpected places,Small,Methodical,18903,false,1724,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983289,Belinda,bird,2023-02-16 11:54:31.202,15,"Cheeky, feathered acrobat",Micro,Gentle,25651,false,825,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a98328a,Vicente,cat,2023-11-30 11:54:31.397,3,Fin-tastic underwater dancer,Small,Loyal,19279,false,1303,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/14.png
+65c65afd9d77f1ff7a98328b,Patricia,cat,2023-03-03 11:54:31.642,10,Fin-tastic underwater dancer,Small,Intellectual,24550,false,65,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/14.png
+65c65afd9d77f1ff7a98328c,Florence,bird,2023-11-09 11:54:31.877,2,"Independent, mischievous fluffball",Tiny,Funny,13068,false,517,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a98328d,Nicholas,cat,2022-11-18 11:54:32.068,5,"Soft, purring heat source",Micro,Persuasive,2473,false,1275,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/7.png
+65c65afd9d77f1ff7a98328e,Lili,cat,2023-12-12 11:54:32.291,15,"Playful, aquatic explorer",Ginormous,Zestful,25943,false,357,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a98328f,Richard,dog,2023-10-14 11:54:32.508,11,"Playful, feathery kleptomaniac",Large,Optimistic,18450,false,628,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983290,Daniel,bird,2022-11-15 11:54:32.854,0,Feathery cuddle monster,Ginormous,Creative,12415,false,1840,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983291,Judy,fish,2023-07-25 11:54:33.250,5,"Soft, slobbery companion",Medium,Flexible,17847,false,10,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983292,Eva,cat,2023-01-26 11:54:33.429,14,"Loyal, watchful protector",Ginormous,Selfless,7678,false,32,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a983293,Flora,bird,2022-10-10 11:54:33.673,4,Playful mischief maker,Tiny,Observant,9838,false,721,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a983294,William,dog,2023-09-24 11:54:33.838,14,"Soft, quiet cuddlebug",Large,Spontaneous,15259,false,563,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a983295,Jonathan,fish,2023-09-21 11:54:34.049,7,"Independent, mischievous fluffball",Micro,Playful,13347,false,1134,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983296,Joel,dog,2023-06-19 11:54:34.233,7,"Soft, purring heat source",Tiny,Selfless,12764,true,1654,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a983297,Ricky,cat,2023-01-23 11:54:34.424,6,Adventurous outdoor pal,Medium,Cautious,29563,false,1452,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983298,Eric,dog,2023-05-16 11:54:34.611,4,Loyal furball friend,Ginormous,Neat,142,false,1918,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a983299,Anita,cat,2023-03-28 11:54:34.840,8,Active scaly companion,Medium,Methodical,4939,false,949,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a98329a,Sandra,fish,2023-04-21 11:54:35.041,8,Energetic barking alarm,Micro,Gentle,24078,false,1731,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98329b,Art,fish,2023-03-19 11:54:35.229,2,"Soft, silent companion",Ginormous,Strong,7366,false,1058,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a98329c,Andrea,fish,2023-07-19 11:54:35.457,11,"Playful, feathery chatterbox",Small,Warm,8335,false,1678,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98329d,Vincent,dog,2023-02-13 11:54:35.865,15,"Nocturnal, squeaking mischief",Large,Visionary,9457,false,1332,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a98329e,Lawrence,cat,2023-08-10 11:54:36.209,12,"Sleepy, snoring cuddle monster",Large,Easygoing,28963,false,248,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a98329f,Sidney,fish,2023-09-28 11:54:36.401,4,Clumsy fur tornado,Large,Warm,15252,true,1818,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9832a0,Lisa,dog,2023-02-05 11:54:36.573,1,Shedding purring machine,Tiny,Amiable,28137,true,351,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9832a1,David,cat,2023-01-19 11:54:36.864,1,"Energetic, tail-wagging whirlwind",Micro,Strong,2972,false,1312,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a9832a2,Joshua,cat,2022-12-16 11:54:37.078,0,Busy shelled housemate,Small,Persuasive,13531,false,1793,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a9832a3,Maurice,dog,2023-05-19 11:54:37.253,8,Happy tail wagger,Ginormous,Sincere,3112,false,258,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9832a4,Lynn,cat,2023-05-17 11:54:37.462,5,Clumsy fur tornado,Small,Amiable,4829,false,464,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9832a5,Sharon,dog,2024-01-14 11:54:37.679,6,Scales in unexpected places,Medium,Assertive,26334,false,536,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9832a6,Connie,cat,2024-01-26 11:54:37.879,7,"Busy, burrowing resident",Large,Caring,6230,false,1950,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a9832a7,Alyssa,fish,2022-11-16 11:54:38.057,7,"Playful, feathery chatterbox",Tiny,Honest,27516,false,892,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9832a8,Steve,dog,2023-02-07 11:54:38.271,10,"Chatty, opinionated alarm clock",Large,Zestful,22246,false,500,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a9832a9,Samantha,bird,2023-01-02 11:54:38.463,0,Happy tail wagger,Tiny,Amiable,22794,false,464,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a9832aa,Robert,bird,2023-10-31 11:54:38.830,11,"Independent, mischievous fluffball",Tiny,Assertive,8625,false,685,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a9832ab,Julian,bird,2022-12-29 11:54:39.196,2,Fin-tastic underwater dancer,Small,Determined,4079,false,659,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a9832ac,Sarah,bird,2023-06-15 11:54:39.628,15,Energetic cuddle buddy,Small,Charming,9235,false,412,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a9832ad,Candance,dog,2023-02-22 11:54:39.987,5,Adventurous outdoor pal,Micro,Methodical,4005,false,230,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9832ae,Stanley,cat,2023-06-08 11:54:40.409,15,Feathered dust bunny creator,Large,Outgoing,9642,false,494,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a9832af,Amanda,dog,2023-08-28 11:54:40.757,6,"Busy, burrowing resident",Ginormous,Sincere,21374,false,1518,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9832b0,Chad,dog,2022-12-20 11:54:41.111,1,"Chatty, opinionated alarm clock",Large,Funny,26075,false,780,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9832b1,Linda,bird,2023-11-28 11:54:41.313,10,"Soft, purring heat source",Tiny,Neat,17221,false,1369,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/5.png
+65c65afd9d77f1ff7a9832b2,Christina,cat,2023-11-01 11:54:41.751,6,"Energetic, bark-happy comedian",Medium,Efficient,13685,false,266,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/4.png
+65c65afd9d77f1ff7a9832b3,Brigida,bird,2023-01-01 11:54:42.138,5,"Soft, curious companion",Tiny,Mature,10014,false,364,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9832b4,Patrick,cat,2022-10-07 11:54:42.332,3,"Independent, feathery acrobat",Medium,Trustworthy,5165,false,988,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a9832b5,Mary,fish,2023-07-28 11:54:42.545,1,"Trusty, shadow-like companion",Micro,Funny,27390,false,1862,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a9832b6,Jose,bird,2023-01-04 11:54:42.716,12,"Energetic, tail-wagging whirlwind",Micro,Neat,27750,true,1431,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a9832b7,Joseph,cat,2023-08-01 11:54:42.964,10,Loyal furball friend,Micro,Quick-witted,1383,false,432,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9832b8,Joyce,dog,2022-12-11 11:54:43.371,4,"Busy, burrowing resident",Ginormous,Independent,18093,false,1689,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a9832b9,Amber,cat,2024-01-30 11:54:43.739,4,Aloof feathered observer,Ginormous,Peace-loving,13082,false,1443,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a9832ba,Zachary,dog,2023-11-10 11:54:43.971,8,Trustworthy sidekick,Tiny,Empathetic,20126,true,1376,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a9832bb,John,dog,2023-01-12 11:54:44.149,3,"Chatty, opinionated alarm clock",Large,Enthusiastic,4939,false,1583,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a9832bc,Rosemary,dog,2023-06-27 11:54:44.500,8,Active scaly companion,Micro,Loyal,13502,false,1411,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9832bd,Logan,bird,2023-07-09 11:54:44.712,13,"Soft, silent companion",Ginormous,Independent,28755,false,352,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a9832be,Jasmine,cat,2023-09-23 11:54:45.128,3,"Playful, feathery kleptomaniac",Ginormous,Warm,16782,false,666,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a9832bf,Michael,bird,2022-09-30 11:54:45.322,11,"Soft, slobbery companion",Small,Determined,14653,false,1283,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a9832c0,Carol,cat,2023-08-07 11:54:45.673,6,"Nocturnal, squeaking mischief",Medium,Strong,11671,false,1285,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a9832c1,Kevin,dog,2024-01-04 11:54:45.868,11,"Soft, slobbery companion",Micro,Flexible,26431,false,1208,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a9832c2,Brooke,cat,2023-07-31 11:54:46.073,2,Nocturnal cuddle buddy,Ginormous,Outgoing,4790,false,198,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a9832c3,Sandra,fish,2023-03-30 11:54:46.296,9,"Independent, nocturnal shadow",Medium,Original,16805,false,559,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a9832c4,Ray,cat,2023-09-20 11:54:46.492,5,Waddling ball of sunshine,Micro,Unique,23543,false,1368,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/4.png
+65c65afd9d77f1ff7a9832c5,Kevin,cat,2023-08-10 11:54:46.703,9,"Energetic, tail-wagging whirlwind",Tiny,Responsible,26817,false,793,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a9832c6,Todd,fish,2023-03-16 11:54:47.089,12,Aloof feathered observer,Medium,Sociable,2535,true,572,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9832c7,Rosa,cat,2024-01-27 11:54:47.311,1,"Quiet, shelled observer",Large,Practical,21493,false,1907,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9832c8,Jenna,fish,2023-03-02 11:54:47.491,1,"Tiny, destructive hurricane",Medium,Easygoing,18833,false,1208,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9832c9,Joseph,dog,2022-09-30 11:54:47.733,14,"Energetic, bark-happy comedian",Medium,Energetic,7225,false,443,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a9832ca,Martin,cat,2022-10-15 11:54:47.927,8,"Trusty, shadow-like companion",Small,Introspective,10163,false,335,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/15.png
+65c65afd9d77f1ff7a9832cb,Virgil,dog,2023-04-08 11:54:48.296,15,Busy shelled housemate,Medium,Loving,9264,false,1664,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9832cc,Kenneth,dog,2022-11-14 11:54:48.643,13,Independent house guest,Micro,Neat,29171,false,38,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9832cd,Vincent,fish,2024-01-25 11:54:48.874,12,"Energetic, bark-happy comedian",Tiny,Compassionate,28620,false,1324,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9832ce,Ida,cat,2023-08-06 11:54:49.094,2,"Energetic, tail-wagging whirlwind",Medium,Level-headed,4081,false,1099,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a9832cf,Pauline,dog,2023-06-10 11:54:49.283,3,"Inquisitive, feathered explorer",Large,Creative,28187,false,746,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9832d0,Anthony,dog,2023-01-19 11:54:49.559,2,"Trusty, shadow-like companion",Large,Outgoing,14266,false,1379,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9832d1,Kyla,fish,2023-02-18 11:54:49.778,10,Independent cuddle monster,Large,Kind,26481,true,1349,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9832d2,Claud,bird,2023-04-07 11:54:49.976,6,Fin-tastic underwater dancer,Large,Sociable,10888,false,243,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9832d3,Nicholas,bird,2023-06-22 11:54:50.156,6,Busy shelled housemate,Large,Organized,12091,false,378,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a9832d4,Thomas,bird,2024-01-10 11:54:50.335,10,"Curious, whiskered investigator",Tiny,Curious,3559,false,588,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a9832d5,Harriet,dog,2023-09-12 11:54:50.566,7,Messy feathered comedian,Medium,Determined,17620,false,1750,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a9832d6,Barbara,dog,2023-01-28 11:54:50.808,13,"Playful, feathery chatterbox",Micro,Articulate,3318,false,1818,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a9832d7,Delphine,fish,2023-02-24 11:54:51.040,15,"Soft, curious companion",Micro,Affectionate,23463,false,384,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a9832d8,Eric,dog,2023-04-18 11:54:51.285,10,Fin-tastic underwater dancer,Large,Leader,4453,false,79,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a9832d9,Karen,dog,2023-01-24 11:54:51.493,1,"Energetic, bark-happy comedian",Tiny,Intuitive,15008,false,1480,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a9832da,Mark,cat,2022-11-24 11:54:51.894,14,Clumsy fur tornado,Micro,Flexible,2142,false,743,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9832db,Robert,fish,2022-12-27 11:54:52.068,9,Busy shelled housemate,Micro,Funny,13163,false,565,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a9832dc,Brandon,fish,2023-05-31 11:54:52.265,7,"Independent, mischievous floof",Ginormous,Leader,18337,true,1634,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a9832dd,Norman,cat,2023-01-05 11:54:52.598,0,Shedding cuddle monster,Small,Introspective,5887,false,1381,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a9832de,Greg,fish,2023-11-08 11:54:52.819,2,Active scaly companion,Micro,Original,29254,false,1425,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9832df,Daniel,dog,2023-01-24 11:54:53.042,6,"Cheeky, feathered acrobat",Micro,Warm,13356,false,623,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9832e0,Gregory,fish,2023-11-29 11:54:53.292,11,"Inquisitive, feathered explorer",Large,Zestful,23487,false,1632,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9832e1,Jennifer,dog,2023-10-18 11:54:53.491,8,"Loyal, watchful protector",Medium,Charming,1710,false,1304,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a9832e2,Carolyn,fish,2022-11-14 11:54:53.899,2,"Graceful, silent swimmer",Medium,Articulate,24531,false,590,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a9832e3,Christopher,bird,2023-11-23 11:54:54.266,0,Shedding purring machine,Ginormous,Compassionate,22299,false,207,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a9832e4,Jared,fish,2023-02-27 11:54:54.463,15,Purring stress reliever,Medium,Humorous,14123,false,998,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9832e5,James,cat,2024-02-06 11:54:54.716,11,Curious feathered friend,Small,Introspective,525,false,591,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a9832e6,Edward,fish,2024-02-08 11:54:54.935,14,Feathery cuddle monster,Large,Balanced,28821,false,84,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a9832e7,Eric,cat,2023-06-13 11:54:55.331,5,Feathery cuddle monster,Micro,Dependable,27041,false,48,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a9832e8,Lisa,bird,2023-12-27 11:54:55.567,11,"Nocturnal, chirping serenade",Large,Assertive,24430,false,463,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a9832e9,Billy,fish,2023-07-25 11:54:55.845,9,"Playful, destructive gremlin",Small,Compassionate,16060,false,779,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a9832ea,Leah,dog,2022-10-11 11:54:56.077,0,"Tiny, destructive hurricane",Small,Persuasive,26562,false,1865,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9832eb,Suzanne,fish,2023-08-08 11:54:56.311,8,Waddling ball of sunshine,Small,Resourceful,5470,false,448,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a9832ec,Norbert,dog,2022-10-01 11:54:56.511,12,"Sleepy, snoring cuddle monster",Micro,Organized,5647,true,1328,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9832ed,Joseph,dog,2023-01-14 11:54:56.748,9,Purring dust bunny magnet,Ginormous,Witty,11294,false,1775,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9832ee,Bette,dog,2023-03-28 11:54:57.141,6,Affectionate lap warmer,Large,Selfless,19217,false,895,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a9832ef,Betty,fish,2023-09-21 11:54:57.362,14,Feathered dust bunny creator,Medium,Sensitive,11636,false,1427,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9832f0,Eugene,dog,2022-09-27 11:54:57.798,5,"Cheeky, feathered acrobat",Small,Cautious,15940,false,107,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a9832f1,Fred,dog,2023-03-29 11:54:58.053,4,"Vocal, opinionated friend",Small,Dependable,21449,false,1195,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9832f2,Whitney,bird,2023-06-11 11:54:58.453,11,"Sleepy, snoring cuddle monster",Micro,Compassionate,29261,false,1943,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a9832f3,Michael,cat,2023-09-21 11:54:58.693,1,Aloof feathered observer,Ginormous,Motivated,28264,false,1826,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a9832f4,Rhea,cat,2022-12-05 11:54:58.893,0,Waddling ball of sunshine,Ginormous,Balanced,7034,false,1594,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a9832f5,Keith,cat,2023-09-17 11:54:59.249,0,Feathery cuddle monster,Ginormous,Enthusiastic,29253,false,1466,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/2.png
+65c65afd9d77f1ff7a9832f6,Ashley,bird,2023-05-13 11:54:59.494,15,"Nocturnal, chirping serenade",Large,Optimistic,12094,false,632,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a9832f7,Mary,bird,2023-11-08 11:54:59.877,7,"Nocturnal, squeaking mischief",Tiny,Cautious,12385,false,1749,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a9832f8,Ignacia,dog,2022-12-07 11:55:00.084,5,Active scaly companion,Tiny,Zestful,23819,true,1503,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a9832f9,Antoine,bird,2023-08-12 11:55:00.406,5,"Independent, mischievous floof",Medium,Independent,13148,false,1843,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a9832fa,Richard,dog,2022-10-25 11:55:00.668,5,Feathered dust bunny creator,Large,Curious,1612,false,1267,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9832fb,Sharon,bird,2023-09-22 11:55:00.864,2,Adventurous outdoor pal,Ginormous,Conscientious,3922,false,1095,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a9832fc,Jeffrey,dog,2023-01-02 11:55:01.276,3,Trustworthy sidekick,Tiny,Intellectual,10705,false,1278,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a9832fd,Elmo,cat,2023-10-16 11:55:01.509,1,Sunbeam-loving fluffball,Large,Confident,24123,false,1517,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a9832fe,Gloria,bird,2023-03-08 11:55:01.737,4,"Loyal, watchful protector",Tiny,Patient,5509,false,109,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a9832ff,Liz,dog,2023-09-16 11:55:01.962,14,"Tiny, destructive hurricane",Medium,Bold,708,false,360,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a983300,Andrea,dog,2022-10-11 11:55:02.394,2,"Energetic, bark-happy comedian",Tiny,Amiable,2973,false,257,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a983301,Marla,cat,2023-02-14 11:55:02.742,9,"Soft, slobbery companion",Medium,Sensitive,20214,false,661,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983302,Kenneth,bird,2023-11-29 11:55:02.964,3,"Busy, burrowing resident",Medium,Intellectual,21806,true,1659,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a983303,Pamela,fish,2023-08-24 11:55:03.160,4,"Soft, quiet cuddlebug",Micro,Conscientious,28376,false,34,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a983304,Guillermo,cat,2023-07-03 11:55:03.427,10,Loyal furball friend,Large,Level-headed,2271,false,1860,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a983305,Carrie,fish,2023-06-06 11:55:03.605,15,Clumsy fur tornado,Micro,Intuitive,6668,true,1169,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983306,Maria,fish,2023-02-12 11:55:03.977,2,Loyal furball friend,Small,Problem-solver,6421,false,1511,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a983307,Christopher,fish,2022-10-29 11:55:04.406,7,"Tiny, destructive hurricane",Ginormous,Self-disciplined,25015,true,1241,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983308,Nancy,cat,2023-05-26 11:55:04.629,10,Energetic cuddle buddy,Large,Peace-loving,19616,false,1643,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a983309,Jennifer,fish,2023-12-28 11:55:05.019,6,Adventurous outdoor pal,Large,Mature,22509,false,948,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98330a,Ann,fish,2023-12-31 11:55:05.248,2,Shedding purring machine,Small,Unique,3805,false,483,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98330b,Seth,cat,2023-07-21 11:55:05.450,10,"Nocturnal, chirping serenade",Ginormous,Honest,19205,false,456,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a98330c,Margaret,bird,2023-09-26 11:55:05.629,2,"Chatty, opinionated alarm clock",Tiny,Intuitive,18497,false,374,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a98330d,Ryan,cat,2023-08-18 11:55:06.004,1,"Soft, silent companion",Ginormous,Visionary,3466,false,1041,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a98330e,Lee,cat,2024-02-09 11:55:06.400,2,Active scaly companion,Large,Independent,25360,false,1420,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a98330f,Lorri,fish,2022-10-18 11:55:06.604,11,Playful water enthusiast,Medium,Outgoing,14028,false,1830,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a983310,Evonne,bird,2022-11-04 11:55:07.050,13,"Trusty, shadow-like companion",Tiny,Gentle,9152,true,332,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a983311,Ralph,cat,2023-02-07 11:55:07.489,8,Purring dust bunny magnet,Tiny,Kind,24115,false,54,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a983312,Amanda,bird,2023-01-23 11:55:07.866,2,Feathered dust bunny creator,Medium,Calm,7155,false,1715,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/5.png
+65c65afd9d77f1ff7a983313,Stephen,fish,2023-08-13 11:55:08.052,0,Affectionate lap warmer,Ginormous,Balanced,24382,false,870,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983314,Thelma,fish,2022-10-19 11:55:08.239,7,"Independent, mischievous floof",Tiny,Caring,26308,true,1212,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983315,Marjorie,fish,2023-06-26 11:55:08.458,6,Loyal furball friend,Micro,Neat,9646,false,1843,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983316,Jan,fish,2023-03-24 11:55:08.690,13,Quiet aquarium resident,Micro,Conscientious,25905,false,1735,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983317,Alexandria,dog,2023-01-24 11:55:08.900,11,Active scaly companion,Tiny,Empathetic,28760,false,841,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983318,Anna,fish,2023-11-10 11:55:09.086,7,"Soft, purring heat source",Tiny,Methodical,29958,false,68,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a983319,Russell,cat,2023-01-12 11:55:09.430,12,Loyal furball friend,Tiny,Respectful,23062,false,1314,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a98331a,Paul,dog,2023-10-03 11:55:09.616,3,"Trusty, shadow-like companion",Tiny,Reliable,16977,false,671,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a98331b,Amber,cat,2022-12-15 11:55:09.984,10,"Trusty, shadow-like companion",Small,Balanced,4503,false,938,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a98331c,Leah,fish,2023-10-09 11:55:10.208,1,Purring symphony composer,Large,Charismatic,16165,false,1206,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98331d,Martha,cat,2023-11-11 11:55:10.580,14,Shedding purring machine,Large,Energetic,13722,false,1845,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a98331e,James,fish,2023-01-14 11:55:10.781,12,Independent cuddle monster,Large,Cautious,1363,false,857,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a98331f,Walter,bird,2022-11-07 11:55:10.966,2,Curious feathered friend,Small,Self-disciplined,3990,false,245,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a983320,Gerald,fish,2022-10-21 11:55:11.169,9,"Sleepy, snoring cuddle monster",Ginormous,Problem-solver,29751,false,306,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a983321,Verna,fish,2023-05-08 11:55:11.354,14,"Busy, burrowing resident",Tiny,Respectful,6553,true,411,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a983322,Carol,bird,2023-12-30 11:55:11.546,11,"Soft, purring heat source",Micro,Warm,25770,false,624,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983323,Rosalee,cat,2022-10-05 11:55:11.776,11,"Soft, silent companion",Small,Humorous,28593,false,765,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a983324,Gerard,bird,2023-04-21 11:55:11.995,12,"Nocturnal, squeaking mischief",Medium,Calm,4170,false,88,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a983325,Joel,dog,2023-04-15 11:55:12.185,5,Purring stress reliever,Micro,Reliable,16472,false,1663,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983326,Christina,cat,2024-01-24 11:55:12.355,15,"Vocal, opinionated friend",Ginormous,Diplomatic,499,false,1557,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a983327,Lucas,bird,2023-11-07 11:55:12.548,0,Purring stress reliever,Small,Alert,20015,false,465,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a983328,Aaron,bird,2024-02-01 11:55:12.738,13,Scales in unexpected places,Micro,Charming,2039,false,907,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983329,Eddie,bird,2023-01-20 11:55:13.112,10,Independent cuddle monster,Medium,Energetic,13335,false,295,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a98332a,Jose,fish,2023-12-19 11:55:13.333,3,"Energetic, tail-wagging whirlwind",Micro,Charming,4995,false,1638,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98332b,Jerry,dog,2023-06-18 11:55:13.559,15,"Vocal, opinionated friend",Ginormous,Independent,29978,false,848,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a98332c,Cyndy,dog,2023-02-27 11:55:14.044,11,Loyal furball friend,Medium,Determined,14448,false,1414,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a98332d,Nina,fish,2023-06-21 11:55:14.408,6,"Quiet, shelled observer",Micro,Honest,17816,false,343,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a98332e,Joyce,dog,2024-02-09 11:55:14.610,4,"Independent, feathery acrobat",Micro,Diplomatic,25365,false,190,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a98332f,Nancy,bird,2023-03-07 11:55:14.937,0,Sunbeam-loving fluffball,Ginormous,Frank,24541,false,1527,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a983330,Lucien,cat,2023-10-06 11:55:15.123,3,"Loyal, watchful protector",Tiny,Funny,19334,false,72,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983331,Glenn,bird,2023-04-19 11:55:15.332,11,"Trusty, shadow-like companion",Tiny,Respectful,15596,false,21,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983332,Jenna,dog,2023-06-03 11:55:15.553,13,Loyal furball friend,Large,Quick-witted,20463,false,1528,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a983333,Dolores,dog,2023-09-29 11:55:15.750,5,Affectionate lap warmer,Medium,Loyal,12213,false,1925,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983334,Adam,bird,2023-11-20 11:55:15.939,11,"Tiny, destructive hurricane",Tiny,Practical,29670,true,1779,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a983335,Lorrie,bird,2023-05-18 11:55:16.290,7,Fin-tastic underwater dancer,Ginormous,Frank,26784,false,971,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a983336,Leonard,bird,2023-06-20 11:55:16.666,14,"Soft, purring heat source",Tiny,Sincere,8728,false,241,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983337,Humberto,cat,2023-04-13 11:55:17.033,7,"Energetic, bark-happy comedian",Small,Diplomatic,15942,false,1701,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a983338,Grant,cat,2023-12-14 11:55:17.294,4,Feathered dust bunny creator,Ginormous,Calm,18979,false,681,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a983339,William,fish,2023-03-21 11:55:17.692,1,"Vocal, opinionated friend",Small,Enthusiastic,20171,false,1924,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a98333a,Elmer,cat,2023-03-04 11:55:17.930,4,"Sleepy, snoring cuddle monster",Micro,Intellectual,2162,false,392,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a98333b,Yee,bird,2024-01-09 11:55:18.146,12,Waddling ball of sunshine,Small,Romantic,24785,false,586,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a98333c,Carlos,fish,2023-06-19 11:55:18.356,11,"Nocturnal, squeaking mischief",Small,Zestful,15772,true,1236,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a98333d,Marissa,dog,2023-12-24 11:55:18.568,1,Shedding cuddle monster,Large,Empathetic,6302,false,1180,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a98333e,Jeannie,fish,2023-11-14 11:55:18.770,11,"Energetic, tail-wagging whirlwind",Tiny,Methodical,8893,false,1136,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98333f,Erika,cat,2023-06-01 11:55:18.999,2,Sunbeam-loving fluffball,Ginormous,Level-headed,23896,false,646,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a983340,Kimberly,bird,2023-05-12 11:55:19.238,5,"Nocturnal, squeaking mischief",Ginormous,Reliable,23196,true,1449,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983341,Dominic,bird,2023-06-30 11:55:19.423,2,Playful water enthusiast,Small,Organized,17686,false,101,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983342,Vivian,fish,2023-05-14 11:55:19.648,14,"Busy, burrowing resident",Large,Neat,22458,false,657,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983343,Robert,dog,2023-03-06 11:55:19.920,6,"Independent, nocturnal shadow",Medium,Patient,12284,true,1195,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983344,Jay,fish,2024-01-21 11:55:20.100,9,Shedding cuddle monster,Micro,Independent,20052,false,1290,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983345,Lloyd,dog,2023-03-25 11:55:20.556,4,Shedding purring machine,Ginormous,Playful,22521,true,100,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983346,Amanda,cat,2022-12-06 11:55:20.793,0,"Playful, destructive gremlin",Ginormous,Visionary,16815,false,701,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a983347,Debra,cat,2022-10-02 11:55:21.150,4,Shedding cuddle monster,Micro,Level-headed,15821,false,682,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a983348,George,dog,2023-12-04 11:55:21.520,5,"Energetic, bark-happy comedian",Small,Sociable,2163,false,442,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983349,Tyra,dog,2023-09-28 11:55:21.936,2,"Chatty, opinionated alarm clock",Medium,Outgoing,3730,false,364,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a98334a,Teresa,fish,2023-09-05 11:55:22.155,7,"Playful, destructive gremlin",Tiny,Sincere,7700,false,84,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a98334b,Keesha,bird,2022-12-18 11:55:22.381,1,"Independent, feathery acrobat",Ginormous,Funny,13447,false,1771,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a98334c,Robert,fish,2023-01-15 11:55:22.603,0,Trustworthy sidekick,Tiny,Alert,5953,false,617,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a98334d,Elaine,fish,2023-04-05 11:55:22.803,2,Aloof feathered observer,Small,Empathetic,25227,true,1054,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a98334e,Amanda,fish,2023-02-20 11:55:23.078,8,Energetic barking alarm,Medium,Empathetic,15818,true,1917,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98334f,Colleen,dog,2023-12-17 11:55:23.553,13,"Sleepy, snoring cuddle monster",Ginormous,Observant,18245,false,686,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983350,Tiffany,dog,2022-12-07 11:55:23.943,4,Adventurous outdoor pal,Tiny,Amiable,8454,false,615,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a983351,Kimberly,dog,2022-12-24 11:55:24.202,15,Feathery cuddle monster,Micro,Reliable,1621,false,380,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a983352,Louis,dog,2022-09-28 11:55:24.381,10,"Inquisitive, feathered explorer",Small,Romantic,14214,false,524,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a983353,Dorothy,fish,2023-11-10 11:55:24.742,0,Energetic cuddle buddy,Ginormous,Enthusiastic,11344,false,141,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a983354,John,dog,2022-12-18 11:55:25.126,1,"Nocturnal, chirping serenade",Tiny,Playful,17709,false,1483,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a983355,Juan,dog,2022-10-20 11:55:25.317,6,"Soft, silent companion",Tiny,Energetic,514,false,1940,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983356,Thomas,bird,2023-03-19 11:55:25.762,10,"Vocal, opinionated friend",Ginormous,Level-headed,6080,false,89,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983357,Georgina,fish,2024-02-05 11:55:26.165,1,Busy shelled housemate,Tiny,Organized,21781,true,422,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983358,Charles,cat,2022-11-08 11:55:26.527,7,"Playful, feathery kleptomaniac",Tiny,Honest,670,false,1058,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a983359,Joe,dog,2023-03-06 11:55:26.707,14,Affectionate lap warmer,Tiny,Humorous,10926,false,1499,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a98335a,Virginia,bird,2023-11-08 11:55:26.957,2,"Independent, feathery acrobat",Large,Strong,26993,false,341,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a98335b,Steven,bird,2023-12-18 11:55:27.382,5,Curious feathered friend,Micro,Articulate,8301,false,1342,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a98335c,Earnest,bird,2023-02-03 11:55:27.564,8,Curious feathered friend,Tiny,Intuitive,1079,false,339,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a98335d,Andrew,cat,2023-09-22 11:55:27.758,5,"Playful, aquatic explorer",Micro,Sensitive,14819,false,65,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a98335e,Barbara,bird,2023-10-25 11:55:27.983,10,Energetic barking alarm,Medium,Alert,11411,false,81,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a98335f,Janina,dog,2023-02-26 11:55:28.202,4,Happy tail wagger,Tiny,Diplomatic,26636,false,1326,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a983360,Lisa,dog,2022-12-20 11:55:28.566,7,Feathered dust bunny creator,Medium,Sensitive,18409,false,66,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983361,Stephen,dog,2023-05-08 11:55:28.788,5,Aloof feathered observer,Large,Kind,22478,false,1193,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983362,Donald,fish,2022-11-14 11:55:29.207,1,Busy shelled housemate,Micro,Enthusiastic,2134,false,15,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983363,Lynn,fish,2022-10-04 11:55:29.599,7,"Energetic, bark-happy comedian",Large,Mature,15392,false,1359,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983364,Sandra,cat,2022-11-09 11:55:29.855,1,"Sleepy, snoring cuddle monster",Small,Gentle,20382,false,323,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/5.png
+65c65afd9d77f1ff7a983365,Maurice,cat,2023-01-20 11:55:30.225,10,"Energetic, tail-wagging whirlwind",Small,Dependable,13324,false,1449,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a983366,Pamela,dog,2023-12-08 11:55:30.665,2,"Playful, aquatic explorer",Tiny,Affectionate,4747,true,846,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983367,Virginia,bird,2023-04-17 11:55:30.916,5,Purring dust bunny magnet,Small,Trustworthy,5841,false,772,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983368,Melissa,fish,2023-06-27 11:55:31.288,5,"Inquisitive, feathered explorer",Micro,Amiable,21856,false,517,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a983369,Richard,bird,2023-12-08 11:55:31.645,6,Purring symphony composer,Large,Problem-solver,7923,true,1837,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a98336a,Bernice,bird,2024-01-21 11:55:31.863,3,"Chatty, opinionated alarm clock",Micro,Individualistic,6108,false,1318,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a98336b,Bonnie,dog,2023-08-07 11:55:32.068,1,"Chatty, opinionated alarm clock",Ginormous,Efficient,21604,false,1860,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a98336c,Christina,fish,2023-03-06 11:55:32.281,5,"Soft, silent companion",Ginormous,Resourceful,4547,true,1444,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98336d,Noe,bird,2022-10-18 11:55:32.493,3,"Playful, feathery chatterbox",Large,Loyal,12911,false,1364,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a98336e,Ronald,dog,2022-11-21 11:55:32.724,14,"Vocal, opinionated friend",Tiny,Sincere,19354,true,1547,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a98336f,Dennis,cat,2023-02-25 11:55:33.103,0,Independent house guest,Large,Calm,8845,false,781,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a983370,Debra,bird,2023-06-16 11:55:33.371,12,Sunbeam-loving fluffball,Large,Methodical,5261,false,1944,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983371,James,dog,2023-02-07 11:55:33.597,14,"Soft, silent companion",Large,Persuasive,29973,true,169,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a983372,Michael,cat,2023-05-21 11:55:33.801,11,"Quiet, shelled observer",Tiny,Quick-witted,17878,false,1702,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983373,Charles,bird,2023-05-26 11:55:34.006,9,Purring symphony composer,Micro,Strong,14271,false,1240,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/7.png
+65c65afd9d77f1ff7a983374,Angela,bird,2023-02-08 11:55:34.261,1,Playful mischief maker,Micro,Balanced,23902,false,913,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a983375,Andrea,cat,2022-12-22 11:55:34.472,11,Independent house guest,Large,Spontaneous,26661,false,594,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/21.png
+65c65afd9d77f1ff7a983376,Donald,fish,2023-12-01 11:55:34.699,10,"Soft, curious companion",Ginormous,Bold,14091,false,1826,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983377,Roland,bird,2022-12-04 11:55:34.924,11,Loyal furball friend,Micro,Amiable,11053,false,448,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a983378,Deborah,dog,2022-12-24 11:55:35.126,6,Waddling ball of sunshine,Tiny,Charming,8121,false,168,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a983379,James,fish,2023-03-07 11:55:35.500,2,Loyal furball friend,Tiny,Calm,6128,false,718,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a98337a,Mary,fish,2023-12-01 11:55:35.808,7,"Playful, destructive gremlin",Medium,Charming,15141,false,803,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a98337b,Mayra,fish,2023-06-30 11:55:36.165,7,"Energetic, tail-wagging whirlwind",Large,Gentle,27758,false,589,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98337c,Danielle,dog,2023-10-08 11:55:36.351,0,Aloof feathered observer,Medium,Caring,16600,false,1601,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a98337d,Gilberto,cat,2023-10-19 11:55:36.550,2,Energetic cuddle buddy,Medium,Flexible,14880,false,342,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a98337e,Terry,fish,2023-02-09 11:55:36.921,3,Purring symphony composer,Medium,Balanced,26460,true,1865,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98337f,Rose,dog,2022-12-11 11:55:37.096,8,"Chatty, opinionated alarm clock",Micro,Confident,11651,true,291,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a983380,Melvin,bird,2023-01-08 11:55:37.302,14,Shedding cuddle monster,Small,Sincere,14901,false,1319,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a983381,Anna,fish,2024-01-20 11:55:37.533,6,"Soft, purring heat source",Small,Outgoing,16735,false,572,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983382,Noemi,bird,2023-07-06 11:55:37.788,11,Trustworthy sidekick,Medium,Organized,26375,false,761,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983383,Karen,fish,2023-12-22 11:55:38.079,10,"Sleepy, snoring cuddle monster",Tiny,Responsible,24420,false,1102,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983384,Jeremy,fish,2023-04-18 11:55:38.288,1,"Nocturnal, chirping serenade",Ginormous,Funny,13398,false,654,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983385,Jessica,bird,2023-03-20 11:55:38.660,8,"Graceful, silent swimmer",Micro,Organized,24171,false,598,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983386,Iris,bird,2023-03-03 11:55:39.037,9,"Playful, feathery chatterbox",Large,Honest,16300,false,185,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a983387,David,fish,2022-12-06 11:55:39.425,8,Energetic barking alarm,Large,Methodical,14193,false,1871,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983388,Helen,bird,2022-10-09 11:55:39.644,1,"Nocturnal, squeaking mischief",Medium,Independent,27328,false,624,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983389,Shanelle,bird,2022-10-05 11:55:39.864,6,Playful mischief maker,Tiny,Articulate,22259,false,1269,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a98338a,Annmarie,cat,2023-11-29 11:55:40.262,12,"Independent, mischievous fluffball",Ginormous,Honest,28362,false,1034,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a98338b,Jason,bird,2023-01-23 11:55:40.502,14,"Trusty, shadow-like companion",Micro,Charismatic,29015,false,672,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a98338c,Richard,fish,2023-12-04 11:55:40.733,6,Messy feathered comedian,Medium,Self-disciplined,12038,false,1743,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a98338d,Timothy,cat,2023-10-03 11:55:41.046,6,"Nocturnal, squeaking mischief",Tiny,Selfless,29860,false,1888,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/26.png
+65c65afd9d77f1ff7a98338e,Amber,fish,2023-03-22 11:55:41.252,1,Feathery cuddle monster,Small,Observant,28088,true,919,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98338f,Jason,bird,2022-11-06 11:55:41.623,4,"Sleepy, snoring cuddle monster",Tiny,Reliable,27022,false,936,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a983390,Mary,cat,2024-01-01 11:55:41.863,5,Affectionate lap warmer,Tiny,Articulate,9021,false,1181,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a983391,Susan,cat,2023-10-23 11:55:42.092,9,Playful water enthusiast,Micro,Peace-loving,11665,false,1874,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983392,Kenneth,bird,2023-04-17 11:55:42.419,13,Nocturnal cuddle buddy,Tiny,Motivated,5887,true,349,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983393,Esperanza,fish,2022-11-03 11:55:42.740,4,"Quiet, shelled observer",Ginormous,Efficient,29450,false,1740,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983394,Henry,cat,2023-11-13 11:55:43.035,13,"Playful, feathery kleptomaniac",Ginormous,Independent,9431,false,1965,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a983395,Cynthia,cat,2023-06-16 11:55:43.327,12,Feathery cuddle monster,Small,Peace-loving,2435,true,1228,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a983396,Eileen,fish,2022-12-07 11:55:43.622,4,Adventurous outdoor pal,Micro,Outgoing,7693,false,1558,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983397,Rosa,fish,2023-02-25 11:55:43.801,14,Affectionate lap warmer,Small,Creative,29248,false,1651,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983398,Lindsey,cat,2022-10-21 11:55:44.045,13,"Playful, aquatic explorer",Ginormous,Humorous,27477,false,947,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a983399,Raymond,bird,2023-11-08 11:55:44.273,5,"Playful, destructive gremlin",Medium,Curious,4542,true,1122,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a98339a,Alton,bird,2022-11-27 11:55:44.647,0,Playful water enthusiast,Tiny,Affectionate,1372,false,1343,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a98339b,Linda,cat,2023-10-03 11:55:44.855,0,Adventurous outdoor pal,Small,Respectful,28211,false,805,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a98339c,Morris,cat,2023-07-17 11:55:45.250,15,"Inquisitive, feathered explorer",Large,Introspective,28430,false,1558,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a98339d,Arthur,fish,2022-10-09 11:55:45.448,2,"Independent, feathery acrobat",Tiny,Easygoing,15960,false,1009,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98339e,Ann,dog,2023-03-20 11:55:45.809,13,"Tiny, destructive hurricane",Micro,Curious,11134,true,158,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a98339f,Ernest,bird,2024-01-28 11:55:46.009,9,"Playful, feathery kleptomaniac",Small,Playful,18945,false,1146,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9833a0,Catherine,dog,2023-10-16 11:55:46.383,5,Fin-tastic underwater dancer,Large,Alert,9336,false,412,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a9833a1,James,dog,2023-01-18 11:55:46.697,12,"Independent, mischievous floof",Micro,Motivated,21823,false,1139,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a9833a2,Deborah,cat,2023-11-09 11:55:46.968,3,Purring stress reliever,Tiny,Strong,26968,false,823,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/17.png
+65c65afd9d77f1ff7a9833a3,Lelia,fish,2023-06-16 11:55:47.205,0,"Nocturnal, squeaking mischief",Large,Thoughtful,22764,false,803,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9833a4,Herbert,bird,2023-08-01 11:55:47.398,14,"Playful, feathery kleptomaniac",Ginormous,Quick-witted,3807,false,1411,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a9833a5,Harry,cat,2023-03-16 11:55:47.792,5,Scales in unexpected places,Tiny,Sincere,4455,false,1875,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a9833a6,Roderick,dog,2023-10-05 11:55:47.976,3,"Soft, silent companion",Large,Peace-loving,7077,false,884,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a9833a7,Charles,dog,2023-08-24 11:55:48.413,3,Purring stress reliever,Ginormous,Thoughtful,1961,false,1349,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9833a8,Richard,fish,2023-02-26 11:55:48.603,15,"Playful, feathery kleptomaniac",Ginormous,Optimistic,10459,false,1340,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9833a9,Jessica,fish,2023-01-30 11:55:48.793,0,Curious feathered friend,Ginormous,Intuitive,11986,false,1943,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9833aa,Nicole,cat,2023-10-06 11:55:49.219,5,Playful water enthusiast,Medium,Assertive,25673,false,1075,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a9833ab,Arthur,bird,2023-08-20 11:55:49.643,3,"Nocturnal, chirping serenade",Medium,Frank,239,false,1939,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a9833ac,Craig,dog,2023-10-30 11:55:49.851,7,Busy shelled housemate,Tiny,Unique,25419,false,1507,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9833ad,Elin,bird,2023-03-19 11:55:50.106,11,Independent cuddle monster,Ginormous,Honest,25040,false,650,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a9833ae,Mary,bird,2023-06-29 11:55:50.321,10,Independent cuddle monster,Small,Problem-solver,24826,false,1488,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a9833af,Margaret,bird,2023-05-23 11:55:50.736,1,Clumsy fur tornado,Micro,Enthusiastic,21099,true,23,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/7.png
+65c65afd9d77f1ff7a9833b0,Evelyn,bird,2023-02-13 11:55:50.971,11,Affectionate lap warmer,Medium,Warm,27464,false,1636,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9833b1,Kyle,cat,2023-03-13 11:55:51.161,11,Feathery cuddle monster,Small,Romantic,21288,false,899,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9833b2,Charlie,bird,2023-03-07 11:55:51.363,10,"Busy, burrowing resident",Small,Honest,27653,false,88,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/7.png
+65c65afd9d77f1ff7a9833b3,Heather,dog,2023-11-08 11:55:51.724,4,"Playful, destructive gremlin",Large,Balanced,25120,false,572,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9833b4,George,bird,2023-11-13 11:55:51.902,13,"Independent, mischievous fluffball",Micro,Observant,11361,false,1369,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a9833b5,Celestine,fish,2024-02-07 11:55:52.216,0,Feathered dust bunny creator,Micro,Efficient,12598,false,1456,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a9833b6,Ethel,dog,2023-08-10 11:55:52.599,14,Independent cuddle monster,Large,Precise,14234,false,447,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9833b7,Charlene,bird,2023-10-30 11:55:52.766,2,"Busy, burrowing resident",Small,Intellectual,21712,false,303,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a9833b8,Billy,fish,2023-11-21 11:55:53.011,5,Shedding cuddle monster,Ginormous,Self-disciplined,20279,true,876,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9833b9,Julius,dog,2023-06-01 11:55:53.244,12,Purring symphony composer,Ginormous,Independent,26503,false,172,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9833ba,Larry,bird,2023-03-02 11:55:53.445,4,"Soft, slobbery companion",Large,Flexible,19830,false,1797,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a9833bb,Lela,cat,2023-05-03 11:55:53.658,9,Waddling ball of sunshine,Ginormous,Efficient,15815,false,1798,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9833bc,Raymond,dog,2023-02-16 11:55:54.068,9,Purring stress reliever,Micro,Balanced,18708,false,29,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/16.png
+65c65afd9d77f1ff7a9833bd,Timothy,bird,2022-11-22 11:55:54.263,4,"Busy, burrowing resident",Large,Individualistic,15787,true,1213,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a9833be,Patrick,cat,2023-10-10 11:55:54.456,15,"Playful, aquatic explorer",Micro,Strong,20271,true,1206,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/8.png
+65c65afd9d77f1ff7a9833bf,Benjamin,bird,2023-06-27 11:55:54.683,4,"Vocal, opinionated friend",Tiny,Persuasive,11538,false,1806,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a9833c0,Joanna,bird,2023-09-30 11:55:54.876,6,Purring dust bunny magnet,Medium,Leader,4872,false,924,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9833c1,Marcelle,dog,2023-08-14 11:55:55.111,8,Loyal furball friend,Small,Determined,4798,false,804,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a9833c2,Marc,cat,2023-05-24 11:55:55.316,7,"Energetic, bark-happy comedian",Small,Selfless,21229,false,945,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9833c3,Jeff,bird,2023-10-10 11:55:55.531,7,Purring dust bunny magnet,Tiny,Funny,8627,false,712,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9833c4,Kenny,bird,2023-09-16 11:55:55.732,5,"Aloof, feathered watcher",Tiny,Funny,20359,false,1573,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a9833c5,Ralph,bird,2023-03-24 11:55:55.917,9,Happy tail wagger,Tiny,Peace-loving,22789,true,1361,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9833c6,Micheal,fish,2023-03-14 11:55:56.131,1,Fin-tastic underwater dancer,Medium,Optimistic,19165,false,927,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a9833c7,Ken,bird,2022-11-23 11:55:56.417,3,Busy shelled housemate,Small,Friendly,20102,false,893,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a9833c8,George,bird,2023-12-29 11:55:56.621,15,"Soft, quiet cuddlebug",Small,Respectful,12902,false,318,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/5.png
+65c65afd9d77f1ff7a9833c9,Renae,dog,2023-08-19 11:55:56.979,10,"Busy, burrowing resident",Small,Respectful,1626,false,1140,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9833ca,Pauline,bird,2023-09-26 11:55:57.334,3,"Independent, nocturnal shadow",Medium,Dependable,2752,false,548,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a9833cb,Virginia,cat,2023-10-21 11:55:57.558,14,"Soft, silent companion",Large,Efficient,24340,true,220,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a9833cc,Mary,dog,2023-08-25 11:55:57.780,15,"Playful, feathery kleptomaniac",Ginormous,Intellectual,2528,false,1310,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9833cd,Roman,fish,2023-08-06 11:55:58.021,13,Busy shelled housemate,Small,Funny,13210,false,257,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a9833ce,Ruth,cat,2023-07-28 11:55:58.412,3,"Nocturnal, squeaking mischief",Ginormous,Individualistic,9489,false,610,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a9833cf,Anita,dog,2023-03-02 11:55:58.767,9,Energetic barking alarm,Medium,Optimistic,26807,false,1978,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a9833d0,Dung,cat,2023-01-31 11:55:58.987,12,"Curious, whiskered investigator",Medium,Observant,25172,false,279,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/2.png
+65c65afd9d77f1ff7a9833d1,Louise,dog,2023-12-25 11:55:59.216,14,"Soft, curious companion",Micro,Problem-solver,903,false,890,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9833d2,Clara,fish,2023-06-10 11:55:59.431,1,"Soft, quiet cuddlebug",Tiny,Charismatic,4131,false,1540,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9833d3,Ann,dog,2022-12-04 11:55:59.618,6,Trustworthy sidekick,Micro,Reliable,21519,false,525,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9833d4,Robert,bird,2023-04-28 11:56:00.063,4,"Soft, quiet cuddlebug",Small,Bold,3019,true,161,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9833d5,Bettie,dog,2023-11-26 11:56:00.288,10,"Soft, curious companion",Ginormous,Flexible,23737,true,216,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a9833d6,Madonna,fish,2023-02-03 11:56:00.480,5,Sunbeam-loving fluffball,Large,Persuasive,17037,false,485,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9833d7,Nedra,cat,2023-12-09 11:56:00.741,2,Feathered dust bunny creator,Large,Visionary,24020,false,241,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/30.png
+65c65afd9d77f1ff7a9833d8,Ruth,fish,2023-05-14 11:56:00.913,4,"Quiet, shelled observer",Tiny,Charming,532,false,81,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9833d9,Roberta,dog,2023-07-18 11:56:01.223,11,"Soft, silent companion",Large,Methodical,15941,false,298,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9833da,Carolyn,cat,2023-02-07 11:56:01.477,9,"Playful, feathery kleptomaniac",Large,Organized,4254,false,1637,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9833db,Robert,bird,2023-03-25 11:56:01.687,6,"Independent, mischievous floof",Tiny,Sincere,9626,true,813,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a9833dc,Lori,cat,2023-09-08 11:56:01.904,7,"Chatty, opinionated alarm clock",Tiny,Mature,12646,false,134,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a9833dd,Dale,dog,2024-02-02 11:56:02.149,13,"Soft, quiet cuddlebug",Tiny,Creative,15460,false,823,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9833de,Joseph,fish,2023-09-19 11:56:02.342,10,Affectionate lap warmer,Medium,Charismatic,15489,true,1002,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9833df,Donna,cat,2023-06-08 11:56:02.527,5,"Cheeky, feathered acrobat",Medium,Frank,13046,true,763,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a9833e0,Frieda,bird,2023-08-13 11:56:02.964,9,"Independent, mischievous floof",Ginormous,Calm,13205,false,1812,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9833e1,Bonnie,cat,2023-05-17 11:56:03.194,8,Purring dust bunny magnet,Ginormous,Energetic,22736,false,855,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9833e2,Arlene,dog,2023-01-13 11:56:03.389,3,"Soft, slobbery companion",Medium,Alert,24038,false,136,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a9833e3,Sally,dog,2023-06-12 11:56:03.594,8,"Soft, slobbery companion",Small,Methodical,10770,true,902,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9833e4,Darren,cat,2024-01-17 11:56:03.778,5,Feathery cuddle monster,Ginormous,Curious,19343,false,1231,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a9833e5,Randy,dog,2023-01-25 11:56:04.025,14,"Playful, feathery kleptomaniac",Micro,Playful,18397,false,1153,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a9833e6,Kathleen,bird,2023-04-02 11:56:04.245,0,"Cheeky, feathered acrobat",Micro,Mature,24626,false,9,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a9833e7,Robert,dog,2023-02-10 11:56:04.434,6,"Nocturnal, chirping serenade",Tiny,Introspective,6558,false,1591,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a9833e8,Nelson,cat,2023-08-12 11:56:04.825,4,"Cheeky, feathered acrobat",Ginormous,Efficient,15154,false,1729,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a9833e9,Deanna,bird,2023-03-02 11:56:05.039,6,"Vocal, opinionated friend",Micro,Sensitive,13369,false,451,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a9833ea,Jack,fish,2023-12-09 11:56:05.393,4,Feathery cuddle monster,Tiny,Respectful,8223,false,1977,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a9833eb,Francis,dog,2023-10-01 11:56:05.789,0,Fin-tastic underwater dancer,Medium,Alert,3068,false,1735,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a9833ec,Lazaro,dog,2023-06-09 11:56:05.997,10,"Playful, feathery chatterbox",Small,Empathetic,26806,false,748,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9833ed,Linda,fish,2023-03-16 11:56:06.178,10,"Independent, mischievous floof",Small,Leader,1156,false,616,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9833ee,Ann,fish,2023-03-13 11:56:06.459,8,"Trusty, shadow-like companion",Micro,Charming,22729,false,365,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9833ef,Rachel,fish,2023-06-20 11:56:06.878,7,"Sleepy, snoring cuddle monster",Tiny,Flexible,11770,false,1118,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9833f0,Larry,cat,2023-01-06 11:56:07.061,9,"Inquisitive, feathered explorer",Large,Self-disciplined,16934,false,683,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/8.png
+65c65afd9d77f1ff7a9833f1,Kristin,bird,2022-09-30 11:56:07.427,0,"Curious, whiskered investigator",Micro,Quick-witted,27727,false,760,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a9833f2,Genevie,dog,2023-04-15 11:56:07.797,10,"Energetic, bark-happy comedian",Tiny,Quick-witted,546,false,353,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a9833f3,Hazel,cat,2023-09-13 11:56:08.191,1,"Independent, mischievous fluffball",Medium,Level-headed,9760,false,225,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a9833f4,Daron,dog,2024-01-07 11:56:08.558,0,Purring symphony composer,Tiny,Persuasive,13278,true,1265,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a9833f5,Bessie,dog,2023-11-13 11:56:08.742,3,"Chatty, opinionated alarm clock",Medium,Playful,24421,false,431,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9833f6,Timothy,fish,2023-09-11 11:56:08.921,12,Shedding purring machine,Micro,Intuitive,8361,false,530,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a9833f7,Amy,dog,2023-12-04 11:56:09.267,12,Curious feathered friend,Micro,Optimistic,12544,false,1713,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a9833f8,Cortez,dog,2024-01-11 11:56:09.461,8,"Inquisitive, feathered explorer",Large,Compassionate,28874,false,312,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a9833f9,Roy,bird,2023-02-06 11:56:09.667,1,Adventurous outdoor pal,Medium,Amiable,26187,false,1788,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9833fa,Angela,cat,2023-01-06 11:56:09.872,10,"Soft, curious companion",Large,Unique,161,false,1880,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9833fb,Martin,cat,2024-01-05 11:56:10.090,2,"Playful, feathery kleptomaniac",Tiny,Spontaneous,12720,false,94,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a9833fc,Shaun,cat,2023-06-29 11:56:10.423,11,"Soft, slobbery companion",Micro,Organized,2469,false,1684,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a9833fd,Jonathan,dog,2023-09-10 11:56:10.612,12,"Independent, mischievous fluffball",Medium,Honest,1136,false,214,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9833fe,Mary,fish,2024-01-31 11:56:10.817,2,Waddling ball of sunshine,Small,Intuitive,14476,false,1449,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a9833ff,Robbie,dog,2023-02-23 11:56:11.017,0,"Vocal, opinionated friend",Medium,Optimistic,20310,false,45,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983400,Eric,bird,2022-11-25 11:56:11.223,3,"Sleepy, snoring cuddle monster",Micro,Unique,18524,false,1856,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a983401,Dora,cat,2023-04-13 11:56:11.593,1,Loyal furball friend,Large,Respectful,5240,false,1864,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a983402,Ronald,fish,2023-04-25 11:56:11.963,6,Aloof feathered observer,Large,Flexible,12312,false,1512,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983403,Edith,fish,2023-11-13 11:56:12.341,0,Independent house guest,Small,Visionary,18511,false,637,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983404,Ashley,cat,2024-01-04 11:56:12.573,8,"Soft, silent companion",Ginormous,Adventurous,28966,false,827,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983405,Brian,bird,2023-05-25 11:56:12.746,13,"Chatty, opinionated alarm clock",Large,Playful,17955,false,495,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a983406,Conrad,fish,2023-08-06 11:56:13.008,12,Curious feathered friend,Ginormous,Creative,19051,false,435,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983407,John,dog,2023-05-14 11:56:13.364,13,Playful mischief maker,Micro,Respectful,12506,true,1287,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a983408,Faustino,cat,2023-03-24 11:56:13.533,2,"Inquisitive, feathered explorer",Medium,Neat,1761,false,1571,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/4.png
+65c65afd9d77f1ff7a983409,Kenneth,cat,2023-06-26 11:56:13.734,1,Happy tail wagger,Tiny,Calm,10701,true,113,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/30.png
+65c65afd9d77f1ff7a98340a,Angela,fish,2023-11-01 11:56:13.930,11,"Soft, slobbery companion",Ginormous,Energetic,14695,false,1562,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98340b,Anne,cat,2023-05-16 11:56:14.159,11,Sunbeam-loving fluffball,Large,Loyal,24559,false,1332,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a98340c,Nereida,bird,2024-01-28 11:56:14.407,14,"Quiet, shelled observer",Small,Selfless,28788,false,1997,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a98340d,Irvin,dog,2023-12-21 11:56:14.784,0,"Aloof, feathered watcher",Large,Respectful,22801,false,712,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a98340e,William,fish,2023-10-04 11:56:14.995,10,"Vocal, opinionated friend",Medium,Reliable,15427,false,458,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a98340f,Keith,dog,2023-08-12 11:56:15.219,15,"Independent, mischievous fluffball",Small,Caring,26196,true,396,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983410,Donald,bird,2023-12-11 11:56:15.384,2,"Chatty, opinionated alarm clock",Medium,Mature,12300,false,1619,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a983411,Karen,cat,2023-07-24 11:56:15.610,9,"Nocturnal, squeaking mischief",Large,Honest,29364,false,472,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a983412,John,bird,2024-02-06 11:56:15.799,3,Independent cuddle monster,Micro,Organized,148,false,956,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a983413,Santiago,dog,2023-08-05 11:56:15.991,2,Purring symphony composer,Ginormous,Sociable,6487,false,1055,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a983414,Larry,fish,2024-02-04 11:56:16.386,12,Quiet aquarium resident,Small,Spontaneous,14897,false,1318,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983415,William,dog,2023-06-27 11:56:16.581,12,Shedding purring machine,Micro,Intuitive,7271,false,1202,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983416,Esmeralda,bird,2023-05-02 11:56:16.789,10,Playful water enthusiast,Micro,Articulate,13934,false,1589,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a983417,Robert,cat,2023-11-29 11:56:16.987,12,Scales in unexpected places,Large,Creative,24214,true,872,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a983418,Otis,cat,2023-02-06 11:56:17.187,3,Messy feathered comedian,Medium,Funny,2787,true,1341,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983419,George,cat,2023-05-24 11:56:17.720,9,Busy shelled housemate,Large,Assertive,5436,false,1884,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a98341a,Richard,fish,2023-04-14 11:56:17.938,10,"Energetic, bark-happy comedian",Micro,Charming,4879,false,1974,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a98341b,Sarah,cat,2023-07-09 11:56:18.300,9,"Curious, whiskered investigator",Tiny,Strong,22996,false,1593,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/26.png
+65c65afd9d77f1ff7a98341c,James,bird,2023-05-11 11:56:18.509,7,"Busy, burrowing resident",Large,Charismatic,19704,false,1844,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a98341d,David,fish,2023-06-28 11:56:18.713,9,"Soft, slobbery companion",Ginormous,Precise,3299,false,511,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98341e,Ann,cat,2023-03-05 11:56:18.949,12,"Independent, mischievous floof",Large,Quick-witted,7720,true,693,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a98341f,Moshe,cat,2022-11-21 11:56:19.152,0,Independent cuddle monster,Large,Resourceful,27200,false,1353,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a983420,Richard,dog,2022-10-25 11:56:19.522,8,Busy shelled housemate,Tiny,Quick-witted,13245,true,1147,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a983421,Jeffrey,cat,2023-07-09 11:56:20.023,7,Active scaly companion,Medium,Peace-loving,5688,true,1755,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/21.png
+65c65afd9d77f1ff7a983422,Marlene,bird,2023-12-26 11:56:20.202,13,Curious feathered friend,Small,Outgoing,1069,true,1143,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a983423,Robert,dog,2023-10-24 11:56:20.359,8,Aloof feathered observer,Small,Independent,10381,false,727,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a983424,Cristina,bird,2023-03-26 11:56:20.567,11,Sunbeam-loving fluffball,Tiny,Strong,3265,false,1755,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983425,Lee,fish,2023-09-16 11:56:20.793,2,"Sleepy, snoring cuddle monster",Medium,Reliable,22096,false,871,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a983426,Julie,bird,2023-08-30 11:56:20.993,2,Playful mischief maker,Medium,Balanced,8442,false,408,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a983427,Carolee,bird,2023-12-11 11:56:21.219,11,Affectionate lap warmer,Ginormous,Romantic,25847,false,1997,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a983428,Edith,dog,2023-01-10 11:56:21.404,11,Purring symphony composer,Ginormous,Optimistic,22441,false,129,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a983429,Stephen,fish,2023-07-07 11:56:21.631,4,Trustworthy sidekick,Micro,Funny,4580,true,491,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98342a,Cindy,cat,2023-07-13 11:56:21.812,2,Loyal furball friend,Small,Humorous,21679,true,1879,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/3.png
+65c65afd9d77f1ff7a98342b,Stephen,cat,2022-10-24 11:56:22.000,2,"Busy, burrowing resident",Small,Efficient,6951,false,1030,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/34.png
+65c65afd9d77f1ff7a98342c,Elnora,fish,2023-12-07 11:56:22.218,13,Adventurous outdoor pal,Small,Organized,22450,false,1166,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a98342d,Kelli,dog,2023-03-10 11:56:22.415,10,Fin-tastic underwater dancer,Small,Easygoing,19075,false,618,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a98342e,Heidi,dog,2023-03-11 11:56:22.616,5,Messy feathered comedian,Ginormous,Easygoing,27523,true,46,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/15.png
+65c65afd9d77f1ff7a98342f,Valarie,dog,2022-10-21 11:56:22.889,14,Loyal furball friend,Small,Balanced,4462,false,1475,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a983430,Ryan,cat,2023-04-07 11:56:23.071,13,Clumsy fur tornado,Small,Respectful,5816,false,109,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a983431,Matthew,dog,2023-08-28 11:56:23.237,7,"Sleepy, snoring cuddle monster",Large,Creative,10964,false,852,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a983432,Adam,fish,2023-04-26 11:56:23.642,0,Affectionate lap warmer,Large,Dependable,4005,false,1967,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983433,Lucy,dog,2024-02-03 11:56:23.833,1,Trustworthy sidekick,Small,Charismatic,14079,false,1336,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983434,Becky,dog,2023-03-27 11:56:24.031,8,"Soft, quiet cuddlebug",Ginormous,Romantic,20527,false,766,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a983435,Shelly,bird,2023-10-03 11:56:24.213,4,Playful mischief maker,Tiny,Practical,14973,false,1199,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a983436,Rachel,dog,2024-01-31 11:56:24.395,11,"Independent, feathery acrobat",Large,Alert,1487,false,459,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a983437,Barry,fish,2023-02-26 11:56:24.639,7,"Sleepy, snoring cuddle monster",Ginormous,Romantic,5499,false,832,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983438,Chris,cat,2024-01-03 11:56:24.905,10,Energetic barking alarm,Small,Mature,14767,false,1840,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a983439,Rogelio,bird,2023-06-05 11:56:25.282,3,"Vocal, opinionated friend",Ginormous,Self-disciplined,20711,false,1265,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a98343a,Kathy,cat,2023-01-01 11:56:25.486,2,"Independent, mischievous fluffball",Medium,Efficient,18227,true,83,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/5.png
+65c65afd9d77f1ff7a98343b,Natalia,dog,2023-03-03 11:56:25.683,5,Energetic cuddle buddy,Small,Calm,3463,false,1726,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a98343c,Bob,dog,2022-10-13 11:56:26.034,13,Playful mischief maker,Large,Visionary,28152,false,43,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a98343d,Mollie,dog,2024-02-08 11:56:26.423,5,"Trusty, shadow-like companion",Ginormous,Quick-witted,12072,false,1082,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a98343e,Raul,bird,2023-10-27 11:56:26.625,10,"Independent, mischievous floof",Micro,Level-headed,10590,false,1600,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a98343f,Robert,dog,2022-11-04 11:56:26.844,9,Feathery cuddle monster,Micro,Gentle,14220,false,1440,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983440,Loma,cat,2023-05-20 11:56:27.061,6,Independent house guest,Small,Romantic,21017,false,1425,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/32.png
+65c65afd9d77f1ff7a983441,John,dog,2022-12-15 11:56:27.467,9,"Soft, quiet cuddlebug",Large,Caring,24859,false,512,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a983442,Emma,fish,2023-02-13 11:56:27.668,11,"Playful, destructive gremlin",Tiny,Mature,10425,false,206,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983443,Virginia,dog,2023-10-27 11:56:27.950,3,"Cheeky, feathered acrobat",Ginormous,Affectionate,13677,false,140,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983444,Paul,cat,2023-11-29 11:56:28.119,10,Adventurous outdoor pal,Large,Easygoing,23446,true,1699,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983445,Darlene,dog,2023-02-14 11:56:28.483,15,Purring stress reliever,Small,Flexible,7618,false,171,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a983446,Richard,dog,2023-03-29 11:56:28.682,7,Feathered dust bunny creator,Small,Compassionate,25951,false,1759,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a983447,Dona,cat,2023-05-01 11:56:28.874,10,"Independent, mischievous fluffball",Ginormous,Adventurous,13486,false,203,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a983448,Margaret,cat,2023-06-19 11:56:29.084,3,"Quiet, shelled observer",Large,Assertive,4215,false,572,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/8.png
+65c65afd9d77f1ff7a983449,Joe,bird,2023-10-08 11:56:29.248,10,Shedding cuddle monster,Small,Individualistic,2509,false,1673,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a98344a,John,cat,2023-06-06 11:56:29.643,8,"Sleepy, snoring cuddle monster",Small,Level-headed,28650,false,188,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/4.png
+65c65afd9d77f1ff7a98344b,Vincent,fish,2022-11-13 11:56:29.878,13,Quiet aquarium resident,Large,Frank,22843,false,1699,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98344c,Andrew,fish,2023-08-19 11:56:30.075,8,"Graceful, silent swimmer",Small,Sincere,12466,false,837,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a98344d,Victor,cat,2023-12-23 11:56:30.286,8,"Chatty, opinionated alarm clock",Tiny,Funny,6284,false,1570,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a98344e,Elsie,bird,2023-08-29 11:56:30.517,5,Quiet aquarium resident,Micro,Enthusiastic,27515,true,13,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a98344f,James,bird,2023-02-15 11:56:30.865,8,"Cheeky, feathered acrobat",Large,Reliable,3806,true,56,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a983450,Christopher,dog,2023-03-01 11:56:31.053,1,Quiet aquarium resident,Ginormous,Empathetic,22722,false,1104,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/22.png
+65c65afd9d77f1ff7a983451,Neal,dog,2023-03-08 11:56:31.418,14,Affectionate lap warmer,Large,Spontaneous,8585,false,1052,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983452,Bryant,fish,2023-06-08 11:56:31.799,10,"Soft, purring heat source",Small,Practical,25894,false,985,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983453,Sarah,cat,2023-05-09 11:56:31.970,8,"Cheeky, feathered acrobat",Medium,Empathetic,7519,false,369,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a983454,Jeremy,cat,2023-07-21 11:56:32.377,0,"Energetic, bark-happy comedian",Medium,Resourceful,8842,true,651,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/17.png
+65c65afd9d77f1ff7a983455,David,dog,2023-03-23 11:56:32.617,11,"Vocal, opinionated friend",Large,Efficient,16509,false,1713,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a983456,Michael,cat,2023-02-09 11:56:32.820,6,"Soft, slobbery companion",Ginormous,Bold,10091,true,799,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/7.png
+65c65afd9d77f1ff7a983457,Celia,fish,2022-10-25 11:56:33.021,13,Purring stress reliever,Medium,Balanced,16500,false,356,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a983458,Lisa,cat,2023-08-11 11:56:33.281,6,Playful water enthusiast,Micro,Motivated,22887,false,1914,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a983459,Rodney,cat,2022-10-08 11:56:33.473,15,Scales in unexpected places,Medium,Level-headed,11118,false,1547,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a98345a,Janice,cat,2023-12-23 11:56:33.672,2,"Soft, silent companion",Medium,Responsible,22735,false,1908,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a98345b,Helen,cat,2023-01-21 11:56:34.030,8,Busy shelled housemate,Medium,Intuitive,11408,false,976,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a98345c,Arlene,fish,2023-03-09 11:56:34.247,2,"Independent, mischievous fluffball",Ginormous,Witty,17149,true,1038,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a98345d,Richard,fish,2023-09-03 11:56:34.598,13,Fin-tastic underwater dancer,Medium,Collaborative,15208,true,1212,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a98345e,Pamela,fish,2023-10-22 11:56:34.785,14,"Nocturnal, chirping serenade",Large,Unique,14313,true,42,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98345f,Gabriel,dog,2023-01-11 11:56:34.973,9,"Chatty, opinionated alarm clock",Tiny,Level-headed,11640,false,1430,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a983460,Carol,cat,2023-07-11 11:56:35.232,13,Clumsy fur tornado,Micro,Sincere,18871,true,846,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a983461,John,fish,2023-10-22 11:56:35.435,12,"Trusty, shadow-like companion",Ginormous,Caring,29585,false,1128,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983462,Ines,dog,2023-07-12 11:56:35.814,15,"Playful, feathery chatterbox",Small,Dependable,28144,false,1194,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/11.png
+65c65afd9d77f1ff7a983463,Rose,fish,2024-01-14 11:56:35.991,3,Waddling ball of sunshine,Micro,Compassionate,8915,false,501,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983464,Judy,cat,2023-09-12 11:56:36.202,7,Quiet aquarium resident,Ginormous,Conscientious,20925,true,590,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a983465,Rebecca,bird,2023-01-20 11:56:36.423,0,Loyal furball friend,Large,Original,6239,true,682,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a983466,Donald,cat,2022-10-05 11:56:36.607,11,"Independent, mischievous floof",Tiny,Creative,17307,false,1742,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a983467,Janet,bird,2023-02-03 11:56:36.961,9,"Independent, nocturnal shadow",Small,Spontaneous,3820,false,314,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a983468,Robert,cat,2023-06-12 11:56:37.326,4,Shedding purring machine,Medium,Quick-witted,6722,false,1212,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a983469,Cynthia,fish,2023-09-30 11:56:37.516,8,"Independent, mischievous floof",Ginormous,Cautious,19545,false,494,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a98346a,Ann,bird,2023-03-26 11:56:37.749,6,Independent cuddle monster,Ginormous,Respectful,21865,true,1882,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a98346b,Angelica,dog,2023-12-11 11:56:38.156,7,"Energetic, bark-happy comedian",Small,Motivated,23554,false,1735,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/16.png
+65c65afd9d77f1ff7a98346c,Jesus,fish,2023-02-10 11:56:38.351,10,Busy shelled housemate,Large,Problem-solver,3556,false,439,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a98346d,Meagan,bird,2023-05-25 11:56:38.531,10,"Playful, aquatic explorer",Small,Mature,26998,true,347,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a98346e,Theresa,fish,2023-09-08 11:56:38.739,10,Loyal furball friend,Micro,Collaborative,28308,false,1342,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98346f,Joel,cat,2022-10-17 11:56:38.953,13,"Busy, burrowing resident",Medium,Level-headed,153,false,0,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/30.png
+65c65afd9d77f1ff7a983470,Steve,dog,2023-11-04 11:56:39.156,0,"Energetic, tail-wagging whirlwind",Medium,Witty,21625,true,1085,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a983471,Rebecca,dog,2023-09-29 11:56:39.377,12,"Independent, feathery acrobat",Medium,Problem-solver,22924,false,159,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983472,Raymond,bird,2023-05-24 11:56:39.571,2,Curious feathered friend,Micro,Introspective,22978,false,1610,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983473,Irma,fish,2023-06-22 11:56:39.744,15,"Aloof, feathered watcher",Ginormous,Resourceful,20206,false,1326,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983474,Marie,dog,2023-07-14 11:56:39.924,4,"Independent, mischievous floof",Medium,Balanced,20205,false,1429,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a983475,Sarah,cat,2023-04-27 11:56:40.369,2,Curious feathered friend,Tiny,Frank,10870,false,1813,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/26.png
+65c65afd9d77f1ff7a983476,Jack,fish,2023-12-05 11:56:40.577,5,"Tiny, destructive hurricane",Small,Visionary,6988,false,1967,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983477,Scot,cat,2023-12-20 11:56:40.772,13,"Nocturnal, squeaking mischief",Tiny,Easygoing,1519,false,330,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a983478,Cecilia,dog,2023-11-10 11:56:41.152,10,"Inquisitive, feathered explorer",Tiny,Charming,24228,false,1633,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983479,Patricia,cat,2023-02-18 11:56:41.339,8,"Independent, nocturnal shadow",Small,Quick-witted,1842,false,1438,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/21.png
+65c65afd9d77f1ff7a98347a,Morris,dog,2023-10-05 11:56:41.560,0,Sunbeam-loving fluffball,Ginormous,Respectful,13136,false,1117,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a98347b,Evelyn,fish,2024-01-28 11:56:41.916,11,Nocturnal cuddle buddy,Medium,Responsible,26525,false,1540,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a98347c,Lyndon,fish,2023-11-01 11:56:42.328,15,Affectionate lap warmer,Small,Respectful,21694,false,279,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a98347d,Phillip,cat,2022-09-28 11:56:42.702,14,Playful mischief maker,Ginormous,Flexible,9926,false,909,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/31.png
+65c65afd9d77f1ff7a98347e,Garland,bird,2023-04-19 11:56:42.882,10,Energetic barking alarm,Large,Charming,9436,false,1800,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a98347f,Luis,cat,2023-05-29 11:56:43.081,9,"Playful, aquatic explorer",Small,Self-disciplined,19231,false,978,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/14.png
+65c65afd9d77f1ff7a983480,Phil,fish,2024-01-11 11:56:43.284,13,Playful water enthusiast,Micro,Loving,11518,false,828,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983481,Patty,fish,2023-09-22 11:56:43.487,9,Feathery cuddle monster,Ginormous,Resourceful,28235,true,65,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983482,Hubert,cat,2024-02-09 11:56:43.863,2,Feathered dust bunny creator,Small,Sincere,4347,true,441,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a983483,William,cat,2023-09-04 11:56:44.058,0,"Trusty, shadow-like companion",Ginormous,Loyal,28281,false,1741,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983484,Patrice,dog,2023-07-29 11:56:44.434,3,"Tiny, destructive hurricane",Large,Thoughtful,25007,true,537,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a983485,Onita,bird,2024-01-28 11:56:44.846,11,Active scaly companion,Micro,Introspective,10105,false,1435,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a983486,Jeffrey,cat,2023-03-05 11:56:45.023,15,"Independent, feathery acrobat",Micro,Responsible,23291,true,735,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/21.png
+65c65afd9d77f1ff7a983487,Neal,cat,2023-05-23 11:56:45.402,10,"Curious, whiskered investigator",Medium,Confident,9527,false,1377,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/8.png
+65c65afd9d77f1ff7a983488,Vernon,fish,2023-11-12 11:56:45.624,13,"Cheeky, feathered acrobat",Medium,Enthusiastic,2916,false,1961,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983489,Dan,fish,2022-11-12 11:56:46.015,13,"Trusty, shadow-like companion",Large,Practical,12796,false,1705,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98348a,Jessie,cat,2023-04-30 11:56:46.219,11,"Soft, quiet cuddlebug",Medium,Zestful,23404,true,1253,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/5.png
+65c65afd9d77f1ff7a98348b,Joseph,bird,2022-11-27 11:56:46.415,3,Affectionate lap warmer,Micro,Strong,4406,false,1590,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a98348c,Candice,dog,2023-08-21 11:56:46.609,3,Purring dust bunny magnet,Small,Zestful,8569,false,519,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a98348d,Helen,fish,2023-01-28 11:56:46.793,2,Adventurous outdoor pal,Medium,Problem-solver,27271,false,144,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a98348e,Jamie,dog,2022-11-04 11:56:46.990,0,"Curious, whiskered investigator",Ginormous,Level-headed,14011,false,1987,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/15.png
+65c65afd9d77f1ff7a98348f,John,dog,2022-12-02 11:56:47.329,1,Adventurous outdoor pal,Large,Funny,24022,false,1646,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983490,Robert,dog,2023-06-26 11:56:47.530,10,Aloof feathered observer,Medium,Sincere,13104,false,244,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a983491,Thomas,fish,2023-01-24 11:56:47.737,13,"Soft, silent companion",Large,Adventurous,8381,false,457,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983492,Beth,fish,2023-09-19 11:56:48.071,6,Playful mischief maker,Ginormous,Gentle,10571,false,586,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a983493,Paul,bird,2024-01-27 11:56:49.108,4,"Nocturnal, chirping serenade",Micro,Assertive,9780,true,1306,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a983494,Tammy,bird,2023-10-31 11:56:49.290,13,Quiet aquarium resident,Medium,Empathetic,10008,false,143,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a983495,Carol,cat,2022-11-20 11:56:50.539,9,Sunbeam-loving fluffball,Large,Selfless,23691,true,486,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a983496,Renee,dog,2023-09-01 11:56:50.857,14,"Nocturnal, squeaking mischief",Ginormous,Selfless,13538,false,467,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a983497,Richard,bird,2022-11-26 11:56:51.949,8,Sunbeam-loving fluffball,Medium,Neat,23609,false,336,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a983498,Jeff,cat,2022-12-12 11:56:52.143,10,"Independent, mischievous floof",Ginormous,Witty,7149,false,1511,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/0.png
+65c65afd9d77f1ff7a983499,Darin,fish,2023-07-20 11:56:53.143,11,Quiet aquarium resident,Small,Outgoing,22630,false,29,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98349a,Mary,bird,2023-09-11 11:56:53.339,4,"Playful, destructive gremlin",Medium,Optimistic,18030,false,1687,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a98349b,Rachael,dog,2023-04-22 11:56:53.700,11,"Independent, mischievous floof",Medium,Neat,15718,false,729,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a98349c,Jean,cat,2023-03-12 11:56:53.913,3,"Soft, purring heat source",Medium,Curious,5165,false,288,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a98349d,Shirley,fish,2023-08-10 11:56:54.152,15,"Vocal, opinionated friend",Large,Energetic,7650,false,1989,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98349e,Kevin,bird,2023-12-03 11:56:54.369,1,"Energetic, tail-wagging whirlwind",Large,Humorous,9563,false,30,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a98349f,Diana,cat,2023-11-23 11:56:54.595,5,Affectionate lap warmer,Micro,Original,22093,false,1134,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a9834a0,Monica,cat,2023-03-01 11:56:54.998,1,Nocturnal cuddle buddy,Medium,Warm,20879,false,913,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a9834a1,William,bird,2023-01-02 11:56:55.372,14,"Independent, mischievous floof",Large,Humorous,22700,false,1947,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a9834a2,Joseph,bird,2022-11-04 11:56:55.554,7,"Playful, aquatic explorer",Ginormous,Methodical,24749,false,488,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a9834a3,David,bird,2023-06-14 11:56:55.919,4,"Independent, nocturnal shadow",Ginormous,Curious,14009,true,1838,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9834a4,Harold,dog,2023-10-28 11:56:56.123,0,Independent house guest,Tiny,Compassionate,12259,false,705,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a9834a5,Lorena,fish,2023-10-11 11:56:56.316,4,Purring symphony composer,Ginormous,Kind,1643,false,483,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a9834a6,Frederic,cat,2023-07-28 11:56:56.490,2,Independent cuddle monster,Tiny,Mature,20060,false,1087,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9834a7,Henry,bird,2023-10-04 11:56:56.679,7,Nocturnal cuddle buddy,Medium,Sociable,24280,false,699,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/7.png
+65c65afd9d77f1ff7a9834a8,Michelle,dog,2023-07-16 11:56:56.886,7,"Soft, silent companion",Large,Creative,7305,true,1238,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/3.png
+65c65afd9d77f1ff7a9834a9,Marcus,cat,2023-12-19 11:56:57.343,1,Energetic barking alarm,Small,Methodical,16257,false,1530,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9834aa,Martin,cat,2023-06-18 11:56:57.546,15,Loyal furball friend,Large,Humorous,21703,false,1462,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9834ab,Henry,cat,2023-08-13 11:56:57.926,5,"Cheeky, feathered acrobat",Micro,Charismatic,3546,false,959,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9834ac,Aaron,cat,2022-10-16 11:56:58.116,7,Nocturnal cuddle buddy,Tiny,Charming,8334,true,1729,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a9834ad,Victor,dog,2022-12-12 11:56:58.556,3,Messy feathered comedian,Medium,Easygoing,20699,false,182,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a9834ae,Aida,dog,2023-12-22 11:56:58.930,6,"Cheeky, feathered acrobat",Tiny,Efficient,16056,false,1849,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9834af,Adrian,bird,2023-08-06 11:56:59.127,8,"Independent, feathery acrobat",Micro,Respectful,19066,true,1841,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/8.png
+65c65afd9d77f1ff7a9834b0,Michel,cat,2023-05-27 11:56:59.293,1,"Playful, aquatic explorer",Large,Patient,2199,false,1377,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a9834b1,Margie,dog,2023-04-09 11:56:59.651,1,"Curious, whiskered investigator",Tiny,Frank,29887,true,346,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9834b2,Evan,bird,2023-12-25 11:56:59.838,1,Busy shelled housemate,Large,Patient,20532,false,447,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9834b3,Kenneth,cat,2022-12-31 11:57:00.220,10,"Playful, destructive gremlin",Small,Methodical,28702,true,1783,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/15.png
+65c65afd9d77f1ff7a9834b4,Elana,fish,2023-10-28 11:57:00.421,0,"Playful, aquatic explorer",Ginormous,Loving,23866,false,1776,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a9834b5,Richard,dog,2023-09-01 11:57:00.751,2,Affectionate lap warmer,Micro,Humorous,10415,false,1038,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a9834b6,Robin,fish,2023-07-08 11:57:01.007,6,Scales in unexpected places,Micro,Problem-solver,13187,false,1090,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a9834b7,Pat,fish,2023-07-11 11:57:01.386,7,Purring symphony composer,Medium,Reliable,15928,false,1093,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a9834b8,Robert,fish,2024-01-12 11:57:01.603,10,Active scaly companion,Tiny,Motivated,610,false,322,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a9834b9,Albert,cat,2024-01-28 11:57:02.000,8,"Soft, slobbery companion",Ginormous,Funny,19729,false,1054,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9834ba,Matthew,dog,2023-06-11 11:57:02.468,9,Scales in unexpected places,Medium,Reliable,21099,false,320,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/6.png
+65c65afd9d77f1ff7a9834bb,Hazel,fish,2023-12-11 11:57:02.684,4,"Independent, nocturnal shadow",Ginormous,Introspective,26620,false,459,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a9834bc,Pauline,fish,2023-11-17 11:57:03.076,0,"Independent, mischievous floof",Ginormous,Enthusiastic,22385,false,1684,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9834bd,Sarah,bird,2022-12-06 11:57:03.290,1,Purring symphony composer,Micro,Loyal,15079,false,1279,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a9834be,Gabriel,cat,2023-07-22 11:57:03.642,7,Adventurous outdoor pal,Large,Trustworthy,9382,false,1117,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a9834bf,Matthew,dog,2022-11-24 11:57:04.042,7,Independent house guest,Small,Visionary,18711,false,485,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a9834c0,Joan,fish,2023-10-02 11:57:04.263,0,"Soft, curious companion",Micro,Reliable,14501,false,1373,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9834c1,Rhonda,dog,2023-10-29 11:57:04.452,12,"Cheeky, feathered acrobat",Small,Charming,16531,true,1782,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/13.png
+65c65afd9d77f1ff7a9834c2,George,cat,2022-10-19 11:57:04.656,0,"Graceful, silent swimmer",Micro,Confident,14607,false,1254,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9834c3,Chester,fish,2023-05-13 11:57:04.896,4,Aloof feathered observer,Tiny,Charismatic,3606,false,1842,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a9834c4,Tara,cat,2023-09-25 11:57:05.281,4,"Soft, purring heat source",Large,Affectionate,27458,false,138,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a9834c5,Anthony,bird,2023-01-18 11:57:05.503,10,"Soft, quiet cuddlebug",Small,Thoughtful,14923,false,1497,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a9834c6,Adam,cat,2022-10-30 11:57:05.885,13,Messy feathered comedian,Ginormous,Easygoing,25142,false,126,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/17.png
+65c65afd9d77f1ff7a9834c7,Tom,dog,2023-07-16 11:57:06.081,7,"Independent, mischievous floof",Small,Neat,18997,false,1107,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9834c8,Lisa,bird,2023-10-08 11:57:06.281,14,"Quiet, shelled observer",Small,Sociable,24340,false,1836,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a9834c9,Jennifer,dog,2023-04-12 11:57:06.490,3,Playful mischief maker,Ginormous,Individualistic,10512,false,893,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/16.png
+65c65afd9d77f1ff7a9834ca,Joe,dog,2024-01-26 11:57:06.749,1,Aloof feathered observer,Medium,Original,20060,false,401,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a9834cb,Joanne,fish,2023-04-15 11:57:06.940,10,"Aloof, feathered watcher",Ginormous,Intuitive,28298,false,853,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a9834cc,Sandra,cat,2023-09-09 11:57:07.143,13,Busy shelled housemate,Small,Sociable,11174,false,1856,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a9834cd,James,dog,2023-11-24 11:57:07.360,2,Shedding cuddle monster,Large,Selfless,29361,false,1762,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9834ce,Twyla,cat,2023-09-22 11:57:07.735,1,"Chatty, opinionated alarm clock",Small,Selfless,28700,false,1691,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a9834cf,Dennis,dog,2022-12-15 11:57:08.112,3,Energetic cuddle buddy,Tiny,Diplomatic,20250,false,1983,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a9834d0,William,dog,2022-09-27 11:57:08.310,4,"Playful, aquatic explorer",Tiny,Kind,2762,false,1103,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a9834d1,Louis,bird,2023-11-11 11:57:08.494,11,Waddling ball of sunshine,Small,Outgoing,24895,false,1657,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a9834d2,Stanley,dog,2022-10-12 11:57:08.873,5,Purring symphony composer,Tiny,Caring,13674,false,1398,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9834d3,Jerry,cat,2023-12-06 11:57:09.067,11,"Soft, purring heat source",Ginormous,Sensitive,8638,false,905,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/2.png
+65c65afd9d77f1ff7a9834d4,Casey,bird,2023-02-14 11:57:09.236,3,Trustworthy sidekick,Medium,Playful,26649,false,1750,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a9834d5,William,bird,2023-01-08 11:57:09.428,1,Feathered dust bunny creator,Ginormous,Optimistic,20520,false,860,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a9834d6,Travis,dog,2024-01-12 11:57:09.645,15,Fin-tastic underwater dancer,Small,Empathetic,18164,false,1627,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9834d7,Dana,fish,2022-10-09 11:57:09.836,14,Fin-tastic underwater dancer,Large,Caring,2346,true,1420,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a9834d8,Darryl,dog,2023-03-12 11:57:10.029,3,Shedding purring machine,Small,Observant,23672,false,985,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a9834d9,Patience,cat,2023-04-30 11:57:10.213,8,Independent house guest,Micro,Motivated,27232,false,167,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9834da,Eleanor,cat,2024-02-07 11:57:10.419,2,"Cheeky, feathered acrobat",Medium,Self-disciplined,29055,false,1624,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a9834db,Jacob,dog,2023-11-28 11:57:10.921,3,Happy tail wagger,Ginormous,Patient,23201,false,1608,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a9834dc,Brianne,cat,2023-05-15 11:57:11.162,15,Feathery cuddle monster,Large,Assertive,3010,false,259,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/2.png
+65c65afd9d77f1ff7a9834dd,Dorothy,cat,2024-01-02 11:57:11.561,6,Adventurous outdoor pal,Tiny,Practical,22686,false,438,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a9834de,Fatima,bird,2023-06-22 11:57:11.945,2,"Soft, silent companion",Large,Sincere,7496,false,539,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a9834df,Garrett,dog,2022-10-21 11:57:12.139,10,Quiet aquarium resident,Ginormous,Easygoing,29830,false,1798,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9834e0,Terrence,fish,2023-05-24 11:57:12.322,0,"Curious, whiskered investigator",Ginormous,Bold,7266,false,1264,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/1.png
+65c65afd9d77f1ff7a9834e1,Cheryl,bird,2023-01-27 11:57:12.557,5,"Energetic, bark-happy comedian",Ginormous,Conscientious,20281,false,1919,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a9834e2,Gayla,bird,2023-08-19 11:57:12.978,6,"Soft, slobbery companion",Ginormous,Motivated,14744,false,644,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a9834e3,Diana,dog,2023-04-11 11:57:13.219,11,Sunbeam-loving fluffball,Medium,Caring,29220,false,1785,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a9834e4,Katherine,dog,2023-12-16 11:57:13.406,13,Trustworthy sidekick,Medium,Witty,8416,false,728,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/23.png
+65c65afd9d77f1ff7a9834e5,Catherine,dog,2023-02-20 11:57:13.812,14,"Aloof, feathered watcher",Large,Conscientious,5180,true,1979,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a9834e6,Marcus,fish,2023-02-07 11:57:14.006,8,"Loyal, watchful protector",Micro,Persuasive,18183,false,1700,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9834e7,Tammy,cat,2022-12-27 11:57:14.193,12,"Soft, curious companion",Small,Self-disciplined,23957,false,91,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/12.png
+65c65afd9d77f1ff7a9834e8,Vincent,fish,2023-08-12 11:57:14.436,3,"Curious, whiskered investigator",Small,Empathetic,4562,true,1832,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a9834e9,Bryan,cat,2023-11-04 11:57:14.630,1,Feathery cuddle monster,Micro,Friendly,6624,false,361,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a9834ea,Van,dog,2023-06-03 11:57:14.862,11,Clumsy fur tornado,Small,Balanced,9303,false,903,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a9834eb,Richard,fish,2023-05-18 11:57:15.065,1,Loyal furball friend,Large,Charming,12804,false,566,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9834ec,George,bird,2024-01-09 11:57:15.432,11,Adventurous outdoor pal,Micro,Problem-solver,26562,false,1292,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a9834ed,George,cat,2023-02-01 11:57:15.633,12,Aloof feathered observer,Tiny,Frank,1586,false,886,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a9834ee,Vicki,fish,2023-12-26 11:57:15.986,5,"Energetic, bark-happy comedian",Ginormous,Leader,21739,false,1421,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a9834ef,Jamie,cat,2024-01-04 11:57:16.201,7,"Nocturnal, chirping serenade",Large,Frank,13166,false,962,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/8.png
+65c65afd9d77f1ff7a9834f0,Craig,dog,2023-11-24 11:57:16.586,0,Nocturnal cuddle buddy,Small,Balanced,2942,false,1364,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a9834f1,Esther,bird,2022-10-22 11:57:16.968,1,Shedding cuddle monster,Ginormous,Determined,25340,false,1521,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a9834f2,Doris,bird,2023-07-08 11:57:17.173,10,Independent house guest,Large,Determined,25116,false,770,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/13.png
+65c65afd9d77f1ff7a9834f3,Anthony,fish,2022-10-16 11:57:17.477,6,Energetic cuddle buddy,Micro,Persuasive,7870,false,808,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a9834f4,Joshua,bird,2023-03-07 11:57:17.887,7,"Quiet, shelled observer",Large,Organized,14766,false,165,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a9834f5,Thomas,bird,2023-04-13 11:57:18.228,2,Energetic cuddle buddy,Medium,Sociable,29744,false,1557,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a9834f6,Kayla,cat,2023-03-01 11:57:18.409,11,"Independent, mischievous fluffball",Large,Outgoing,26398,false,219,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/15.png
+65c65afd9d77f1ff7a9834f7,Elaine,bird,2022-12-28 11:57:18.623,3,Sunbeam-loving fluffball,Ginormous,Leader,14092,false,446,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a9834f8,Michelle,fish,2023-04-27 11:57:18.985,9,"Soft, slobbery companion",Small,Neat,7499,false,1397,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a9834f9,Marilyn,dog,2023-12-07 11:57:19.213,0,"Vocal, opinionated friend",Large,Problem-solver,16646,false,1067,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a9834fa,Peter,dog,2023-11-07 11:57:19.558,5,Busy shelled housemate,Small,Cautious,4740,false,384,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a9834fb,Frances,bird,2023-08-26 11:57:19.956,11,Independent house guest,Small,Determined,4656,false,1029,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a9834fc,Antone,bird,2023-02-21 11:57:20.143,5,"Playful, feathery kleptomaniac",Medium,Loyal,28366,false,243,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a9834fd,Jon,bird,2023-07-10 11:57:20.347,10,Happy tail wagger,Large,Humorous,13687,false,259,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a9834fe,Patrick,fish,2023-12-23 11:57:20.554,7,Energetic cuddle buddy,Medium,Responsible,9041,false,660,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a9834ff,Edward,dog,2023-01-31 11:57:20.777,6,Feathery cuddle monster,Tiny,Alert,22547,false,1849,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a983500,Daniel,bird,2023-11-05 11:57:20.967,3,"Quiet, shelled observer",Micro,Organized,10844,true,910,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a983501,Alicia,cat,2023-11-29 11:57:21.157,15,"Nocturnal, squeaking mischief",Medium,Loving,1266,false,486,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a983502,Joel,bird,2023-10-24 11:57:21.374,15,Playful water enthusiast,Micro,Energetic,28515,false,251,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/7.png
+65c65afd9d77f1ff7a983503,Joanna,bird,2022-10-01 11:57:21.603,5,"Soft, purring heat source",Large,Visionary,20591,true,1263,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983504,Joseph,cat,2023-03-04 11:57:21.822,4,Nocturnal cuddle buddy,Tiny,Warm,29858,false,894,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/22.png
+65c65afd9d77f1ff7a983505,Michael,dog,2023-04-04 11:57:22.151,11,Energetic cuddle buddy,Micro,Selfless,2245,false,1017,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/17.png
+65c65afd9d77f1ff7a983506,Scott,fish,2023-11-27 11:57:22.322,1,Shedding cuddle monster,Micro,Playful,6116,false,1269,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983507,Dawn,bird,2022-11-19 11:57:22.486,3,Trustworthy sidekick,Micro,Energetic,15144,false,1725,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983508,James,cat,2023-03-28 11:57:22.666,2,Loyal furball friend,Small,Peace-loving,10289,false,1265,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/20.png
+65c65afd9d77f1ff7a983509,Leatha,bird,2023-09-07 11:57:23.030,3,"Playful, feathery kleptomaniac",Tiny,Reliable,27238,false,687,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a98350a,James,bird,2023-08-23 11:57:23.394,0,"Busy, burrowing resident",Small,Playful,852,true,340,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a98350b,Nancy,fish,2023-05-01 11:57:23.611,12,"Cheeky, feathered acrobat",Small,Zestful,4974,true,1887,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a98350c,Bernard,bird,2023-12-26 11:57:23.840,10,"Soft, quiet cuddlebug",Ginormous,Self-disciplined,21517,false,1636,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/21.png
+65c65afd9d77f1ff7a98350d,Phyllis,cat,2023-12-31 11:57:24.033,13,Busy shelled housemate,Micro,Kind,13207,false,868,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a98350e,Hannah,cat,2022-11-18 11:57:24.261,0,"Graceful, silent swimmer",Small,Methodical,28506,false,63,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/9.png
+65c65afd9d77f1ff7a98350f,Maria,fish,2023-12-25 11:57:24.483,2,Quiet aquarium resident,Tiny,Flexible,9464,false,869,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a983510,Alfredo,fish,2024-02-08 11:57:24.704,12,"Soft, purring heat source",Large,Self-disciplined,24716,false,1260,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983511,John,dog,2023-04-03 11:57:24.965,5,"Tiny, destructive hurricane",Small,Compassionate,24137,false,144,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/9.png
+65c65afd9d77f1ff7a983512,Melissa,bird,2023-10-24 11:57:25.211,11,"Curious, whiskered investigator",Tiny,Observant,23910,false,1355,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/23.png
+65c65afd9d77f1ff7a983513,Gina,dog,2023-08-10 11:57:25.405,12,"Energetic, tail-wagging whirlwind",Micro,Original,1134,true,7,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/0.png
+65c65afd9d77f1ff7a983514,Roderick,fish,2023-11-30 11:57:25.593,9,Happy tail wagger,Tiny,Funny,11963,false,1474,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983515,Marita,dog,2023-03-18 11:57:25.867,9,Playful water enthusiast,Small,Honest,17679,false,572,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a983516,Paul,bird,2023-09-17 11:57:26.135,2,Curious feathered friend,Tiny,Conscientious,13177,false,515,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983517,Alice,fish,2023-04-18 11:57:26.491,8,Playful mischief maker,Large,Compassionate,29422,false,1765,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a983518,Marsha,dog,2023-03-04 11:57:26.680,15,Loyal furball friend,Micro,Individualistic,9882,false,1156,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/19.png
+65c65afd9d77f1ff7a983519,Garland,cat,2023-11-08 11:57:26.905,8,Affectionate lap warmer,Micro,Individualistic,4938,false,692,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a98351a,Vivian,fish,2022-10-05 11:57:27.112,8,Trustworthy sidekick,Medium,Bold,16502,false,1275,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98351b,Donald,cat,2023-03-30 11:57:27.295,6,Active scaly companion,Large,Peace-loving,4889,false,791,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a98351c,Shannon,dog,2024-01-14 11:57:27.713,7,Independent cuddle monster,Small,Alert,8178,false,254,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/12.png
+65c65afd9d77f1ff7a98351d,Robert,fish,2023-09-03 11:57:28.082,5,Playful mischief maker,Small,Peace-loving,19603,false,1265,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a98351e,Dora,fish,2024-01-24 11:57:28.460,13,"Nocturnal, squeaking mischief",Large,Persuasive,148,false,1533,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98351f,Anthony,fish,2023-06-15 11:57:28.831,1,"Chatty, opinionated alarm clock",Medium,Persuasive,1036,false,1207,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983520,Maggie,cat,2023-04-16 11:57:29.140,15,"Graceful, silent swimmer",Small,Mature,11820,false,265,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a983521,Herman,bird,2022-10-05 11:57:29.494,14,"Energetic, tail-wagging whirlwind",Tiny,Peace-loving,10958,false,1504,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/3.png
+65c65afd9d77f1ff7a983522,Joshua,fish,2023-07-26 11:57:29.705,9,"Soft, slobbery companion",Tiny,Assertive,27987,false,350,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a983523,Nancy,fish,2024-01-10 11:57:29.962,2,"Independent, mischievous fluffball",Micro,Peace-loving,23645,false,554,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983524,Jessica,cat,2023-09-25 11:57:30.208,4,Curious feathered friend,Medium,Selfless,23384,true,894,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/23.png
+65c65afd9d77f1ff7a983525,Eric,bird,2022-12-12 11:57:30.444,13,"Soft, slobbery companion",Ginormous,Easygoing,10593,false,1462,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983526,Winnie,dog,2023-11-17 11:57:30.709,11,"Playful, aquatic explorer",Medium,Methodical,12686,false,1297,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a983527,Andrew,fish,2023-07-07 11:57:30.929,11,Purring symphony composer,Small,Efficient,1253,false,1774,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a983528,Charles,cat,2022-12-28 11:57:31.324,9,Energetic barking alarm,Micro,Zestful,15930,false,144,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/29.png
+65c65afd9d77f1ff7a983529,Helen,cat,2023-02-16 11:57:31.502,9,Busy shelled housemate,Medium,Respectful,19148,false,1554,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/33.png
+65c65afd9d77f1ff7a98352a,Clarence,bird,2022-12-16 11:57:31.735,11,Active scaly companion,Micro,Responsible,26676,false,1478,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a98352b,Jeremiah,fish,2023-01-28 11:57:31.951,10,Independent cuddle monster,Tiny,Precise,12688,false,1823,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/15.png
+65c65afd9d77f1ff7a98352c,Andrew,cat,2023-10-14 11:57:32.184,4,"Soft, slobbery companion",Ginormous,Diplomatic,2685,false,1936,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a98352d,Jean,bird,2023-06-11 11:57:32.530,8,"Soft, purring heat source",Ginormous,Selfless,29641,false,911,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/12.png
+65c65afd9d77f1ff7a98352e,Tonya,bird,2023-07-16 11:57:32.689,15,Feathered dust bunny creator,Ginormous,Resourceful,7715,false,963,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a98352f,Dianne,dog,2023-07-05 11:57:32.885,3,Nocturnal cuddle buddy,Medium,Assertive,24281,true,901,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983530,Latoya,bird,2022-12-04 11:57:33.111,14,"Energetic, bark-happy comedian",Tiny,Patient,20654,false,1185,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a983531,Anthony,dog,2022-12-23 11:57:33.483,3,Nocturnal cuddle buddy,Large,Frank,17402,false,1160,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/4.png
+65c65afd9d77f1ff7a983532,Otis,fish,2023-03-21 11:57:33.861,15,Aloof feathered observer,Large,Neat,6411,false,391,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983533,Mary,fish,2023-02-22 11:57:34.193,11,"Energetic, tail-wagging whirlwind",Medium,Thoughtful,18585,false,786,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/5.png
+65c65afd9d77f1ff7a983534,Rey,fish,2022-11-20 11:57:34.597,3,"Playful, aquatic explorer",Large,Optimistic,26955,false,965,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/9.png
+65c65afd9d77f1ff7a983535,Winifred,bird,2023-12-18 11:57:35.013,9,"Curious, whiskered investigator",Micro,Caring,13913,false,1968,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/6.png
+65c65afd9d77f1ff7a983536,Ma,cat,2023-02-20 11:57:35.272,14,"Trusty, shadow-like companion",Large,Zestful,7437,false,1226,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/11.png
+65c65afd9d77f1ff7a983537,Lisa,dog,2022-11-15 11:57:35.494,10,"Soft, curious companion",Tiny,Humorous,25781,false,1757,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983538,Donald,bird,2023-04-27 11:57:35.891,3,"Chatty, opinionated alarm clock",Medium,Respectful,15108,false,1969,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/16.png
+65c65afd9d77f1ff7a983539,Ronald,bird,2024-01-23 11:57:36.060,2,"Vocal, opinionated friend",Ginormous,Quick-witted,27523,false,929,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/0.png
+65c65afd9d77f1ff7a98353a,Trent,fish,2023-03-27 11:57:36.327,7,"Energetic, tail-wagging whirlwind",Micro,Efficient,13089,false,421,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/3.png
+65c65afd9d77f1ff7a98353b,Nathaniel,cat,2023-07-29 11:57:36.510,5,"Tiny, destructive hurricane",Medium,Adventurous,16988,false,251,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a98353c,Craig,dog,2024-01-08 11:57:36.734,10,Feathery cuddle monster,Tiny,Creative,19808,false,1120,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a98353d,Kelly,cat,2022-10-10 11:57:36.927,3,"Inquisitive, feathered explorer",Micro,Diplomatic,11831,false,232,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a98353e,Larry,fish,2022-11-13 11:57:37.137,5,Scales in unexpected places,Ginormous,Determined,4875,false,431,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98353f,Thomas,bird,2022-12-14 11:57:37.318,3,"Independent, nocturnal shadow",Tiny,Compassionate,14528,false,459,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/19.png
+65c65afd9d77f1ff7a983540,Trina,bird,2023-08-31 11:57:37.546,15,"Independent, mischievous fluffball",Small,Amiable,3985,false,1471,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/18.png
+65c65afd9d77f1ff7a983541,Rachel,dog,2022-11-23 11:57:37.795,6,Messy feathered comedian,Tiny,Precise,21281,false,1023,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/1.png
+65c65afd9d77f1ff7a983542,Joel,fish,2022-12-16 11:57:38.029,4,"Playful, aquatic explorer",Ginormous,Confident,19608,true,712,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/12.png
+65c65afd9d77f1ff7a983543,Dominic,bird,2023-10-25 11:57:38.216,6,Clumsy fur tornado,Micro,Introspective,3873,false,1255,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983544,Lori,dog,2023-09-20 11:57:38.440,8,"Independent, mischievous floof",Ginormous,Frank,29127,false,1229,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a983545,Dwight,cat,2023-06-20 11:57:38.632,8,"Tiny, destructive hurricane",Small,Gentle,7165,false,975,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/19.png
+65c65afd9d77f1ff7a983546,Michelle,fish,2022-12-01 11:57:38.813,11,Loyal furball friend,Large,Introspective,8097,false,1735,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983547,Jose,bird,2023-05-16 11:57:39.089,5,Quiet aquarium resident,Ginormous,Energetic,15927,false,329,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983548,Amy,cat,2023-09-11 11:57:39.277,11,Affectionate lap warmer,Tiny,Responsible,25321,false,1192,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/6.png
+65c65afd9d77f1ff7a983549,Gabriel,bird,2023-07-24 11:57:39.683,15,Busy shelled housemate,Tiny,Friendly,1934,false,1784,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a98354a,Josephine,cat,2023-04-18 11:57:39.873,4,Trustworthy sidekick,Large,Adventurous,11289,false,1905,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/1.png
+65c65afd9d77f1ff7a98354b,Marianne,bird,2023-02-12 11:57:40.076,14,Shedding cuddle monster,Large,Articulate,530,false,1137,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/10.png
+65c65afd9d77f1ff7a98354c,Claudette,bird,2022-11-07 11:57:40.293,11,"Aloof, feathered watcher",Micro,Loving,23031,true,1222,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/11.png
+65c65afd9d77f1ff7a98354d,Terry,bird,2023-08-17 11:57:40.486,13,"Playful, destructive gremlin",Large,Patient,5680,false,1871,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/22.png
+65c65afd9d77f1ff7a98354e,Julie,fish,2023-07-19 11:57:40.727,15,"Independent, nocturnal shadow",Ginormous,Alert,4439,false,204,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a98354f,Mary,bird,2024-01-21 11:57:40.904,12,"Quiet, shelled observer",Small,Determined,4024,false,1412,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983550,Marguerite,cat,2023-04-26 11:57:41.096,8,Trustworthy sidekick,Small,Mature,15029,false,1599,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/16.png
+65c65afd9d77f1ff7a983551,David,fish,2022-12-20 11:57:41.327,11,Energetic barking alarm,Micro,Assertive,10503,false,1634,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/7.png
+65c65afd9d77f1ff7a983552,Robert,fish,2023-09-18 11:57:41.548,9,Adventurous outdoor pal,Large,Motivated,2961,true,1101,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983553,Edward,bird,2023-01-01 11:57:41.910,7,Shedding purring machine,Tiny,Precise,659,true,32,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png
+65c65afd9d77f1ff7a983554,Ginger,fish,2023-10-28 11:57:42.175,12,"Cheeky, feathered acrobat",Micro,Bold,3937,true,884,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983555,Tabitha,bird,2022-12-24 11:57:42.424,10,"Aloof, feathered watcher",Tiny,Unique,27884,false,1149,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/24.png
+65c65afd9d77f1ff7a983556,Anna,dog,2023-07-11 11:57:42.809,6,"Playful, destructive gremlin",Small,Precise,7307,false,971,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/20.png
+65c65afd9d77f1ff7a983557,Kimberly,fish,2023-03-20 11:57:43.007,12,Aloof feathered observer,Large,Efficient,20513,false,1202,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/2.png
+65c65afd9d77f1ff7a983558,Franklin,cat,2023-10-03 11:57:43.259,11,Playful water enthusiast,Large,Charming,16875,false,1016,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/10.png
+65c65afd9d77f1ff7a983559,Rob,cat,2023-03-27 11:57:43.500,4,"Nocturnal, chirping serenade",Tiny,Mature,29046,false,1846,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/18.png
+65c65afd9d77f1ff7a98355a,Robert,bird,2024-01-12 11:57:43.921,6,"Sleepy, snoring cuddle monster",Ginormous,Peace-loving,787,false,1961,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/15.png
+65c65afd9d77f1ff7a98355b,Bryce,dog,2022-11-14 11:57:44.395,8,"Curious, whiskered investigator",Micro,Friendly,17668,false,1224,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/16.png
+65c65afd9d77f1ff7a98355c,Margaret,fish,2022-12-01 11:57:44.671,7,"Graceful, silent swimmer",Micro,Collaborative,11819,false,1094,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/11.png
+65c65afd9d77f1ff7a98355d,Joseph,cat,2022-12-03 11:57:44.865,9,Affectionate lap warmer,Medium,Patient,24432,false,1215,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/17.png
+65c65afd9d77f1ff7a98355e,Robert,dog,2023-02-26 11:57:45.234,11,Happy tail wagger,Tiny,Alert,27739,false,735,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/14.png
+65c65afd9d77f1ff7a98355f,Orville,bird,2023-01-03 11:57:45.514,6,Purring dust bunny magnet,Medium,Dependable,25463,false,980,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983560,James,fish,2023-07-18 11:57:45.806,7,Independent cuddle monster,Micro,Persuasive,8643,false,334,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a983561,Sandra,dog,2023-02-13 11:57:46.014,2,"Tiny, destructive hurricane",Small,Methodical,4058,false,593,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/10.png
+65c65afd9d77f1ff7a983562,Noe,bird,2023-06-20 11:57:46.271,5,Fin-tastic underwater dancer,Large,Strong,330,true,1216,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/1.png
+65c65afd9d77f1ff7a983563,Charles,bird,2023-11-29 11:57:46.475,7,"Chatty, opinionated alarm clock",Medium,Frank,26697,false,1865,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/4.png
+65c65afd9d77f1ff7a983564,Kevin,cat,2023-06-03 11:57:46.723,12,Independent cuddle monster,Tiny,Friendly,1298,false,1765,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a983565,Judith,fish,2023-05-08 11:57:46.925,10,Independent cuddle monster,Micro,Trustworthy,10538,false,1744,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a983566,Dexter,fish,2023-01-17 11:57:47.127,2,Quiet aquarium resident,Tiny,Humorous,2723,false,1351,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a983567,Amy,bird,2023-10-05 11:57:47.350,15,Trustworthy sidekick,Micro,Trustworthy,22099,true,291,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/20.png
+65c65afd9d77f1ff7a983568,Miguel,dog,2023-02-23 11:57:47.726,8,"Playful, feathery kleptomaniac",Small,Bold,2920,true,1984,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/2.png
+65c65afd9d77f1ff7a983569,Paul,cat,2023-07-19 11:57:48.100,5,Nocturnal cuddle buddy,Ginormous,Alert,10166,false,1263,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/28.png
+65c65afd9d77f1ff7a98356a,Martin,dog,2023-12-02 11:57:48.313,10,Curious feathered friend,Ginormous,Sociable,4268,false,695,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/5.png
+65c65afd9d77f1ff7a98356b,James,cat,2024-01-22 11:57:48.686,9,"Quiet, shelled observer",Small,Optimistic,14130,false,1443,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/13.png
+65c65afd9d77f1ff7a98356c,Robert,bird,2022-10-01 11:57:48.883,1,Independent cuddle monster,Small,Quick-witted,28818,false,1729,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/14.png
+65c65afd9d77f1ff7a98356d,Joey,fish,2022-10-14 11:57:49.110,3,"Trusty, shadow-like companion",Tiny,Sincere,11496,false,1424,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a98356e,Phyllis,dog,2023-07-14 11:57:49.296,2,"Trusty, shadow-like companion",Large,Kind,11164,false,1537,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/21.png
+65c65afd9d77f1ff7a98356f,Linda,bird,2022-12-09 11:57:49.714,15,"Sleepy, snoring cuddle monster",Large,Honest,13783,false,373,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/17.png
+65c65afd9d77f1ff7a983570,John,bird,2023-09-25 11:57:49.919,3,"Vocal, opinionated friend",Tiny,Sociable,6012,true,1283,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/9.png
+65c65afd9d77f1ff7a983571,Darlene,dog,2023-06-08 11:57:50.133,4,Aloof feathered observer,Tiny,Peace-loving,8634,false,577,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a983572,John,dog,2023-03-09 11:57:50.326,7,Quiet aquarium resident,Micro,Neat,25514,false,1389,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/8.png
+65c65afd9d77f1ff7a983573,Dorothy,dog,2023-05-20 11:57:50.616,10,Waddling ball of sunshine,Medium,Observant,17264,false,281,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983574,Everett,cat,2023-05-21 11:57:50.815,10,"Vocal, opinionated friend",Medium,Responsible,26787,false,1091,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/17.png
+65c65afd9d77f1ff7a983575,Junko,cat,2023-01-31 11:57:51.043,7,Scales in unexpected places,Medium,Organized,16816,false,188,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/27.png
+65c65afd9d77f1ff7a983576,George,cat,2022-12-10 11:57:51.356,5,Busy shelled housemate,Small,Visionary,2792,false,1088,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/25.png
+65c65afd9d77f1ff7a983577,William,dog,2023-11-18 11:57:51.715,2,"Vocal, opinionated friend",Micro,Amiable,23592,false,1753,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/18.png
+65c65afd9d77f1ff7a983578,Mary,fish,2023-01-17 11:57:52.085,5,Curious feathered friend,Tiny,Determined,9098,false,908,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983579,Delilah,dog,2023-07-28 11:57:52.349,4,"Sleepy, snoring cuddle monster",Micro,Leader,28966,false,1963,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a98357a,Charlene,fish,2023-05-17 11:57:52.759,4,"Soft, quiet cuddlebug",Small,Collaborative,21476,false,997,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98357b,Roslyn,fish,2023-02-05 11:57:53.020,7,"Curious, whiskered investigator",Micro,Optimistic,5748,false,892,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/10.png
+65c65afd9d77f1ff7a98357c,Minnie,dog,2023-11-28 11:57:53.600,0,Happy tail wagger,Tiny,Observant,10891,false,1531,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/24.png
+65c65afd9d77f1ff7a98357d,Brandi,fish,2023-09-04 11:57:53.992,3,Playful mischief maker,Small,Compassionate,21503,false,421,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/4.png
+65c65afd9d77f1ff7a98357e,James,fish,2023-09-29 11:57:54.222,4,Sunbeam-loving fluffball,Large,Romantic,10114,false,1739,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/8.png
+65c65afd9d77f1ff7a98357f,Beth,fish,2022-10-03 11:57:54.414,10,Busy shelled housemate,Medium,Respectful,1621,true,113,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983580,Joyce,dog,2023-06-02 11:57:54.632,15,"Sleepy, snoring cuddle monster",Medium,Quick-witted,20074,false,42,65c4fbf8ad328e73f11fb8fb,https://cdn.animality.xyz/dog/7.png
+65c65afd9d77f1ff7a983581,Deloris,fish,2023-10-19 11:57:54.980,12,"Quiet, shelled observer",Small,Affectionate,17756,false,785,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/0.png
+65c65afd9d77f1ff7a983582,Patrick,fish,2023-12-16 11:57:55.352,8,"Nocturnal, chirping serenade",Small,Diplomatic,11185,true,621,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983583,Clyde,fish,2024-02-09 11:57:55.556,15,Purring symphony composer,Micro,Funny,11487,false,36,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983584,Florence,fish,2023-11-14 11:57:55.741,13,"Nocturnal, chirping serenade",Large,Sincere,6842,false,1670,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/6.png
+65c65afd9d77f1ff7a983585,Gregory,cat,2023-10-09 11:57:55.916,9,"Sleepy, snoring cuddle monster",Micro,Energetic,3396,false,1657,65c4fd9aad328e73f11fb8fc,https://cdn.animality.xyz/cat/24.png
+65c65afd9d77f1ff7a983586,John,fish,2023-08-19 11:57:56.116,8,Independent house guest,Tiny,Loving,10112,false,1289,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/13.png
+65c65afd9d77f1ff7a983587,Tyler,fish,2023-02-24 11:57:56.463,14,Affectionate lap warmer,Ginormous,Organized,8785,false,1587,65c4fe35ad328e73f11fb8ff,https://cdn.animality.xyz/fish/14.png
+65c65afd9d77f1ff7a983588,Wilma,bird,2023-08-11 11:57:56.876,1,"Loyal, watchful protector",Small,Witty,25201,false,767,65c4fe04ad328e73f11fb8fe,https://cdn.animality.xyz/bird/2.png

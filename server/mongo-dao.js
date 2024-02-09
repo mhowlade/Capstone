@@ -30,6 +30,10 @@ module.exports.getOrders = function (callback) {
     let dataPromise = orders.find({}).toArray();
     dataPromise.then((char) => callback(char));
 };
+module.exports.findProductById = async function(oid,callback){
+    let dataP = await products.find_one({_id:oid});
+    callback(dataP);
+};
 module.exports.findProductsByCategory = async function(category_id,callback){
     let prodArray = await products.find({category_id:category_id}).toArray();
     callback(prodArray);
@@ -38,6 +42,11 @@ module.exports.findProductsByAnimal = async function(animal,callback){
     let prodArray = await products.find({animal:animal}).toArray();
     callback(prodArray);
 }
+module.exports.findRecommendedProducts = async function(oid,count,callback){
+    let prodArray = await products.find({_id:oid}).toArray();
+    callback(prodArray);
+}
+
 module.exports.findPopularProducts = async function (n_products) {
       // Efficient aggregation pipeline for sorting and limiting
       let n = Number(n_products)
