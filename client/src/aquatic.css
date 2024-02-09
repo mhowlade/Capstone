@@ -1,6 +1,23 @@
-.aquaticpage {
+/* .aquaticpage {
     width: 100vw;
     height: 100vh;
     background-image: url("C:/Users/wasadmin/Desktop/Git/Capstone/fish.jpg");
     background-size: cover;
+} */
+
+.big-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+.container {
+    display: flex;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
 }

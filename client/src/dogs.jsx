@@ -1,30 +1,38 @@
 import "./dogs.css"
 import CartButton from "./cartbutton";
 
-function Dogs(props) {
+function Dogs({products}) {
 
-  console.log('dog page', props.products)
+  console.log('dog page', products)
+
+  const info = products.filter((products) => products.animal.includes("dog"));
+
+  console.log("dog info sorted", info);
   return (
     <>
-    <div className="dogpage">
-      <h1>Dogs Page</h1>
-      <section id="dogs">
-        <h4>Woof Ryders</h4>
-        {props.products?.map((el, index) => (
-          <div>
-            {/* <a href={"/" + el.name}>{el.name}</a> */}
-            <p>{el.name}</p>
-            <p>{el.age}</p>
-            <p>{el.desc}</p>
-            <p>{el.size}</p>
-            <p>{el.personality}</p>
-            <p>{el.price}</p>
-            <p>{el.image_url}</p>
+      <div className="dogpage">
+        <h1>Dogs Page</h1>
+        <section id="dogs">
+          <h4>Woof Ryders</h4>
+          <div className="big-container">
+            {info?.map((el, index) => (
+              <div className="container" key={el.index}>
+                {/* <a href={"/" + el.name}>{el.name}</a> */}
+                <img src={el.images}></img>
+                <div>
+                  <p>Name: {el.name}</p>
+                  <p>Age: {el.age}</p>
+                  <p>Description: {el.desc}</p>
+                  <p>Size: {el.size}</p>
+                  <p>Personality: {el.personality}</p>
+                  <p>Price: {el.price}</p>
+                </div>
+              </div>
+            ))}
           </div>
-        ))}
-      </section>
-      <CartButton />
-    </div>
+        </section>
+        <CartButton />
+      </div>
     </>
   );
 }

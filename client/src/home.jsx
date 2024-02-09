@@ -1,6 +1,7 @@
 import "./home.css"
 
 function Home(props) {
+  
   return (
     <>
     <div className='homepage'>
@@ -8,7 +9,6 @@ function Home(props) {
       <section>
         <h3>Popular items</h3>
       </section>
-      <hr />
       <section id="categories">
         <h4>All Items</h4>
         <ul>

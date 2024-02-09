@@ -1,18 +1,17 @@
 import CartButton from "./cartbutton";
-import "./aquatic.css"
+import "./birds.css";
 
-function Aquatic({products}) {
+function Birds({products}) {
 
-  const info = products.filter((products) => products.animal.includes("fish"));
+  const info = products.filter((products) => products.animal.includes("bird"));
 
-  console.log("fish info sorted", info);
-
+  console.log("bird info sorted", info);
   return (
     <>
-      <div className="aquaticpage">
-        <h1>Aquatic Page</h1>
-        <section id="aquatics">
-          <h4>Finding your Nemo</h4>
+      <div className="reptilespage">
+        <h1>Reptiles Page</h1>
+        <section id="reptiles">
+          <h4>Fly Fly Fly away</h4>
           <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index}>
@@ -25,15 +24,16 @@ function Aquatic({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
+                  <CartButton purchase ={el._id} />
                 </div>
               </div>
             ))}
           </div>
         </section>
-        <CartButton />
+        
       </div>
     </>
   );
 }
 
-export default Aquatic;
+export default Birds;
