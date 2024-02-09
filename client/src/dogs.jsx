@@ -11,7 +11,7 @@ function Dogs({products}) {
   return (
     <>
       <div className="dogpage">
-        <h1>Dogs Page</h1>
+        
         <section id="dogs">
           <h4>Woof Ryders</h4>
           <div className="big-container">
@@ -26,12 +26,13 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
+                  <CartButton />
                 </div>
               </div>
             ))}
           </div>
         </section>
-        <CartButton />
+        
       </div>
     </>
   );

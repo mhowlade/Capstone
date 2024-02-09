@@ -13,7 +13,7 @@ function Cats({ products }) {
   return (
     <>
       <div className="catpage">
-        <h1> Cat Page</h1>
+    
         <section id="cats">
           <h4>Cuddly Kitties</h4>
           <div className="big-container">
@@ -28,12 +28,13 @@ function Cats({ products }) {
                 <p>Size: {el.size}</p>
                 <p>Personality: {el.personality}</p>
                 <p>Price: {el.price}</p>
+                <CartButton />
                 </div>
             </div>
           ))}
           </div>
         </section>
-        <CartButton />
+        
       </div>
     </>
   );

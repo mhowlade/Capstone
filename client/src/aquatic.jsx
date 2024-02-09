@@ -10,7 +10,7 @@ function Aquatic({products}) {
   return (
     <>
       <div className="aquaticpage">
-        <h1>Aquatic Page</h1>
+      
         <section id="aquatics">
           <h4>Finding your Nemo</h4>
           <div className="big-container">
@@ -25,12 +25,13 @@ function Aquatic({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
+                  <CartButton />
                 </div>
               </div>
             ))}
           </div>
         </section>
-        <CartButton />
+        
       </div>
     </>
   );

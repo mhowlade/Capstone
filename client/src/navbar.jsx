@@ -18,11 +18,11 @@ function Navbar() {
         <Link to="/aquatic" style={{ textDecoration: "none", color: "black" }}>
         <b>Aquatic</b>
         </Link>
-        <Link to="/reptiles" style={{ textDecoration: "none", color: "black" }}>
-        <b>Reptiles</b>
+        <Link to="/birds" style={{ textDecoration: "none", color: "black" }}>
+        <b>Birds</b>
         </Link>
         <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
-        <b>cart</b>
+        <b>Cart</b>
         </Link>
         <SearchFunction />
       </ul>

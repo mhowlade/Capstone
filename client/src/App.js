@@ -37,10 +37,10 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home categories={categories} products={products} />}></Route>
-          <Route path="/dogs" element={<Dogs products={products} />}></Route>
-          <Route path="/cats" element={<Cats products={products} />}></Route>
-          <Route path="/reptiles" element={<Birds products={products} />}></Route>
-          <Route path="/aquatic" element={<Aquatic products={products} />}></Route>
+          <Route path="/Dogs" element={<Dogs products={products} />}></Route>
+          <Route path="/Cats" element={<Cats products={products} />}></Route>
+          <Route path="/Birds" element={<Birds products={products} />}></Route>
+          <Route path="/Aquatic" element={<Aquatic products={products} />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
         </Routes>
     </>

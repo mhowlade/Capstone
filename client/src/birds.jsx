@@ -9,7 +9,7 @@ function Birds({products}) {
   return (
     <>
       <div className="reptilespage">
-        <h1>Reptiles Page</h1>
+        
         <section id="reptiles">
           <h4>Fly Fly Fly away</h4>
           <div className="big-container">
@@ -24,7 +24,8 @@ function Birds({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  <CartButton purchase ={el._id} />
+                  <CartButton  />
+                  {/* purchase ={el._id} */}
                 </div>
               </div>
             ))}
