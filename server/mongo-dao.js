@@ -31,33 +31,29 @@ module.exports.getOrders = function (callback) {
     dataPromise.then((char) => callback(char));
 };
 module.exports.findProductsByCategory = async function(category_id,callback){
-    let prodArray = await products.find({category:ObjectId(category_id)}).toArray();
+    let prodArray = await products.find({category_id:category_id}).toArray();
+    callback(prodArray);
+}
+module.exports.findProductsByAnimal = async function(animal,callback){
+    let prodArray = await products.find({animal:animal}).toArray();
     callback(prodArray);
 }
 module.exports.findPopularProducts = async function (n_products) {
-    try {
       // Efficient aggregation pipeline for sorting and limiting
-      const pipeline = [
+      let n = Number(n_products)
+      let pipeline = [
         {
-          $sort: { popularity: -1 } // Sort descending by popularity
+          $sort: { popularity: -1 } // Sort
         },
         {
-          $limit: n_products // Limit to the desired number of products
+          $limit: n // Limit to the desired number of products
         }
       ];
-  
       // Use aggregation to sort and retrieve products
-      const popularProducts = await products.aggregate(pipeline);
-  
-      // Error handling (optional, but recommended)
-      if (!popularProducts) {
-        throw new Error('API Error retrieving popular products');
+      let prodCursor = products.aggregate(pipeline);
+      let popularProducts = []
+      for await (const doc of prodCursor) {
+        popularProducts.push(doc)
       }
-  
       return popularProducts;
-    } catch (error) {
-      console.error('Error:', error);
-      // Handle errors appropriately, e.g., return an error response
-      return ["ERROR"];
-    }
   };

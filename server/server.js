@@ -56,6 +56,17 @@ app.get("/api/categories/:catid/products", (req, res) => {
         }
     )
 });
+app.get("/api/animals/:animal/products", (req, res) => {
+    dao.findProductsByAnimal(req.params.animal,
+        (data) => {
+            if (!data) {
+                res.status(404).end();
+            } else {
+                res.send(data);
+            }
+        }
+    )
+});
 app.get("/api/popular/:count", (req, res) => {
     dao.findPopularProducts(req.params.count,
         (data) => {
