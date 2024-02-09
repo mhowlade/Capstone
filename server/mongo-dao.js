@@ -31,7 +31,7 @@ module.exports.getOrders = function (callback) {
     dataPromise.then((char) => callback(char));
 };
 module.exports.findProductById = async function(oid,callback){
-    let dataP = await products.find_one({_id:oid});
+    let dataP = await products.findOne({_id:oid});
     callback(dataP);
 };
 module.exports.findProductsByCategory = async function(category_id,callback){
