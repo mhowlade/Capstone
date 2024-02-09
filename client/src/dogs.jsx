@@ -13,8 +13,9 @@ function Dogs({products}) {
 
   function handleSubmit(value){ 
     console.log('onclick value', value) 
+    sessionStorage.setItem('id', value)
     let cartItems = []
-    //Check this
+    // Check this
     let existing = sessionStorage.getItem("cart");
     if (existing)
     {
@@ -42,7 +43,7 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  <button onClick={()=>handleSubmit(index)}>Add to Cart</button>
+                  <button onClick={()=>handleSubmit(el._id)}>Add to Cart</button>
                 </div>
               </div>
             ))}
