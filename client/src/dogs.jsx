@@ -1,7 +1,9 @@
 import "./dogs.css"
 import CartButton from "./cartbutton";
+import { useState, useEffect } from "react";
 
 function Dogs({products}) {
+  let [cartItems, setCartItems] = useState([]);
 
   console.log('dog page', products)
 
@@ -9,19 +11,17 @@ function Dogs({products}) {
 
   console.log("dog info sorted", info);
 
-
-
-  function handleSubmit(value){ 
-    console.log('onclick value', value) 
-    sessionStorage.setItem('id', value)
-    let cartItems = []
-    // Check this
+  useEffect(() => {
     let existing = sessionStorage.getItem("cart");
-    if (existing)
+    if (existing != null)
     {
       cartItems = JSON.parse(existing)
     }
-    cartItems.push(info[value])
+  }, []);
+
+  function handleSubmit(value){ 
+    console.log('onclick value', value) 
+    cartItems.push(value)
     sessionStorage.setItem('cart', JSON.stringify(cartItems))
 
   }
@@ -43,7 +43,11 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  <button onClick={()=>handleSubmit(el._id)}>Add to Cart</button>
+                  {cartItems.some(item => item._id == el._id) ? (
+                    <button onClick={()=>handleSubmit(el)}>Remove from Cart</button>
+                  ):(
+                    <button onClick={()=>handleSubmit(el)}>Add to Cart</button>  
+                  )}
                 </div>
               </div>
             ))}

@@ -44,13 +44,13 @@ app.get("/api/categories", (req, res) => {
             }
         })
 });
-app.get("/api/products/:oid", (req, res) => {
+app.get("/api/products/id/:oid", (req, res) => {
     dao.findProductById(req.params.oid,
-        (oid) => {
-            if (!oid) {
+        (data) => {
+            if (!data) {
                 res.status(404).end();
             } else {
-                res.send(oid);
+                res.send(data);
             }
         })
 });
@@ -99,7 +99,7 @@ app.get("/api/popular/:count", (req, res) => {
     )
 });
 
-const {PythonShell} =require('python-shell');
+//const {PythonShell} =require('python-shell');
  
 //Router to handle the incoming request.
 // app.get("/", (req, res, next)=>{

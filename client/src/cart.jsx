@@ -4,19 +4,15 @@ function Cart() {
   const [checkout, setCheckout] = useState(false);
   const [purchase, setPurchase] = useState()
 
-  useEffect(() => {
-    LoadProduct();
-  }, []);
 
-  let retrievedObject = sessionStorage.getItem('id');
-  console.log(retrievedObject);
 
-  function LoadProduct() {
-    console.log("http://localhost:3000/api/products/" + retrievedObject);
-    fetch("http://localhost:3000/api/products/" + retrievedObject)
-      .then((res) => res.json())
-      .then((data) => setPurchase(data));
+  let cartItems = []
+  let existing = sessionStorage.getItem("cart");
+  if (existing != null)
+  {
+    cartItems = JSON.parse(existing)
   }
+  console.log(cartItems);
 
   console.log('button data fetch', purchase)
   
