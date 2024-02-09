@@ -12,28 +12,39 @@ function Cart() {
   {
     cartItems = JSON.parse(existing)
   }
-  console.log(cartItems);
 
-  console.log('button data fetch', purchase)
+  console.log('cart items', cartItems)
   
   return (
     <>
       <h1>Cart Page</h1>
+      <div>
+        <ul>
+          {cartItems?.map((el, index) => (
+            <>
+            <div>
+              <li>{el.name}</li>
+              <li>{el.price}</li>
+            </div>
+            </>
+          ))}
+        </ul>
+      </div>
       <div style={{ display: checkout ? "block" : "none" }}>
-        <form >
-            <label>
+        <form>
+          <label>
             Name:
             <input type="text" name="name" />
-            </label>
-            <label>
+          </label>
+          <label>
             e-mail:
             <input type="text" name="name" />
-            </label>
-            <label>
+          </label>
+          <label>
             address:
             <input type="text" name="name" />
-            </label>
-            <button>Submit</button>
+          </label>
+          <button>Submit</button>
         </form>
       </div>
       <button onClick={() => setCheckout(!checkout)}>Checkout </button>

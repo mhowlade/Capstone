@@ -1,21 +1,34 @@
-import CartButton from "./cartbutton";
 import "./birds.css";
+import { useState, useEffect } from "react";
 
 function Birds({products}) {
+  let [cartItems, setCartItems] = useState([]);
 
   const info = products.filter((products) => products.animal.includes("bird"));
 
   console.log("bird info sorted", info);
+
+  useEffect(() => {
+    let existing = sessionStorage.getItem("cart");
+    if (existing != null) {
+      cartItems = JSON.parse(existing);
+    }
+  }, []);
+
+  function handleSubmit(value) {
+    console.log("onclick value", value);
+    cartItems.push(value);
+    sessionStorage.setItem("cart", JSON.stringify(cartItems));
+  }
+
   return (
     <>
       <div className="reptilespage">
-        
         <section id="reptiles">
           <h4>Fly Fly Fly away</h4>
           <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index}>
-                {/* <a href={"/" + el.name}>{el.name}</a> */}
                 <img src={el.images}></img>
                 <div>
                   <p>Name: {el.name}</p>
@@ -24,14 +37,20 @@ function Birds({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  <CartButton  />
-                  {/* purchase ={el._id} */}
+                  {cartItems.some((item) => item._id === el._id) ? (
+                    <button onClick={() => handleSubmit(el)}>
+                      Remove from Cart
+                    </button>
+                  ) : (
+                    <button onClick={() => handleSubmit(el)}>
+                      Add to Cart
+                    </button>
+                  )}
                 </div>
               </div>
             ))}
           </div>
         </section>
-        
       </div>
     </>
   );
