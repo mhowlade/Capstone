@@ -8,17 +8,13 @@ function CartButton(){
     // if (purchases != [])
     //     sessionStorage.setlItem("cart", JSON.stringify(purchase))
 
+
     return(
         <>
         <button>
             Add to Cart
         </button>
-        {/* <Link to={"/"}>
-            <button>Keep Shopping</button>
-        </Link>
-        <Link to={"/cart"}>
-            <button>Checkout</button>
-        </Link> */}
+
         </>
     )
 }
