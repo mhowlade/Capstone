@@ -1,19 +1,17 @@
-import "./dogs.css"
 import CartButton from "./cartbutton";
+import "./birds.css";
 
-function Dogs({products}) {
+function Birds({products}) {
 
-  console.log('dog page', products)
+  const info = products.filter((products) => products.animal.includes("bird"));
 
-  const info = products.filter((products) => products.animal.includes("dog"));
-
-  console.log("dog info sorted", info);
+  console.log("bird info sorted", info);
   return (
     <>
-      <div className="dogpage">
+      <div className="reptilespage">
         
-        <section id="dogs">
-          <h4>Woof Ryders</h4>
+        <section id="reptiles">
+          <h4>Fly Fly Fly away</h4>
           <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index}>
@@ -26,7 +24,8 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  <CartButton />
+                  <CartButton  />
+                  {/* purchase ={el._id} */}
                 </div>
               </div>
             ))}
@@ -38,4 +37,4 @@ function Dogs({products}) {
   );
 }
 
-export default Dogs;
+export default Birds;

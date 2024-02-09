@@ -5,7 +5,7 @@ import Home from "./home";
 import Aquatic from "./aquatic";
 import Cats from "./cats";
 import Dogs from "./dogs";
-import Reptiles from "./reptiles";
+import Birds from "./birds";
 import Cart from "./cart";
 import Navbar from "./navbar";
 
@@ -36,11 +36,11 @@ function App() {
     <>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home categories={categories} />}></Route>
-          <Route path="/dogs" element={<Dogs products={products} />}></Route>
-          <Route path="/cats" element={<Cats products={products} />}></Route>
-          <Route path="/reptiles" element={<Reptiles products={products} />}></Route>
-          <Route path="/aquatic" element={<Aquatic products={products} />}></Route>
+          <Route path="/" element={<Home categories={categories} products={products} />}></Route>
+          <Route path="/Dogs" element={<Dogs products={products} />}></Route>
+          <Route path="/Cats" element={<Cats products={products} />}></Route>
+          <Route path="/Birds" element={<Birds products={products} />}></Route>
+          <Route path="/Aquatic" element={<Aquatic products={products} />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
         </Routes>
     </>
