@@ -1,5 +1,4 @@
 import "./dogs.css"
-import CartButton from "./cartbutton";
 import { useState, useEffect } from "react";
 
 function Dogs({products}) {
@@ -34,7 +33,6 @@ function Dogs({products}) {
           <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index}>
-                {/* <a href={"/" + el.name}>{el.name}</a> */}
                 <img src={el.images}></img>
                 <div>
                   <p>Name: {el.name}</p>
@@ -43,7 +41,7 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  {cartItems.some(item => item._id == el._id) ? (
+                  {cartItems.some(item => item._id === el._id) ? (
                     <button onClick={()=>handleSubmit(el)}>Remove from Cart</button>
                   ):(
                     <button onClick={()=>handleSubmit(el)}>Add to Cart</button>  
@@ -53,7 +51,6 @@ function Dogs({products}) {
             ))}
           </div>
         </section>
-        
       </div>
     </>
   );

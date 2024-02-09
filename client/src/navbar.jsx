@@ -24,7 +24,6 @@ function Navbar() {
         <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
         <b>Cart</b>
         </Link>
-        <SearchFunction />
       </ul>
       
     </div>
