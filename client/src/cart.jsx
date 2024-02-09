@@ -1,7 +1,24 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 function Cart() {
   const [checkout, setCheckout] = useState(false);
+  const [purchase, setPurchase] = useState()
+
+  useEffect(() => {
+    LoadProduct();
+  }, []);
+
+  let retrievedObject = sessionStorage.getItem('id');
+  console.log(retrievedObject);
+
+  function LoadProduct() {
+    console.log("http://localhost:3000/api/products/" + retrievedObject);
+    fetch("http://localhost:3000/api/products/" + retrievedObject)
+      .then((res) => res.json())
+      .then((data) => setPurchase(data));
+  }
+
+  console.log('button data fetch', purchase)
   
   return (
     <>
