@@ -1,5 +1,6 @@
 const express = require('express');
 const dao = require("./mongo-dao");
+const pyscript = require('./python_scripts')
 const app = express();
 
 
@@ -99,38 +100,18 @@ app.get("/api/popular/:count", (req, res) => {
     )
 });
 
-//const {PythonShell} =require('python-shell');
- 
-//Router to handle the incoming request.
-// app.get("/", (req, res, next)=>{
-//     //Here are the option object in which arguments can be passed for the python_test.js.
-//     let options = {
-//         mode: 'text',
-//         pythonOptions: ['-u'], // get print results in real-time
-//           scriptPath: 'recommend.py',
-//         args: ['test'] //An argument which can be accessed in the script using sys.argv[1]
-//     };
-     
- 
-//     PythonShell.run('python_test.py', options, function (err, result){
-//           if (err) throw err;
-//           // result is an array consisting of messages collected 
-//           //during execution of script.
-//           console.log('result: ', result.toString());
-//           res.send(result.toString())
-//     });
-// });
-// app.get("/api/recommend", (req, res) => {
-//     dao.findPopularProducts(req.params.count,
-//         (data) => {
-//             if (!data) {
-//                 res.status(404).end();
-//             } else {
-//                 res.send(data);
-//             }
-//         }
-//     )
-// });
+const spawn = require('child_process').spawn
+app.get("/api/tests", (req, res) => {
+    pyscript.runTest(
+        (data) => {
+            if (!data) {
+                res.status(404).end();
+            } else {
+                res.send([data]);
+            }
+        }
+    )
+});
 
 const port = 3000
 console.log("Open a browser to http://localhost:" +port+" to view the application");
