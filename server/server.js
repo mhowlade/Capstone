@@ -100,14 +100,13 @@ app.get("/api/popular/:count", (req, res) => {
     )
 });
 
-const spawn = require('child_process').spawn
-app.get("/api/tests", (req, res) => {
-    pyscript.runTest(
+app.get("/api/recommendations/:oid/:count", (req, res) => {
+    pyscript.runTest(req.params.oid,req.params.count,
         (data) => {
             if (!data) {
                 res.status(404).end();
             } else {
-                res.send([data]);
+                res.send(data);
             }
         }
     )

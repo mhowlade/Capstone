@@ -1,11 +1,9 @@
 const spawn = require('child_process').spawn;
 
-module.exports.runTest = async function(callback){
+module.exports.runTest = async function(oid,n,callback){
 
-    const ls = spawn('python', ['recommend.py', 'test', 'arg2']);
-    let out = ''
+    const ls = spawn('python', ['recommend.py', oid, n]);
     ls.stdout.on('data', (data) => {
-        out = data;
-        callback(data)
+        callback(data.toString())
     });
 }
