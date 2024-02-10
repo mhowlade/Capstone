@@ -22,7 +22,6 @@ function Dogs({products}) {
     console.log('onclick value', value) 
     cartItems.push(value)
     sessionStorage.setItem('cart', JSON.stringify(cartItems))
-
   }
   return (
     <>
