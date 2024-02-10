@@ -1,4 +1,4 @@
-import "./cats.css";
+import "./styles/cats.css";
 import CartButton from "./cartbutton";
 import { useState, useEffect } from "react";
 
