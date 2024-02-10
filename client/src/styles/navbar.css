@@ -1,0 +1,95 @@
+.header {
+  background: linear-gradient(to right, #7aadfa 0%, #def5d8 100%);
+  text-align: center;
+  color: #111f1a;
+  padding: 20px;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
+
+
+.brand {
+  margin: 10px;
+  padding: 15px 35px;
+  text-align: center;
+  transition: 0.2s;
+  background-size: 200% auto;
+  color: rgb(2, 0, 0);            
+  border-radius: 10px;
+}
+         
+.cartcontainer {
+  background-color: #6999ff;
+  margin: 10px;
+  padding: 15px 35px;
+  text-align: center;
+  transition: 0.2s;
+  background-size: 200% auto;
+  color: white;            
+  box-shadow: 0 0 5px #006b12;
+  border-radius: 10px;
+  display: block;
+  position:absolute;
+  top:5%;
+  right:5%;
+}
+
+.cartcontainer:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+.cartcontainer b{
+  color:#eee
+}
+
+/* Categories section styles */
+.categories {
+  background-color:#6ea7fd; /* Semi-transparent background */
+  transition: 0.5s;
+}
+
+/* Category headings */
+h2 {
+  font-size: 2rem;
+  font-weight: normal; /* Adjust weight if desired */
+  margin-bottom: 20px;
+  text-align: center; /* Center heading horizontally */
+}
+
+/* Category list styles */
+ul {
+  display: flex;
+  flex-wrap: wrap; /* Allow categories to wrap on smaller screens */
+  justify-content: space-between; /* Maintain gaps between categories */
+  list-style-type: none;
+  padding: 0;
+}
+
+.categories b {
+  background-image: transparent;
+  margin: 10px;
+  padding: 12px 35px;
+  text-align: center;
+  transition: 0.2s;
+  background-size: 200% auto;
+  border-radius: 2%;
+
+}
+
+.categories b:hover {
+  background-position: right center; /* change the direction of the change here */
+  color: #fff;
+  text-decoration: none;
+}
+
+b:hover {
+  color: #333; /* Optional: Change color on hover */
+}
+

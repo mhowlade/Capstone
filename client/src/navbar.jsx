@@ -1,13 +1,23 @@
 import { Link } from "react-router-dom";
 import SearchFunction from "./searchfunction";
-import "./navbar.css";
+import "./styles/navbar.css";
 
 function Navbar() {
-  return (
-    <div className="navBar">
+  return (<>
+    <div className="header">
+      <div className="brand">
+        <h1>BB Pet Emporium</h1>
+      </div>
+        <div className="cartcontainer">
+        <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
+          <b>Cart</b>
+        </Link>
+        </div>
+    </div>
+    <div className="categories">
       <ul>
         <Link to="/" style={{ textDecoration: "none", color: "black" }}>
-        <b>Home</b>
+        <b>Featured</b>
         </Link>
         <Link to="/dogs" style={{ textDecoration: "none", color: "black" }}>
         <b>Dogs</b>
@@ -21,12 +31,9 @@ function Navbar() {
         <Link to="/birds" style={{ textDecoration: "none", color: "black" }}>
         <b>Birds</b>
         </Link>
-        <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
-        <b>Cart</b>
-        </Link>
       </ul>
-      
     </div>
+    </>
   );
 }
 

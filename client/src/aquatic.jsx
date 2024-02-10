@@ -1,4 +1,4 @@
-import "./aquatic.css"
+import "./styles/aquatic.css"
 import { useState, useEffect } from "react";
 
 function Aquatic({products}) {

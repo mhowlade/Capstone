@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Homepage class styles */
+.homepage {
+  width: 100vw;
+  height: 100vh; /* Adjust height as needed */
+  background-image: url("./images/360_F_282281016_H1uPO6dYx5AsYLTHW5fRyDhSI2xnaYPh.jpg");
+  background-size: cover;
+  background-position: center; /* Center image horizontally and vertically */
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  justify-content: center; /* Center content vertically within viewport */
+  align-items: center; /* Center content horizontally within viewport */
+  color: #fff; /* Default text color */
+}
+
+/* Categories section styles */
+#featured {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  padding: 30px;
+  border-radius: 10px; /* Subtle rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  max-width: 80%; /* Set a maximum width for responsiveness */
+  margin: 0 auto; /* Center the section horizontally */
+}
+
+/* Category headings */
+h2 {
+  font-size: 2rem;
+  font-weight: normal; /* Adjust weight if desired */
+  margin-bottom: 20px;
+  text-align: center; /* Center heading horizontally */
+}
+
+/* Category list styles */
+ul {
+  display: flex;
+  flex-wrap: wrap; /* Allow categories to wrap on smaller screens */
+  justify-content: space-between; /* Maintain gaps between categories */
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Category links */
+a {
+  text-decoration: none;
+  color: #fff; /* Adjust color if desired */
+  font-size: 1.25rem;
+  padding: 10px 20px; /* Add some padding for easier clicking */
+  border: 1px solid transparent; /* Optional: Add subtle border */
+  border-radius: 5px; /* Subtle rounded corners */
+  transition: color 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+a:hover {
+  color: #333; /* Optional: Change color on hover */
+}
+
+/* Category image URLs (Optional) */
+p {
+  font-size: 0.8rem; /* Reduce font size if not displaying image URLs */
+  color: #aaa; /* Lighter color for less prominence */
+}

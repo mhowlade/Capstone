@@ -1,4 +1,4 @@
-import "./dogs.css"
+import "./styles/dogs.css"
 import { useState, useEffect } from "react";
 
 function Dogs({products}) {
@@ -22,7 +22,6 @@ function Dogs({products}) {
     console.log('onclick value', value) 
     cartItems.push(value)
     sessionStorage.setItem('cart', JSON.stringify(cartItems))
-
   }
   return (
     <>

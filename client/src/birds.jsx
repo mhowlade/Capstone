@@ -1,4 +1,4 @@
-import "./birds.css";
+import "./styles/birds.css";
 import { useState, useEffect } from "react";
 
 function Birds({products}) {
