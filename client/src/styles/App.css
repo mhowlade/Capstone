@@ -9,10 +9,11 @@ h5,
 p {
   margin: 0;
   padding: 0;
+  color:black;
 }
 
 :root {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Tahoma, sans-serif;
   --dark1: black;
   --light1: white;
   --dark2: darkblue;
@@ -29,6 +30,11 @@ button {
   padding: 10px;
   border-radius: 5px;
   border: 1px solid var(--dark2);
+}
+
+button:hover{
+  opacity: 60%;
+  cursor:pointer;
 }
 
 input {
@@ -88,40 +94,11 @@ h1#name {
 #generalInfo p {
   padding: 20px;
   margin: 10px;
-  color: var(--dark2);
+  color: black;
   background-color: var(--light2);
 }
 
 #generalInfo span {
   font-weight: bold;
   font-size: 1.1em;
-}
-
-section#planets,
-section#characters,
-section#films {
-  margin: 50px;
-}
-
-section#planets ul,
-section#characters ul,
-section#films ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-section#planets a,
-section#characters a,
-section#films a {
-  display: inline-block;
-  text-decoration: none;
-  font-size: 1.1em;
-
-  background-color: var(--light2);
-  color: var(--dark2);
-  font-weight: bold;
-  padding: 10px;
-  margin: 10px;
-  border-radius: 5px;
-  border: 1px solid var(--dark2);
 }

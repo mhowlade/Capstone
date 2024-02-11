@@ -14,6 +14,7 @@ function Dogs({products}) {
     let existing = sessionStorage.getItem("cart");
     if (existing != null)
     {
+      console.log("cart data exists")
       cartItems = JSON.parse(existing)
     }
   }, []);
@@ -40,7 +41,7 @@ function Dogs({products}) {
                   <p>Size: {el.size}</p>
                   <p>Personality: {el.personality}</p>
                   <p>Price: {el.price}</p>
-                  {cartItems.some(item => item._id === el._id) ? (
+                  {cartItems.includes(el) ? (
                     <button onClick={()=>handleSubmit(el)}>Remove from Cart</button>
                   ):(
                     <button onClick={()=>handleSubmit(el)}>Add to Cart</button>  

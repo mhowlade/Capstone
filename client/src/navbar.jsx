@@ -1,12 +1,16 @@
 import { Link } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import SearchFunction from "./searchfunction";
 import "./styles/navbar.css";
 
 function Navbar() {
+  let uloc = useLocation().pathname
+  uloc = uloc.replace("/","")
+  uloc = uloc.toLocaleUpperCase()
   return (<>
     <div className="header">
       <div className="brand">
-        <h1>BB Pet Emporium</h1>
+        <h1>BB Pet Emporium{(uloc!="")?" | "+ uloc:""}</h1>
       </div>
         <div className="cartcontainer">
         <Link to="/cart" style={{ textDecoration: "none", color: "black" }}>
