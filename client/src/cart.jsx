@@ -1,36 +1,36 @@
+import "./styles/cart.css";
 import { useState, useEffect } from "react";
 
 function Cart() {
   const [checkout, setCheckout] = useState(false);
-  const [purchase, setPurchase] = useState()
-
-
-
   let cartItems = []
   let existing = sessionStorage.getItem("cart");
   if (existing != null)
   {
     cartItems = JSON.parse(existing)
   }
-
   console.log('cart items', cartItems)
   
   return (
     <>
-      <h1>Cart Page</h1>
-      <div>
+      <div className="cart-header">
+       <h1>Cart Page</h1>
+      </div>
+      <div className="cart-products">
         <ul>
           {cartItems?.map((el, index) => (
             <>
             <div>
               <li>{el.name}</li>
               <li>{el.price}</li>
+              <li><img src={el.images} /></li>
+              <li><button className="remove-button">Remove</button></li>
             </div>
             </>
           ))}
         </ul>
       </div>
-      <div style={{ display: checkout ? "block" : "none" }}>
+      <div className="checkout-header" style={{ display: checkout ? "block" : "none" }}>
         <form>
           <label>
             Name:
@@ -47,7 +47,9 @@ function Cart() {
           <button>Submit</button>
         </form>
       </div>
-      <button onClick={() => setCheckout(!checkout)}>Checkout </button>
+      <div className="checkout-header">
+        <button onClick={() => setCheckout(!checkout)} style={{display: checkout ? "none" : "block"}}>Checkout </button>
+      </div>
     </>
   );
 }
