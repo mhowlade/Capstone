@@ -61,6 +61,15 @@ function Cart() {
             </>
           ))}
         </ul>
+        <h2>Based on your purchase you might also like:</h2>
+        <ul>
+          {purchase?.map((el,index) => (
+            <>
+            <img src={el.images}></img>
+            <p>{el.name}</p>
+            </>
+          ))}
+        </ul>
       </div>
       <div className="checkout-header" style={{ display: checkout ? "block" : "none" }}>
         <form>
