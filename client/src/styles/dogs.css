@@ -12,7 +12,21 @@
 }
 
 .container {
-    display: flex;
+    display: table-column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 6px 0;
+}
+.container img{
+    border-radius: 50%;
+}
+.container p{
+    color:black;
+}
+.container:hover {
+    opacity: 90%;
 }
 
 img {

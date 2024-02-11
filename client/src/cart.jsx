@@ -26,20 +26,21 @@ function Cart() {
     sessionStorage.setItem('cart', JSON.stringify(cartItems))
     window.location.reload()
   }
-  function removeProductFromCart(objectId){
+  function removeProductFromCart(object){
     if (cartItems.length == 1){
       cartItems = [];
     }
-    else{cartItems= cartItems.filter(function(val,idx,arr) {console.log("clog"+objectId);return val._id == objectId;})}
+    else{cartItems= cartItems.filter(function(val,idx,arr) {return val !== object;})}
     sessionStorage.setItem("cart",JSON.stringify(cartItems))
     recItems = []
     window.location.reload()
   }
   function clearCart(){
-    cartItems = []
+    if (cartItems?.length>0){cartItems = []
+    recItems=[]
     sessionStorage.setItem("cart",JSON.stringify(cartItems))
     window.location.reload()
-    recItems = []
+    }
   }
 
   return (
@@ -55,7 +56,7 @@ function Cart() {
               <li>Age: {el.age}</li>
               <li>${el.price}</li>
               <li><img src={el.images} /></li>
-              <li><button className="remove-button" onClick={()=>(removeProductFromCart(el._id))}>Remove</button></li>
+              <li><button className="remove-button" onClick={()=>(removeProductFromCart(el))}>Remove</button></li>
             </div>
             </>
           ))}
@@ -80,7 +81,7 @@ function Cart() {
       </div>
       <div className="checkout-header" >
         {cartItems.length>0?<>
-        <h1>Cart total: {priceTotal}</h1>
+        <h1>Cart total: ${priceTotal}</h1>
         <button style={{ display: checkout ? "none" : "block" }} onClick={() => setCheckout(!checkout)}>Checkout </button>
         <button onClick={() => clearCart()}>Clear Cart</button></>:'Your cart is empty!'}
       </div>

@@ -1,0 +1,14 @@
+.details {
+    display:inline-block;
+    align-self: center;
+    gap: 20px;
+}
+.details .container{
+    align-self: center;
+    right:40%;
+    position: absolute;
+
+}
+.details .container img{
+    border-radius: 90%;
+}

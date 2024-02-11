@@ -8,6 +8,7 @@ import Dogs from "./dogs";
 import Birds from "./birds";
 import Cart from "./cart";
 import Navbar from "./navbar";
+import Details from "./details";
 
 function App() {
   const [products, setProducts] = useState([]);
@@ -41,6 +42,7 @@ function App() {
           <Route path="/Cats" element={<Cats products={products} />}></Route>
           <Route path="/Birds" element={<Birds products={products} />}></Route>
           <Route path="/Aquatic" element={<Aquatic products={products} />}></Route>
+          <Route path="/Details" element={<Details />}></Route>
           <Route path="/cart" element={<Cart />}></Route>
         </Routes>
     </>

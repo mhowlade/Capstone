@@ -1,5 +1,6 @@
 import "./styles/cats.css";
 import CartButton from "./cartbutton";
+import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 
 function Cats({ products }) {
@@ -26,31 +27,25 @@ function Cats({ products }) {
     cartItems.push(value)
     sessionStorage.setItem('cart', JSON.stringify(cartItems))
   }
+  function setSelected(value){
+    sessionStorage.setItem('selected',JSON.stringify(value))
+  }
   return (
     <>
       <div className="catpage">
     
         <section id="cats">
-          <h4>Cuddly Kitties</h4>
-          <div className="big-container">
-          {info?.map((el, index) => (
-            <div className="container" key={el.index}>
-              <img src={el.images}></img> 
-                <div>
-                <p>Name: {el.name}</p>
-                <p>Age: {el.age}</p>
-                <p>Description: {el.desc}</p>
-                <p>Size: {el.size}</p>
-                <p>Personality: {el.personality}</p>
-                <p>Price: {el.price}</p>
-                {cartItems.some(item => item._id === el._id) ? (
-                  <button onClick={()=>handleSubmit(el)}>Remove from Cart</button>
-                ):(
-                  <button onClick={()=>handleSubmit(el)}>Add to Cart</button>
-                )}
-                </div>
-            </div>
-          ))}
+        <div className="big-container">
+            {info?.map((el, index) => (
+              <div className="container" key={el.index} onClick={()=>{setSelected(el)}}>
+                <Link to="/details">
+                  <img src={el?.images}></img>
+                  <p>Name: {el?.name}</p>
+                  <p>Age: {el?.age}</p>
+                  <p>${el?.price}</p>
+                  </Link>
+              </div>
+            ))}
           </div>
         </section>
         
