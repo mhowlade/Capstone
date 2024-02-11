@@ -1,4 +1,7 @@
 # Backlog
+- remove from cart is bugged
+- - causes other objects to be removed from cart, rather than clicked
+- remove from cart / already in cart state not working
 - add try catch to api functions (crash on false route)
 
 
