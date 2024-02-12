@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+import { Link } from "react-router-dom";
 function SearchFunction(){
     const [searchTerm, setSearchTerm] = useState('');
     const [products, setProducts] = useState([]);
@@ -24,7 +24,9 @@ function SearchFunction(){
     setInfo(infoD);} 
     
     }
-
+    function setSelected(value){
+        sessionStorage.setItem('selected',JSON.stringify(value))
+      }
     function handleSubmit(event){
         event.preventDefault();
         setSearchTerm(event.target.value)
@@ -55,11 +57,13 @@ function SearchFunction(){
         <ul>
           {searchResults?.map((el, index) => (
             <>
-            <div className="product-container">
-              <li>{el.name}</li>
-              <li>Age: {el.age}</li>
-              <li>${el.price}</li>
-              <li><img src={el.images} /></li>
+            <div className="product-container" onClick={()=>(setSelected(el))}>
+            <Link to="/details" style={{ textDecoration: "none", color: "black" }}><>
+                  <img src={el?.images}></img>
+                  <p>Name: {el?.name}</p>
+                  <p>Age: {el?.age}</p>
+                  <p>${el?.price}</p></>
+                  </Link>
             </div>
             </>
           ))}
