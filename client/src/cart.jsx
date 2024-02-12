@@ -38,7 +38,7 @@ function Cart() {
     }
     else{cartItems= cartItems.filter(function(val,idx,arr) {return val !== object;})}
     sessionStorage.setItem("cart",JSON.stringify(cartItems))
-    recItems = []
+    setRecItems([])
     //window.location.reload()
   }}
   function clearCart(){
