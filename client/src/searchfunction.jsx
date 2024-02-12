@@ -35,10 +35,9 @@ function SearchFunction(){
 
     async function searchProduct(){
         const results = info.filter((product) =>{
+            console.log(searchTerm);
             if(
-                product.name.includes(searchTerm) ||
-                product.age.toString().includes(searchTerm) ||
-                product.price.toString().includes(searchTerm)){
+                JSON.stringify(product).toLowerCase().includes(searchTerm)){
                     return true
                 }
             }); console.log(results);setSearchResults(results); 
@@ -49,7 +48,7 @@ function SearchFunction(){
         <div className="search-wrap">
         <form className="search" onSubmit={handleSubmit}>
             <label></label>
-            <input type='text' value={searchTerm} placeholder= 'Search' onChange={(event) => setSearchTerm(event.target.value)}/>
+            <input type='text' value={searchTerm} placeholder= 'Search' onChange={(event) => setSearchTerm(event.target.value.toLowerCase())}/>
             <button onClick={(e)=>(searchProduct())}>Search</button>
         </form>
         
