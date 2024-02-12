@@ -1,14 +1,19 @@
 .details {
     display:inline-block;
     align-self: center;
+    font-size: larger;
     gap: 20px;
 }
 .details .container{
     align-self: center;
     right:40%;
     position: absolute;
-
 }
-.details .container img{
-    border-radius: 90%;
+
+.details .container img {
+    /* Increased image size */
+    width: 250px;
+    height: 200px;
+    /* Add shadow for depth */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
