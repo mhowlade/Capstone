@@ -30,6 +30,7 @@ function Home(props) {
               <li>${el.price}</li>
               <li><img src={el.images} /></li>
               </Link>
+              
             </div>
             </>
           ))}

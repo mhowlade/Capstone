@@ -43,17 +43,16 @@ module.exports.findRecommendedProducts = async function(oid,count,callback){
 }
 
 module.exports.findPopularProducts = async function (n_products,callback) {
-      // Efficient aggregation pipeline for sorting and limiting
+      // Aggregation pipeline
       let n = Number(n_products)
       let pipeline = [
         {
-          $sort: { popularity: -1 } // Sort
+          $sort: { popularity: -1 }
         },
         {
-          $limit: n // Limit to the desired number of products
+          $limit: n // desired number of products
         }
       ];
-      // Use aggregation to sort and retrieve products
       let prodCursor = await products.aggregate(pipeline);
       let popularProducts = [];
       for await (const doc of prodCursor) {
