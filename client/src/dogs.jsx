@@ -39,6 +39,7 @@ function Dogs({products}) {
     <>
       <div className="dogpage">
         <section id="dogs">
+        <h1>More wags per square foot</h1>
           <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index}>

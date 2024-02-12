@@ -35,6 +35,7 @@ function Cats({ products }) {
       <div className="catpage">
     
         <section id="cats">
+        <h2>Where cats choose their humans</h2>
         <div className="big-container">
             {info?.map((el, index) => (
               <div className="container" key={el.index} onClick={()=>{setSelected(el)}}>
