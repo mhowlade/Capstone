@@ -1,6 +1,4 @@
-const mongodb = require("mongodb");
 const {MongoClient} = require('mongodb');
-
 const url = "mongodb+srv://admin:capstoneproject@cluster0.vzztiaj.mongodb.net/";
 const dbName = "capstonedb";
 
@@ -8,15 +6,12 @@ let categories;
 let products;
 let orders;
 
-async function startup() {
-    let client = new MongoClient(url);
-    await client.connect();
-    var db = client.db(dbName)
-    categories = db.collection("categories");
-    products = db.collection("products");
-    orders = db.collection("orders");
-}
-startup();
+let client = new MongoClient(url);
+client.connect();
+var db = client.db(dbName)
+categories = db.collection("categories");
+products = db.collection("products");
+orders = db.collection("orders");
 
 module.exports.getCategories = function (callback) {
     let dataPromise = categories.find({}).toArray();
@@ -47,7 +42,7 @@ module.exports.findRecommendedProducts = async function(oid,count,callback){
     callback(prodArray);
 }
 
-module.exports.findPopularProducts = async function (n_products) {
+module.exports.findPopularProducts = async function (n_products,callback) {
       // Efficient aggregation pipeline for sorting and limiting
       let n = Number(n_products)
       let pipeline = [
@@ -59,10 +54,31 @@ module.exports.findPopularProducts = async function (n_products) {
         }
       ];
       // Use aggregation to sort and retrieve products
-      let prodCursor = products.aggregate(pipeline);
-      let popularProducts = []
+      let prodCursor = await products.aggregate(pipeline);
+      let popularProducts = [];
       for await (const doc of prodCursor) {
-        popularProducts.push(doc)
+        popularProducts.push(doc);
       }
-      return popularProducts;
+      popularProducts.forEach(prod => {
+        prod._id = prod._id.toString();
+        prod.released = prod.released.toString();
+      });
+      callback(JSON.stringify(popularProducts));
   };
+
+module.exports.uploadOrder = async function(req,callback){
+    let body = req;
+    let orderInfo = {};
+    if(body){
+        orderInfo = body;
+    }
+    const prodIds = [];
+    orderInfo?.products?.forEach(prod => {
+      prodIds.push(prod._id);
+      delete prod._id;
+    });
+    let record = orderInfo;
+    record.products = prodIds;
+    await orders.insertOne(record,function(err,res){console.log(err)});
+    callback(record);
+}

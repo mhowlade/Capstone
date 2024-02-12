@@ -3,7 +3,6 @@ const dao = require("./mongo-dao");
 const pyscript = require('./python_scripts')
 const app = express();
 
-
 app.use((req, res, next)=>{
     res.setHeader(
         "Access-Control-Allow-origin",
@@ -107,6 +106,18 @@ app.get("/api/recommendations/:oid/:count", (req, res) => {
                 res.status(404).end();
             } else {
                 res.send(data);
+            }
+        }
+    )
+});
+
+app.post("/api/purchase", (req, res) => {
+    dao.uploadOrder(req.body,
+        (data) => {
+            if (!data) {
+                res.status(404).end();
+            } else {
+                res.send("Done");
             }
         }
     )
