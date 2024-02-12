@@ -6,6 +6,8 @@ function Aquatic({products}) {
   let [cartItems, setCartItems] = useState([]);
 
   const info = products.filter((products) => products.animal.includes("fish"));
+  sessionStorage.setItem("displayed_prod", JSON.stringify(info));
+  sessionStorage.setItem("display_type", "fish");
 
   console.log("fish info sorted", info);
 

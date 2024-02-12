@@ -6,8 +6,12 @@ function Dogs({products}) {
   let [cartItems, setCartItems] = useState([]);
 
   console.log('dog page', products)
+  let displayed = sessionStorage.getItem("display_type")
+  
 
   const info = products.filter((products) => products.animal.includes("dog"));
+  sessionStorage.setItem("displayed_prod", JSON.stringify(info))
+  sessionStorage.setItem("display_type", "dog")
 
   console.log("dog info sorted", info);
 

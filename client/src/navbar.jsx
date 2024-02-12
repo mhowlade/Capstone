@@ -40,6 +40,7 @@ function Navbar() {
         <b>Birds</b>
         </Link>
       </ul>
+      <SearchFunction/>
     </div>
     </>
   );
