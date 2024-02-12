@@ -17,10 +17,10 @@ function Navbar() {
           <b>Cart</b>
         </Link>
         </div>
-        <iframe width="170" height="95"
+        {/* <iframe width="170" height="95"
       src="https://www.youtube.com/embed/5bA-dbdDXT4?autoplay=1&mute=1&loop=1">
         <h3>Wubba Kong Dog Toys!</h3>
-      </iframe>
+      </iframe> */}
     </div>
     <div className="categories">
       <ul>
@@ -40,6 +40,7 @@ function Navbar() {
         <b>Birds</b>
         </Link>
       </ul>
+      <SearchFunction/>
     </div>
     </>
   );

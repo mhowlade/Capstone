@@ -7,6 +7,8 @@ function Birds({products}) {
   let [cartItems, setCartItems] = useState([]);
 
   const info = products.filter((products) => products.animal.includes("bird"));
+  sessionStorage.setItem("displayed_prod", JSON.stringify(info));
+  sessionStorage.setItem("display_type", "bird");
 
   console.log("bird info sorted", info);
 

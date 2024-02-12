@@ -14,6 +14,9 @@ function Home(props) {
   function setSelected(value){
     sessionStorage.setItem('selected',JSON.stringify(value))
   }
+
+  sessionStorage.setItem("displayed_prod", JSON.stringify(props.products));
+  sessionStorage.setItem("display_type", "");
   return (
     <>
     <div className='homepage'>

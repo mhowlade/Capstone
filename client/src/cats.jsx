@@ -11,6 +11,8 @@ function Cats({ products }) {
   const info = products.filter((products) =>
     products.animal.includes("cat")
   );
+  sessionStorage.setItem("displayed_prod", JSON.stringify(info));
+  sessionStorage.setItem("display_type", "cat");
 
   console.log("cat info sorted", info);
 

@@ -106,3 +106,24 @@ h1#name {
 .details{
   align-items: center;
 }
+
+.search{
+  display: none;
+  align-items: center;
+  align-content: center;
+  position:relative;
+  left:2%;
+}
+.search-products{
+  display:none;
+}
+.categories:hover .search{
+  display:block;
+}
+.categories:hover .search-products{
+  display:block;
+}
+.search button{
+  position:relative;
+  left:45%;
+}
