@@ -42,9 +42,10 @@ function Cart() {
     //window.location.reload()
   }}
   function clearCart(){
-    if (cartItems?.length>0){cartItems = []
-    recItems=[]
+    if (cartItems?.length>0){
+    cartItems = [];
     sessionStorage.setItem("cart",JSON.stringify(cartItems))
+    setRecItems([]);
     //window.location.reload()
     }
   }
