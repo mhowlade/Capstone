@@ -7,9 +7,8 @@ function SearchFunction(){
     const [searchResults, setSearchResults] = useState([]);
     let [info, setInfo] = useState([]);
     
-    useEffect(() => {
-        GetInfo()
-    }, []);
+    useEffect(() => {GetInfo();
+    }, [searchTerm]);
 
     function GetInfo(){
     let productsdata = sessionStorage.getItem("displayed_prod")
@@ -31,7 +30,6 @@ function SearchFunction(){
         setSearchTerm(event.target.value)
         searchProduct()
     }
-
 
     async function searchProduct(){
         const results = info.filter((product) =>{

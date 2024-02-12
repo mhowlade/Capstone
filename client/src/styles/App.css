@@ -112,16 +112,24 @@ h1#name {
   align-items: center;
   align-content: center;
   position:relative;
+  transition-duration: 1s;
+  opacity: 0%;
   left:2%;
 }
 .search-products{
   display:none;
+  opacity: 0%;
+  transition-duration: 1s;
 }
 .categories:hover .search{
   display:block;
+  opacity: 90%;
+  transition-duration: 1s;
 }
 .categories:hover .search-products{
   display:block;
+  opacity: 90%;
+  transition-duration: 1s;
 }
 .search button{
   position:relative;
